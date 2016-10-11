@@ -1,0 +1,45 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Macaw AI
+tagline:             Its a jungle out there.
+url:                 http://macawai.github.io
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Michael Anderson & Clint Walker
+  url:               https://macawai.github.io
+  email:             themacawai@gmail.com
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/poole/poole
+
+# Collections
+#collections:
+#  news: { output: true, permalink: "/news/:path/" }
+#  research: { output: true, permalink: "/research/:path/" }
+#  events: { output: true, permalink: "/events/:path/" }
+#  resources: { output: true, permalink: "/resources/:path/" }
+
+collections:
+  - news
+  - research
+  - events
+  - resources
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist

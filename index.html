@@ -1,6 +1,72 @@
-<html>
-<body>
-<h1>Macaw AI</h1>
-Coming soon
-</body>
-</html>
+---
+layout: default
+title: Home
+---
+
+<div>
+  <h1><a href="/news">News</a></h1>
+  {% for newsitem in site.news %}
+  <article>
+    <h2>{{newsitem.title}}</h2>
+    <a href="{{newsitem.source}}">source</a>
+    <div>
+        {{ newsitem.excerpt }}
+    </div>
+    {% if newsitem.long %}
+    <div><a href="{{newsitem.url}}">Read More...</a></div>
+    {% endif %}
+  </article>
+  {% endfor %}
+</div>
+
+<div>
+  <h1>Research</h1>
+  <p>Of particular interest this past week, we saw:</p>
+  <ul>
+    {% for r in site.research %}
+    <li><a href="{{r.source}}">{{r.title}}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div>
+  <h1>Posts</h1>
+  {% for post in site.posts %}
+  <article>
+    <h2>{{post.title}}</h2>
+    <div>
+        {{ post.excerpt }}
+    </div>
+    <div><a href="{{post.url}}">Read More...</a></div>
+  </article>
+  {% endfor %}
+</div>
+
+<div class="posts">
+  {% for post in paginator.posts %}
+  <article class="post">
+    <h1 class="post-title">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+
+    {{ post.content }}
+  </article>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
