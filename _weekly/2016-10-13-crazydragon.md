@@ -2,6 +2,7 @@
 layout: weekly
 thisweek: Thu, 13 Oct 2016
 thisweekid: crazydragon
+thisweektitle: Graph power and the State of AI
 lastweekid: alphaflag
 nextweekid:
 ---

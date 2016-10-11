@@ -24,6 +24,9 @@ layout: splash
   {% endif %}
 {% endfor %}
 
+{% if current.thisweektitle != empty %}
+  <h3>{{current.thisweektitle}}</h3>
+{% endif %}
 <h1>Weekly: <a href="{{ current.url }}">{{current.thisweek}}</a></h1>
 
 <hr>
@@ -36,7 +39,7 @@ layout: splash
 {% endif %}
 
 <div>
-  <h1><a href="/news">News</a></h1>
+  <h1><a href="/news">Top Stories</a></h1>
   {% for newsitem in site.news reversed %}
     {% if newsitem.thisweekid == page.thisweekid %}
     <article>
@@ -52,25 +55,31 @@ layout: splash
   {% endfor %}
 </div>
 
+{% assign hasres = false %}
+{% for r in site.research %}
+  {% if r.thisweekid == page.thisweekid %}
+    {% assign hasres = true %}
+  {% endif %}
+{% endfor %}
+
+{% if hasres %}
 <div>
   <h1>Research</h1>
   <p>Of particular interest this past week, we saw:</p>
   <ul>
-    {% assign hasres = false %}
     {% for r in site.research %}
       {% if r.thisweekid == page.thisweekid %}
-        {% assign hasres = true %}
         <li><a href="{{r.source}}">{{r.title}}</a></li>
         {% if r.long %}
         <div><a href="{{r.url}}">Read More...</a></div>
         {% endif %}
       {% endif %}
     {% endfor %}
-    {% if hasres == false %}
-      <li>Pretty much nothing..</li>
-    {% endif %}
   </ul>
 </div>
+{% else %}
+<div>Pretty much no research this week..</div>
+{% endif %}
 
 <div class="pagination">
 
