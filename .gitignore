@@ -1,2 +1,6 @@
 .DS_Store
 .sass-cache
+
+# Directory is built automatically by Jekyll/GH
+# Remove only after we add unsupported plugins
+_site
