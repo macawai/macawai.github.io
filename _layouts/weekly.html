@@ -1,0 +1,89 @@
+---
+layout: splash
+---
+
+{% comment %}
+  - First, fetch the current week as `current`
+  - Then, use its next/last fields to reference those weeks
+
+  Can't use paginator, only works for "posts"
+{% endcomment %}
+
+{% for week in site.weekly reversed %}
+  {% if week.thisweekid == page.thisweekid %}
+    {% assign current = week %}
+  {% endif %}
+{% endfor %}
+
+{% assign cmt = "Then use this to acquire the prev + next weeks for paging" %}
+{% for week in site.weekly reversed %}
+  {% if week.thisweekid == current.lastweekid %}
+    {% assign lastweek = week %}
+  {% endif %}
+  {% if week.thisweekid == current.nextweekid %}
+    {% assign nextweek = week %}
+  {% endif %}
+{% endfor %}
+
+<h1>Weekly for: <a href="{{ current.url }}">{{current.thisweek}}</a></h1>
+
+<div>
+  <h1><a href="/news">News</a></h1>
+  {% for newsitem in site.news reversed %}
+    {% if newsitem.thisweekid == page.thisweekid %}
+    <article>
+      <h2>
+        <a href="{{newsitem.source}}" target="_blank" rel="noopener">
+          {{newsitem.title}}
+        </a>
+      </h2>
+      <div>{{newsitem.content}}</div>
+
+    </article>
+    {% endif %}
+  {% endfor %}
+</div>
+
+<div>
+  <h1>Research</h1>
+  <p>Of particular interest this past week, we saw:</p>
+  <ul>
+    {% assign hasres = false %}
+    {% for r in site.research %}
+      {% if r.thisweekid == page.thisweekid %}
+        {% assign hasres = true %}
+        <li><a href="{{r.source}}">{{r.title}}</a></li>
+        {% if r.long %}
+        <div><a href="{{r.url}}">Read More...</a></div>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    {% if hasres == false %}
+      <li>Pretty much nothing..</li>
+    {% endif %}
+  </ul>
+</div>
+
+<div class="pagination">
+
+  <div>Dev helper:</div>
+  {% for week in site.weekly reversed %}
+    <div>
+      {{week.thisweekid}} - {{week.url}}
+      {% if week.thisweekid == page.thisweekid %}
+        <b>Current!</b>
+      {% endif %}
+    </div>
+  {% endfor %}
+
+  {% if lastweek %}
+    <a class="pagination-item older" href="{{ lastweek.url | prepend: site.baseurl }}">Previous Weekly</a>
+  {% else %}
+    <span class="pagination-item older">Previous Weekly</span>
+  {% endif %}
+  {% if nextweek %}
+    <a class="pagination-item newer" href="{{ nextweek.url | prepend: site.baseurl }}">Next Weekly</a>
+  {% else %}
+    <span class="pagination-item newer">&nbsp;</span>
+  {% endif %}
+</div>

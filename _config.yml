@@ -3,7 +3,7 @@ permalink:           pretty
 
 # Setup
 title:               Macaw AI
-tagline:             Its a jungle out there.
+tagline:             It's a jungle out there
 url:                 http://macawai.github.io
 paginate:            1
 baseurl:             ""
@@ -34,10 +34,12 @@ github:
 #  resources: { output: true, permalink: "/resources/:path/" }
 
 collections:
-  - news
-  - research
-  - events
-  - resources
+  news:
+  research:
+  events:
+  resources:
+  weekly:
+    output: true
 
 # Gems
 gems:
