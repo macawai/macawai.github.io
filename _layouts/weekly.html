@@ -15,7 +15,6 @@ layout: splash
   {% endif %}
 {% endfor %}
 
-{% assign cmt = "Then use this to acquire the prev + next weeks for paging" %}
 {% for week in site.weekly reversed %}
   {% if week.thisweekid == current.lastweekid %}
     {% assign lastweek = week %}
@@ -25,7 +24,16 @@ layout: splash
   {% endif %}
 {% endfor %}
 
-<h1>Weekly for: <a href="{{ current.url }}">{{current.thisweek}}</a></h1>
+<h1>Weekly: <a href="{{ current.url }}">{{current.thisweek}}</a></h1>
+
+<hr>
+
+{% if current.content != empty %}
+<div>
+  {{ current.content }}
+  <hr>
+</div>
+{% endif %}
 
 <div>
   <h1><a href="/news">News</a></h1>
