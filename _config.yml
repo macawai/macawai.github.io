@@ -43,6 +43,7 @@ collections:
 
 exclude:
   - scripts
+  - README.md
 
 # Gems
 gems:
