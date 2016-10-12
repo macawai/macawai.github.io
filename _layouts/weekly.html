@@ -70,6 +70,9 @@ layout: splash
     {% for r in site.research %}
       {% if r.thisweekid == page.thisweekid %}
         <li><a href="{{r.source}}">{{r.title}}</a></li>
+        {% if r.snippet %}
+        <div>{{r.snippet | markdownify}}</div>
+        {% endif %}
         {% if r.long %}
         <div><a href="{{r.url}}">Read More...</a></div>
         {% endif %}
