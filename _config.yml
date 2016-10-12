@@ -20,18 +20,8 @@ author:
   url:               https://macawai.github.io
   email:             themacawai@gmail.com
 
-# Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/poole/poole
 
 # Collections
-#collections:
-#  news: { output: true, permalink: "/news/:path/" }
-#  research: { output: true, permalink: "/research/:path/" }
-#  events: { output: true, permalink: "/events/:path/" }
-#  resources: { output: true, permalink: "/resources/:path/" }
-
 collections:
   news:
   research:
@@ -43,6 +33,9 @@ collections:
 exclude:
   - scripts
   - README.md
+
+include:
+  - _pages
 
 # Gems
 gems:
