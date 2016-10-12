@@ -41,6 +41,9 @@ collections:
   weekly:
     output: true
 
+exclude:
+  - scripts
+
 # Gems
 gems:
   - jekyll-paginate
