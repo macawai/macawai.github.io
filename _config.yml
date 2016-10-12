@@ -39,4 +39,5 @@ include:
 
 # Gems
 gems:
+  - octopress-paginate
   - jekyll-gist
