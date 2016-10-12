@@ -5,7 +5,6 @@ permalink:           pretty
 title:               Macaw AI
 tagline:             It's a jungle out there
 url:                 http://macawai.github.io
-paginate:            1
 baseurl:             ""
 
 # Assets
@@ -47,5 +46,4 @@ exclude:
 
 # Gems
 gems:
-  - jekyll-paginate
   - jekyll-gist
