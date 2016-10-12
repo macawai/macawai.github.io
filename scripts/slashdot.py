@@ -21,8 +21,8 @@ def rssxpath(e, path):
 
 
 
-#xml = etree.parse(urllib2.urlopen("http://rss.slashdot.org/Slashdot/slashdotMain"))
-xml = etree.parse(open("example_slashdot.rss","r"))
+xml = etree.parse(urllib2.urlopen("http://rss.slashdot.org/Slashdot/slashdotMain"))
+#xml = etree.parse(open("example_slashdot.rss","r"))
 
 root = xml.getroot()
 print(root)
@@ -36,9 +36,9 @@ for e in rdf :
     print(e)
 
 if len(sys.argv) > 1:
-    outdir =  sys.argv[1] 
+    outdir =  sys.argv[1]
 else:
-    outdir = "default"
+    outdir = "_leads"
 
 try:
     os.mkdir( outdir )
@@ -49,30 +49,39 @@ r = re.compile(r"https://(\w+)\.slashdot\.org/story/(\d+)/(\d+)/(\d+)/(\d+)/([\w
 for e in entries :
     # TODO: Use this to generate the output directory
     link = rssxpath(e, "./rss:link/text()")[0]
-    #TODO: CLean the extra cruft out of the link (?utm_source=rss1.0mainlinkanon&utm_medium=feed) 
+    #TODO: CLean the extra cruft out of the link (?utm_source=rss1.0mainlinkanon&utm_medium=feed)
     link = re.sub("\?.*","",link,0,re.DOTALL)
 
     g = r.match(link)
     if not g :
         print("Unable to parse id for "+link)
         continue
-    idx = "slashdot-%s-%s-%s-%s-%s" % ( g.group(2), g.group(3), g.group(4), g.group(5), g.group(6) )
-    print("Processing "+idx)
-    # TODO: Check the file doesn't already exist!
-    if os.path.exists(outdir + "/" + idx + ".md"):
-        print( "Already have an entry for " + idx )
+    filename = "20%s-%s-%s-slashdot-%s-%s.md" % ( g.group(2), g.group(3), g.group(4), g.group(5), g.group(6) )
+
+    print("Processing "+filename)
+    if os.path.exists(outdir + "/" + filename):
+        print( "Already have an entry for " + filename )
         continue
-    f=open(outdir + "/" + idx + ".md", "w")
-    
-    f.write( "# " + rssxpath(e,"./rss:title/text()")[0].replace("\n"," " ) + "\n" )
-    f.write( link + "\n" )
+    # TODO: Need to filter these based on their content!
+    f=open(outdir + "/" + filename, "w")
+#    url = axpath(e, "./Atom:link[@type='application/pdf']/@href")[0]
+    f.write("---\n")
+    f.write("title: \""+encodings.utf_8.encode(rssxpath(e,"./rss:title/text()")[0])[0].replace("\n"," " )+"\"\n")
+    f.write("source: \"" + link + "\"\n")
+#    f.write("authors:\n")
+#    for a in axpath(e, "./Atom:author/Atom:name/text()"):
+#        f.write("  - \"" + encodings.utf_8.encode(a)[0] + "\"\n")
+
+    f.write("tags:\n")
+    f.write("  - slashdot\n")
+    f.write("  - needs-commentary\n")
+#    # TODO: Get the thisweekid better!
+    f.write("thisweekid: crazydragon\n")
+    f.write("---\n")
+
     description = rssxpath(e, "./rss:description/text()")
     # Slashdot adds a whole lot of cruft at the end of the RSS description
     # Lets trim it out.
-    description = re.sub("<p>.*","",description[0],0, re.DOTALL) 
-    # TODO: Prep this with leading > marks
-    description = re.sub("^", "> ", description,0, re.MULTILINE) 
+    description = re.sub("<p>.*","",description[0],0, re.DOTALL)
+    description = re.sub("^", "> ", description,0, re.MULTILINE)
     f.write( encodings.utf_8.encode(description)[0] )
-
-    ### print( "\n" )
-    ###print( axpath(e, "./Atom:summary/text()")[0] + "\n" )
