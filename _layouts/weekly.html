@@ -31,9 +31,9 @@ layout: splash
 
 <hr>
 
-{% if current.content != empty %}
+{% if current.text != empty %}
 <div>
-  {{ current.content }}
+  {{ current.text.intro | markdownify }}
   <hr>
 </div>
 {% endif %}
@@ -126,6 +126,9 @@ layout: splash
 {% if hasres %}
 <div>
   <h1 class="section-header">Research</h1>
+  {% if current.text.research != empty %}
+    {{ current.text.research | markdownify }}
+  {% endif %}
   <ul>
     {% for r in site.research %}
       {% if r.thisweekid == page.thisweekid %}
@@ -185,6 +188,19 @@ layout: splash
   {% endif %}
 </div>
 
+
+{% comment %}
+  # --------
+  # Optional footer
+  # --------
+{% endcomment %}
+
+{% if current.text.outro != empty %}
+<h1 class="section-header">The Final Word</h1>
+<div>
+  {{ current.text.outro | markdownify }}
+</div>
+{% endif %}
 
 <div class="pagination">
 
