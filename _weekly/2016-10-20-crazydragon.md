@@ -12,4 +12,9 @@ text:
     So this week, seriously, the question on everyone's mind is just this: "What are you going to do Jerry?". And the only acceptable answer is: "Show me the monkey! SHOW MEEEE THE MONKEEEEYYYY!"
   outro: |
     Sometimes, y'know, you just gotta have a last word. Dude's walking away, and it's over, but hey, why not throw one last comment in there, just to see what might happen. That's right, Y TU MAMA TAMBIEN!!! _(This is of course entirely optional...)_
+sponsors:
+  footer:
+    - herpaderp
+    - mccookies
+    - circlesquare
 ---

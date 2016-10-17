@@ -202,6 +202,29 @@ layout: splash
 </div>
 {% endif %}
 
+
+{% comment %}
+  # --------
+  # Footer SPONSORSHIP
+  # --------
+{% endcomment %}
+
+{% if current.sponsors.footer %}
+<div>
+  <h1 class="section-header">Partners</h1>
+  {% for spnid in current.sponsors.footer %}
+    {% assign sponsor = site.data.sponsors[spnid] %}
+    {% if sponsor %}
+    <a href="{{sponsor.link}}" target="_blank" rel="noopener">{{sponsor.name}}</a>
+    {% if forloop.last != true %}&nbsp;|{% endif %}
+    {% else %}
+    <span style="background-color: red">Add <b>{{spnid}}</b> to /_data/sponsors.yml</span>
+    {% endif %}
+  {% endfor %}
+</div>
+{% endif %}
+
+
 <div class="pagination">
 
   {% comment %}
