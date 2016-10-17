@@ -86,6 +86,12 @@ layout: splash
 
 <div class="pagination">
 
+  {% comment %}
+
+  17 Oct 16:
+  DISABLING the reverse chron listing of Weekly releases.
+  Next step: Style and use as archive backlinks (SEO/nav)
+
   <div>Dev helper:</div>
   {% for week in site.weekly reversed %}
     <div>
@@ -95,6 +101,7 @@ layout: splash
       {% endif %}
     </div>
   {% endfor %}
+  {% endcomment %}
 
   {% if lastweek %}
     <a class="pagination-item older" href="{{ lastweek.url | prepend: site.baseurl }}">Previous Weekly</a>
