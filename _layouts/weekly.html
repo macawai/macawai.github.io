@@ -38,22 +38,83 @@ layout: splash
 </div>
 {% endif %}
 
+
+{% comment %}
+  # --------
+  # Featured
+  # --------
+{% endcomment %}
+
 <div>
-  <h1><a href="/news">Top Stories</a></h1>
+  <h1 class="section-header">Featured</h1>
   {% for newsitem in site.news reversed %}
-    {% if newsitem.thisweekid == page.thisweekid %}
+    {%
+      if newsitem.thisweekid == page.thisweekid and newsitem.tags contains 'wk:feature'
+    %}
     <article>
       <h2>
         <a href="{{newsitem.source}}" target="_blank" rel="noopener">
           {{newsitem.title}}
         </a>
+        <div class="site">
+        {%
+            assign ftr = newsitem.source |
+              downcase |
+              replace: "http://", "" |
+              replace: "https://", "" |
+              replace: "www.", "" |
+              split: "/"
+          %}
+          {{ ftr.first }}
+        </div>
       </h2>
       <div>{{newsitem.content}}</div>
-
     </article>
     {% endif %}
   {% endfor %}
 </div>
+
+<hr>
+
+{% comment %}
+  # --------
+  # General news links
+  # --------
+{% endcomment %}
+
+<div>
+  {% for lnk in site.news reversed %}
+    {%
+      if lnk.thisweekid == page.thisweekid and lnk.tags contains 'wk:link'
+    %}
+    <ul>
+      <li>
+        <a href="{{lnk.source}}" target="_blank" rel="noopener">
+          {{lnk.title}}
+        </a>
+        <span class="site">
+        {%
+            assign link = lnk.source |
+              downcase |
+              replace: "http://", "" |
+              replace: "https://", "" |
+              replace: "www.", "" |
+              split: "/"
+          %}
+          {{ link.first }}
+        </span>
+      </li>
+    </ul>
+    {% endif %}
+  {% endfor %}
+</div>
+
+
+{% comment %}
+  # --------
+  # Research
+  # --------
+{% endcomment %}
 
 {% assign hasres = false %}
 {% for r in site.research %}
@@ -64,8 +125,7 @@ layout: splash
 
 {% if hasres %}
 <div>
-  <h1>Research</h1>
-  <p>Of particular interest this past week, we saw:</p>
+  <h1 class="section-header">Research</h1>
   <ul>
     {% for r in site.research %}
       {% if r.thisweekid == page.thisweekid %}
@@ -84,13 +144,55 @@ layout: splash
 <div>Pretty much no research this week..</div>
 {% endif %}
 
+
+{% comment %}
+  # --------
+  # Other news links
+  # --------
+{% endcomment %}
+
+{% assign hasother = false %}
+<div>
+  <h1 class="section-header">Other</h1>
+  {% for itm in site.news reversed %}
+    {%
+      if itm.thisweekid == page.thisweekid and itm.tags contains 'wk:other'
+    %}
+    {% assign hasother = true %}
+    <ul>
+      <li>
+        <a href="{{itm.source}}" target="_blank" rel="noopener">
+          {{itm.title}}
+        </a>
+        <span class="site">
+        {%
+            assign site = itm.source |
+              downcase |
+              replace: "http://", "" |
+              replace: "https://", "" |
+              replace: "www.", "" |
+              split: "/"
+          %}
+          {{ site.first }}
+        </span>
+      </li>
+    </ul>
+    {% endif %}
+  {% endfor %}
+
+  {% if hasother != true %}
+  No other news this week dude...
+  {% endif %}
+</div>
+
+
 <div class="pagination">
 
   {% comment %}
 
-  17 Oct 16:
-  DISABLING the reverse chron listing of Weekly releases.
-  Next step: Style and use as archive backlinks (SEO/nav)
+  # 17 Oct 16:
+  # DISABLING the reverse chron listing of Weekly releases.
+  # Next step: Style and use as archive backlinks (SEO/nav)
 
   <div>Dev helper:</div>
   {% for week in site.weekly reversed %}
