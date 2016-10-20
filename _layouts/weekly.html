@@ -214,17 +214,21 @@ layout: splash
           %}
           {{ otr.first }}
         </span>
-        </div>
         {% comment %}
           # "Empty" `.content` is always length = 1 due to newline
           # so check that contentLen > 1 in order to display
         {% endcomment %}
         {% assign contentLen = post.content | size %}
         {% if contentLen > 1 %}
-        <div>
-          {{ post.content }}
-        </div>
+        - {{post.content | remove: '<p>' | remove: '</p>'}}
         {% endif %}
+
+        {% if post.tags %}
+          {% for tag in post.tags %}
+            <span class="tag">{{tag}}</span>
+          {% endfor %}
+        {% endif %}
+        </div>
       </li>
     </ul>
     {% endif %}

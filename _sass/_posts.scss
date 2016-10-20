@@ -12,6 +12,16 @@
   }
 }
 
+.tag {
+  font-size: 0.5rem;
+  padding: 0.2rem 0.4rem;
+  border-radius: 3px;
+  background-color: #ddd;
+  color: #555;
+  text-transform: uppercase;
+  margin: 0 0.05rem;
+}
+
 // Blog post or page title
 .page-title,
 .post-title,
