@@ -142,7 +142,7 @@ layout: splash
           {{ ftr.first }}
         </div>
       </h2>
-      <div>{{post.excerpt | remove: '<p>' | remove: '</p>'}}</div>
+      <div>{{post.snippet | markdownify}}</div>
     </article>
     {% endif %}
   {% endfor %}
