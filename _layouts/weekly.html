@@ -31,7 +31,7 @@ layout: splash
 
 <hr>
 
-{% if current.text != empty %}
+{% if current.text.intro %}
 <div>
   {{ current.text.intro | markdownify }}
   <hr>
@@ -158,7 +158,7 @@ layout: splash
 
 <div>
   {% assign research_tag = page.thisweekid | append: '-research' %}
-  {% for post in site.news reversed %}
+  {% for post in site.posts reversed %}
     {%
       if post.published_in contains research_tag
     %}
