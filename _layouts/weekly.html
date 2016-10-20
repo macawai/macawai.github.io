@@ -190,7 +190,7 @@ layout: splash
   # --------
 {% endcomment %}
 
-{% if current.text.outro != empty %}
+{% if current.text.outro %}
 <h1 class="section-header">The Final Word</h1>
 <div>
   {{ current.text.outro | markdownify }}
