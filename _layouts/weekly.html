@@ -87,7 +87,7 @@ layout: splash
   {% assign news_tag = page.thisweekid | append: '-news' %}
   {% for post in site.posts reversed %}
     {%
-      if post.publised_in contains news_tag
+      if post.published_in contains news_tag
     %}
     <ul>
       <li>
