@@ -23,10 +23,6 @@ author:
 
 # Collections
 collections:
-  news:
-  research:
-  events:
-  resources:
   weekly:
     output: true
     permalink: /:collection/:year-:month-:day-:title
