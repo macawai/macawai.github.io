@@ -29,6 +29,7 @@ collections:
   resources:
   weekly:
     output: true
+    permalink: /:collection/:year-:month-:day-:title
 
 exclude:
   - scripts
