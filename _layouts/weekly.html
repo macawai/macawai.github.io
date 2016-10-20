@@ -54,7 +54,7 @@ layout: splash
     %}
     <article>
       <h2>
-        <a href="{{newsitem.source}}" target="_blank" rel="noopener">
+        <a href="{{post.source}}" target="_blank" rel="noopener">
           {{post.title}}
         </a>
         <div class="site">
@@ -178,6 +178,53 @@ layout: splash
           %}
           {{ link.first }}
         </span>
+      </li>
+    </ul>
+    {% endif %}
+  {% endfor %}
+</div>
+
+{% comment %}
+  # --------
+  # Optional "Other/fun/code/edu/whatever" stuff
+  # --------
+{% endcomment %}
+
+<div>
+  <h1 class="section-header">Sidebar</h1>
+  {% assign other_tag = page.thisweekid | append: '-other' %}
+  {% for post in site.posts reversed %}
+    {%
+      if post.published_in contains other_tag
+    %}
+    <ul>
+      <li>
+        <div>
+        <a href="{{post.source}}" target="_blank" rel="noopener">
+          {{post.title}}
+        </a>
+        <span class="site">
+        {%
+            assign otr = post.source |
+              downcase |
+              replace: "http://", "" |
+              replace: "https://", "" |
+              replace: "www.", "" |
+              split: "/"
+          %}
+          {{ otr.first }}
+        </span>
+        </div>
+        {% comment %}
+          # "Empty" `.content` is always length = 1 due to newline
+          # so check that contentLen > 1 in order to display
+        {% endcomment %}
+        {% assign contentLen = post.content | size %}
+        {% if contentLen > 1 %}
+        <div>
+          {{ post.content }}
+        </div>
+        {% endif %}
       </li>
     </ul>
     {% endif %}
