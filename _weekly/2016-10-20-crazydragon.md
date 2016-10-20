@@ -1,7 +1,7 @@
 ---
 layout: weekly
 
-slug: speech-recognition-chinese-ai-memory-efficiency-deep-convolutional-neural-networks-gpus-differentiable-neural-computers-eye-amd-identification-oct-data
+slug: first-edition-speech-recognition-whitehouse-privacy-memory-efficiency-dcnn-gpus
 
 thisweek: Thu, 20 Oct 2016
 thisweekid: crazydragon
