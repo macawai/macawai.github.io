@@ -160,7 +160,7 @@ layout: splash
   {% assign research_tag = page.thisweekid | append: '-research' %}
   {% for post in site.news reversed %}
     {%
-      if post.publised_in contains research_tag
+      if post.published_in contains research_tag
     %}
     <ul>
       <li>
