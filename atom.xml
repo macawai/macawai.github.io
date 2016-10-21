@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Macaw AI</title>
+ <link href="http://macawai.github.io/atom.xml" rel="self"/>
+ <link href="http://macawai.github.io/"/>
+ <updated>2016-10-21T16:48:19+08:00</updated>
+ <id>http://macawai.github.io</id>
+ <author>
+   <name>Michael Anderson & Clint Walker</name>
+   <email>themacawai@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Talos Secure Workstation</title>
+   <link href="http://macawai.github.io/2016/10/20/talos-workstation/"/>
+   <updated>2016-10-20T00:00:00+08:00</updated>
+   <id>http://macawai.github.io/2016/10/20/talos-workstation</id>
+   <content type="html">&lt;p&gt;Crowd-sourced ATX-compatible, workstation-class mainboard for the IBM POWER8 processor&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How quantum effects could improve AI</title>
+   <link href="http://macawai.github.io/2016/10/20/phys-quantum-effects/"/>
+   <updated>2016-10-20T00:00:00+08:00</updated>
+   <id>http://macawai.github.io/2016/10/20/phys-quantum-effects</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>OpenAI is using Reddit to teach an AI how to speak</title>
+   <link href="http://macawai.github.io/2016/10/20/openai-reddit-speech/"/>
+   <updated>2016-10-20T00:00:00+08:00</updated>
+   <id>http://macawai.github.io/2016/10/20/openai-reddit-speech</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Obama aims to rewrite the Social Contract in the age of AI</title>
+   <link href="http://macawai.github.io/2016/10/20/obama-on-ai/"/>
+   <updated>2016-10-20T00:00:00+08:00</updated>
+   <id>http://macawai.github.io/2016/10/20/obama-on-ai</id>
+   <content type="html">&lt;p&gt;A short video (9 min) of Obama talking with Wired about AI and its impacts on economic and social models, particularly how we mitigate the potentially destabilising effects of an AI-first world (in particular, employment, wage-suppression and inequality). See the related Whitehouse paper on &lt;a href=&quot;https://www.whitehouse.gov/sites/default/files/whitehouse_files/microsites/ostp/NSTC/preparing_for_the_future_of_ai.pdf&quot;&gt;“Preparing for the Future of AI”&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Numer.ai - A hedge fund built by a global community of anonymous data scientists</title>
+   <link href="http://macawai.github.io/2016/10/20/numerai/"/>
+   <updated>2016-10-20T00:00:00+08:00</updated>
+   <id>http://macawai.github.io/2016/10/20/numerai</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Nothing pixelated will stay safe on the internet</title>
+   <link href="http://macawai.github.io/2016/10/20/nothing-pixelated-will-stay-safe/"/>
+   <updated>2016-10-20T00:00:00+08:00</updated>
+   <id>http://macawai.github.io/2016/10/20/nothing-pixelated-will-stay-safe</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Microsoft researchers reach human parity in conversational speech recognition</title>
+   <link href="http://macawai.github.io/2016/10/20/ms-speech-human-parity/"/>
+   <updated>2016-10-20T00:00:00+08:00</updated>
+   <id>http://macawai.github.io/2016/10/20/ms-speech-human-parity</id>
+   <content type="html">&lt;p&gt;Word Error Rate (WER) on the industry standard Switchboard task down to 5.9 by the team at Microsoft (about equal to human transcription error rates of the same conversation) using their open source &lt;a href=&quot;https://www.cntk.ai/&quot;&gt;Computational Network Toolkit&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Microsoft Light Gradient Boosting Machine</title>
+   <link href="http://macawai.github.io/2016/10/20/ms-lgbm/"/>
+   <updated>2016-10-20T00:00:00+08:00</updated>
+   <id>http://macawai.github.io/2016/10/20/ms-lgbm</id>
+   <content type="html">&lt;p&gt;Fast, distributed, high performance gradient boosting framework&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Keras.js - Run trained Keras models in the browser, with GPU support</title>
+   <link href="http://macawai.github.io/2016/10/20/keras-js/"/>
+   <updated>2016-10-20T00:00:00+08:00</updated>
+   <id>http://macawai.github.io/2016/10/20/keras-js</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The UC Berkely Center for Human Compatible AI</title>
+   <link href="http://macawai.github.io/2016/10/20/human-compatible-ai/"/>
+   <updated>2016-10-20T00:00:00+08:00</updated>
+   <id>http://macawai.github.io/2016/10/20/human-compatible-ai</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>EFF on Facial Recognition’s threat to privacy - it's worse than anyone thought</title>
+   <link href="http://macawai.github.io/2016/10/20/eff-facial-recognition/"/>
+   <updated>2016-10-20T00:00:00+08:00</updated>
+   <id>http://macawai.github.io/2016/10/20/eff-facial-recognition</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Civilization VI AI Battle Royale</title>
+   <link href="http://macawai.github.io/2016/10/20/civ-vi-ai/"/>
+   <updated>2016-10-20T00:00:00+08:00</updated>
+   <id>http://macawai.github.io/2016/10/20/civ-vi-ai</id>
+   <content type="html">&lt;p&gt;Watch 8 AIs battle for global supremacy in the latest Civ launch&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>China has overtaken the US in AI research</title>
+   <link href="http://macawai.github.io/2016/10/20/china-has-overtaken-the-u-s-in-ai-research/"/>
+   <updated>2016-10-20T00:00:00+08:00</updated>
+   <id>http://macawai.github.io/2016/10/20/china-has-overtaken-the-u-s-in-ai-research</id>
+   <content type="html">&lt;p&gt;The US appears to be lagging China in AI research, at least by journal articles that mention “deep learning” or “deep neural network”. Estimates that current levels of R&amp;amp;D spending on AI are one-half to one-quarter of the levels that would be best for economic growth. And, like this article says, if the US lags in research, other countries might get to “dictate how the tech is used”. :rage:&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>AI Open Network</title>
+   <link href="http://macawai.github.io/2016/10/20/ai-on/"/>
+   <updated>2016-10-20T00:00:00+08:00</updated>
+   <id>http://macawai.github.io/2016/10/20/ai-on</id>
+   <content type="html">&lt;p&gt;An open community dedicated to advancing AI by highlighting research problems, connecting researchers and providing a learning environment.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Streaming Normalization: Towards Simpler and More Biologically-plausible   Normalizations for Online and Recurrent Learning</title>
+   <link href="http://macawai.github.io/2016/10/19/arxiv-1610-06160v1/"/>
+   <updated>2016-10-19T00:00:00+08:00</updated>
+   <id>http://macawai.github.io/2016/10/19/arxiv-1610-06160v1</id>
+   <content type="html">&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;We systematically explored a spectrum of normalization algorithms related to
+Batch Normalization (BN) and propose a generalized formulation that
+simultaneously solves two major limitations of BN: (1) online learning and (2)
+recurrent learning. Our proposal is simpler and more biologically-plausible.
+Unlike previous approaches, our technique can be applied out of the box to all
+learning scenarios (e.g., online learning, batch learning, fully-connected,
+convolutional, feedforward, recurrent and mixed — recurrent and
+convolutional) and compare favorably with existing approaches. We also propose
+Lp Normalization for normalizing by different orders of statistical moments. In
+particular, L1 normalization is well-performing, simple to implement, fast to
+compute, more biologically-plausible and thus ideal for GPU or hardware
+implementations.&lt;/p&gt;
+
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Particle Swarm Optimization for Generating Fuzzy Reinforcement Learning   Policies</title>
+   <link href="http://macawai.github.io/2016/10/19/arxiv-1610-05984v1/"/>
+   <updated>2016-10-19T00:00:00+08:00</updated>
+   <id>http://macawai.github.io/2016/10/19/arxiv-1610-05984v1</id>
+   <content type="html">&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Fuzzy controllers are known to serve as efficient and interpretable system
+controllers for continuous state and action spaces. To date these controllers
+have been constructed by hand, or automatically trained either on expert
+generated problem specific cost functions or by incorporating detailed
+knowledge about the optimal control strategy. Both requirements for automatic
+training processes are not given in the majority of real world reinforcement
+learning (RL) problems. We introduce a new particle swarm reinforcement
+learning (PSRL) approach which is capable of constructing fuzzy RL policies
+solely by training parameters on world models produced from randomly generated
+samples of the real system. This approach relates self-organizing fuzzy
+controllers to model-based RL for the first time. PSRL can be used
+straightforward on any RL problem, which is demonstrated on three standard RL
+benchmarks, mountain car, cart pole balancing and cart pole swing up. Our
+experiments yielded high performing and well interpretable fuzzy policies.&lt;/p&gt;
+
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Scaling Up MAP-Elites Using Centroidal Voronoi Tessellations</title>
+   <link href="http://macawai.github.io/2016/10/18/arxiv-1610-05729v1/"/>
+   <updated>2016-10-18T00:00:00+08:00</updated>
+   <id>http://macawai.github.io/2016/10/18/arxiv-1610-05729v1</id>
+   <content type="html">&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;The recently introduced Multi-dimensional Archive of Phenotypic Elites
+(MAP-Elites) is an evolutionary algorithm capable of producing a large archive
+of diverse, high-performing solutions in a single run. It works by discretizing
+a continuous feature space into unique regions according to the desired
+discretization per dimension. While simple, this algorithm has a main drawback:
+it cannot scale to high-dimensional feature spaces since the number of regions
+increase exponentially with the number of dimensions. In this paper, we address
+this limitation by introducing a simple extension of MAP-Elites that has a
+constant, pre-defined number of regions irrespective of the dimensionality of
+the feature space. Our main insight is that methods from computational geometry
+could partition a high-dimensional space into well-spread geometric regions. In
+particular, our algorithm uses a centroidal Voronoi tessellation (CVT) to
+divide the feature space into a desired number of regions; it then places every
+generated individual in its closest region, replacing a less fit one if the
+region is already occupied. We demonstrate the effectiveness of the new
+“CVT-MAP-Elites” algorithm in high-dimensional feature spaces through
+comparisons against MAP-Elites in a hexapod locomotion task.&lt;/p&gt;
+
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Design Mining Microbial Fuel Cell Cascades</title>
+   <link href="http://macawai.github.io/2016/10/18/arxiv-1610-05716v1/"/>
+   <updated>2016-10-18T00:00:00+08:00</updated>
+   <id>http://macawai.github.io/2016/10/18/arxiv-1610-05716v1</id>
+   <content type="html">&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Microbial fuel cells (MFCs) perform wastewater treatment and electricity
+production through the conversion of organic matter using microorganisms. For
+practical applications, it has been suggested that greater efficiency can be
+achieved by arranging multiple MFC units into physical stacks in a cascade with
+feedstock flowing sequentially between units. In this paper, we investigate the
+use of computational intelligence to physically explore and optimise
+(potentially) heterogeneous MFC designs in a cascade, i.e. without simulation.
+Conductive structures are 3-D printed and inserted into the anodic chamber of
+each MFC unit, augmenting a carbon fibre veil anode and affecting the
+hydrodynamics, including the feedstock volume and hydraulic retention time, as
+well as providing unique habitats for microbial colonisation. We show that it
+is possible to use design mining to identify new conductive inserts that
+increase both the cascade power output and power density.&lt;/p&gt;
+
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Online Contrastive Divergence with Generative Replay: Experience Replay   without Storing Data</title>
+   <link href="http://macawai.github.io/2016/10/18/arxiv-1610-05555v1/"/>
+   <updated>2016-10-18T00:00:00+08:00</updated>
+   <id>http://macawai.github.io/2016/10/18/arxiv-1610-05555v1</id>
+   <content type="html">&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Conceived in the early 1990s, Experience Replay (ER) has been shown to be a
+successful mechanism to allow online learning algorithms to reuse past
+experiences. Traditionally, ER can be applied to all machine learning paradigms
+(i.e., unsupervised, supervised, and reinforcement learning). Recently, ER has
+contributed to improving the performance of deep reinforcement learning. Yet,
+its application to many practical settings is still limited by the memory
+requirements of ER, necessary to explicitly store previous observations. To
+remedy this issue, we explore a novel approach, Online Contrastive Divergence
+with Generative Replay (OCD_GR), which uses the generative capability of
+Restricted Boltzmann Machines (RBMs) instead of recorded past experiences. The
+RBM is trained online, and does not require the system to store any of the
+observed data points. We compare OCD_GR to ER on 9 real-world datasets,
+considering a worst-case scenario (data points arriving in sorted order) as
+well as a more realistic one (sequential random-order data points). Our results
+show that in 64.28% of the cases OCD_GR outperforms ER and in the remaining
+35.72% it has an almost equal performance, while having a considerably reduced
+space complexity (i.e., memory usage) at a comparable time complexity.&lt;/p&gt;
+
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Evolving the Structure of Evolution Strategies</title>
+   <link href="http://macawai.github.io/2016/10/17/arxiv-1610-05231v1/"/>
+   <updated>2016-10-17T00:00:00+08:00</updated>
+   <id>http://macawai.github.io/2016/10/17/arxiv-1610-05231v1</id>
+   <content type="html">&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Various variants of the well known Covariance Matrix Adaptation Evolution
+Strategy (CMA-ES) have been proposed recently, which improve the empirical
+performance of the original algorithm by structural modifications. However, in
+practice it is often unclear which variation is best suited to the specific
+optimization problem at hand. As one approach to tackle this issue, algorithmic
+mechanisms attached to CMA-ES variants are considered and extracted as
+functional \emph{modules}, allowing for combinations of them. This leads to a
+configuration space over ES structures, which enables the exploration of
+algorithm structures and paves the way toward novel algorithm generation.
+Specifically, eleven modules are incorporated in this framework with two or
+three alternative configurations for each module, resulting in $4\,608$
+algorithms. A self-adaptive Genetic Algorithm (GA) is used to efficiently
+evolve effective ES-structures for given classes of optimization problems,
+outperforming any classical CMA-ES variants from literature. The proposed
+approach is evaluated on noiseless functions from BBOB suite. Furthermore, such
+an observation is again confirmed on different function groups and
+dimensionality, indicating the feasibility of ES configuration on real-world
+problem classes.&lt;/p&gt;
+
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Weekly maintenance scheduling using exact and genetic methods</title>
+   <link href="http://macawai.github.io/2016/10/17/arxiv-1610-05016v1/"/>
+   <updated>2016-10-17T00:00:00+08:00</updated>
+   <id>http://macawai.github.io/2016/10/17/arxiv-1610-05016v1</id>
+   <content type="html">&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;The weekly maintenance schedule specifies when maintenance activities should
+be performed on the equipment, taking into account the availability of workers
+and maintenance bays, and other operational constraints. The current approach
+to generating this schedule is labour intensive and requires coordination
+between the maintenance schedulers and operations staff to minimise its impact
+on the operation of the mine. This paper presents methods for automatically
+generating this schedule from the list of maintenance tasks to be performed,
+the availability roster of the maintenance staff, and time windows in which
+each piece of equipment is available for maintenance. Both Mixed-Integer Linear
+Programming (MILP) and genetic algorithms are evaluated, with the genetic
+algorithm shown to significantly outperform the MILP. Two fitness functions for
+the genetic algorithm are also examined, with a linear fitness function
+outperforming an inverse fitness function by up to 5% for the same calculation
+time. The genetic algorithm approach is computationally fast, allowing the
+schedule to be rapidly recalculated in response to unexpected delays and
+breakdowns.&lt;/p&gt;
+
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Cached Long Short-Term Memory Neural Networks for Document-Level   Sentiment Classification</title>
+   <link href="http://macawai.github.io/2016/10/17/arxiv-1610-04989v1/"/>
+   <updated>2016-10-17T00:00:00+08:00</updated>
+   <id>http://macawai.github.io/2016/10/17/arxiv-1610-04989v1</id>
+   <content type="html">&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Recently, neural networks have achieved great success on sentiment
+classification due to their ability to alleviate feature engineering. However,
+one of the remaining challenges is to model long texts in document-level
+sentiment classification under a recurrent architecture because of the
+deficiency of the memory unit. To address this problem, we present a Cached
+Long Short-Term Memory neural networks (CLSTM) to capture the overall semantic
+information in long texts. CLSTM introduces a cache mechanism, which divides
+memory into several groups with different forgetting rates and thus enables the
+network to keep sentiment information better within a recurrent unit. The
+proposed CLSTM outperforms the state-of-the-art models on three publicly
+available document-level sentiment analysis datasets.&lt;/p&gt;
+
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Multiple Instance Fuzzy Inference Neural Networks</title>
+   <link href="http://macawai.github.io/2016/10/17/arxiv-1610-04973v1/"/>
+   <updated>2016-10-17T00:00:00+08:00</updated>
+   <id>http://macawai.github.io/2016/10/17/arxiv-1610-04973v1</id>
+   <content type="html">&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Fuzzy logic is a powerful tool to model knowledge uncertainty, measurements
+imprecision, and vagueness. However, there is another type of vagueness that
+arises when data have multiple forms of expression that fuzzy logic does not
+address quite well. This is the case for multiple instance learning problems
+(MIL). In MIL, an object is represented by a collection of instances, called a
+bag. A bag is labeled negative if all of its instances are negative, and
+positive if at least one of its instances is positive. Positive bags encode
+ambiguity since the instances themselves are not labeled. In this paper, we
+introduce fuzzy inference systems and neural networks designed to handle bags
+of instances as input and capable of learning from ambiguously labeled data.
+First, we introduce the Multiple Instance Sugeno style fuzzy inference
+(MI-Sugeno) that extends the standard Sugeno style inference to handle
+reasoning with multiple instances. Second, we use MI-Sugeno to define and
+develop Multiple Instance Adaptive Neuro Fuzzy Inference System (MI-ANFIS). We
+expand the architecture of the standard ANFIS to allow reasoning with bags and
+derive a learning algorithm using backpropagation to identify the premise and
+consequent parameters of the network. The proposed inference system is tested
+and validated using synthetic and benchmark datasets suitable for MIL problems.
+We also apply the proposed MI-ANFIS to fuse the output of multiple
+discrimination algorithms for the purpose of landmine detection using Ground
+Penetrating Radar.&lt;/p&gt;
+
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Hadamard Product for Low-rank Bilinear Pooling</title>
+   <link href="http://macawai.github.io/2016/10/14/arxiv-1610-04325v1/"/>
+   <updated>2016-10-14T00:00:00+08:00</updated>
+   <id>http://macawai.github.io/2016/10/14/arxiv-1610-04325v1</id>
+   <content type="html">&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Bilinear models provide rich representations compared to linear models. They
+have been applied in various visual tasks, such as object recognition,
+segmentation, and visual question-answering, to get state-of-the-art
+performances taking advantage of the expanded representations. However,
+bilinear representations tend to be high-dimensional, limiting the
+applicability to computationally complex tasks. We propose low-rank bilinear
+neural networks using Hadamard product (element-wise multiplication), commonly
+implemented in many scientific computing frameworks. We show that our model
+outperforms compact bilinear pooling in visual question-answering tasks, having
+a better parsimonious property.&lt;/p&gt;
+
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>RetiNet: Automatic AMD identification in OCT volumetric data</title>
+   <link href="http://macawai.github.io/2016/10/12/arxiv-1610-03628v1/"/>
+   <updated>2016-10-12T00:00:00+08:00</updated>
+   <id>http://macawai.github.io/2016/10/12/arxiv-1610-03628v1</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Optimizing Memory Efficiency for Deep Convolutional Neural Networks on   GPUs</title>
+   <link href="http://macawai.github.io/2016/10/12/arxiv-1610-03618v1/"/>
+   <updated>2016-10-12T00:00:00+08:00</updated>
+   <id>http://macawai.github.io/2016/10/12/arxiv-1610-03618v1</id>
+   <content type="html">&lt;!--more--&gt;
+
+&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
+
+&lt;blockquote&gt;
+
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+
+</feed>
