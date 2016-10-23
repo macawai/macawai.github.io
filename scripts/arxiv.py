@@ -71,10 +71,13 @@ for e in entries :
     f.write("  - arxiv\n")
     f.write("  - needs-commentary\n")
     # TODO: Get the thisweekid better!
+    f.write("published_in:\n")
+    f.write("  - terriblegoat-research\n")
     f.write("thisweekid: crazydragon\n")
-    f.write("---\n")
-
-    #download(url, outdir + "/" + base + ".pdf")
-    f.write( "## Abstract\n" )
-    description = re.sub("^", "> ", axpath(e, "./Atom:summary/text()")[0], 0, re.MULTILINE)
+    f.write("abstract: |\n")
+    description = axpath(e, "./Atom:summary/text()")[0]
+    description = re.sub("^ *","",description, 0, re.MULTILINE)
+    description = re.sub("^", "  ", description, 0, re.MULTILINE)
     f.write( encodings.utf_8.encode(description)[0] )
+    f.write("\n")
+    f.write("---\n")
