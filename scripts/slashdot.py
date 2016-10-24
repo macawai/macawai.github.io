@@ -46,7 +46,23 @@ except OSError:
     print("Directory exists - reusing!")
 
 r = re.compile(r"https://(\w+)\.slashdot\.org/story/(\d+)/(\d+)/(\d+)/(\d+)/([\w-]+)")
+filt = re.compile(r"\bai\b|deep.*learn|machine.*learn|neural|quantum", re.I | re.S)
 for e in entries :
+    title = encodings.utf_8.encode(rssxpath(e,"./rss:title/text()")[0])[0].replace("\n"," " )
+    description = rssxpath(e, "./rss:description/text()")
+    # Slashdot adds a whole lot of cruft at the end of the RSS description
+    # Lets trim it out.
+    description = re.sub("<p>.*","",description[0],0, re.DOTALL)
+
+    if not filt.search(description):
+        print "skipping "+title
+        continue
+    else:
+        print "processing "+title
+
+    description = re.sub("^", "> ", description,0, re.MULTILINE)
+
+
     # TODO: Use this to generate the output directory
     link = rssxpath(e, "./rss:link/text()")[0]
     #TODO: CLean the extra cruft out of the link (?utm_source=rss1.0mainlinkanon&utm_medium=feed)
@@ -66,7 +82,7 @@ for e in entries :
     f=open(outdir + "/" + filename, "w")
 #    url = axpath(e, "./Atom:link[@type='application/pdf']/@href")[0]
     f.write("---\n")
-    f.write("title: \""+encodings.utf_8.encode(rssxpath(e,"./rss:title/text()")[0])[0].replace("\n"," " )+"\"\n")
+    f.write("title: \""+title+"\"\n")
     f.write("source: \"" + link + "\"\n")
 #    f.write("authors:\n")
 #    for a in axpath(e, "./Atom:author/Atom:name/text()"):
@@ -79,9 +95,5 @@ for e in entries :
     f.write("thisweekid: crazydragon\n")
     f.write("---\n")
 
-    description = rssxpath(e, "./rss:description/text()")
-    # Slashdot adds a whole lot of cruft at the end of the RSS description
-    # Lets trim it out.
-    description = re.sub("<p>.*","",description[0],0, re.DOTALL)
-    description = re.sub("^", "> ", description,0, re.MULTILINE)
+
     f.write( encodings.utf_8.encode(description)[0] )
