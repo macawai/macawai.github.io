@@ -2,5 +2,5 @@
 layout: weekly
 title: Home
 permalink: /
-thisweekid: crazydragon
+thisweekid: terriblegoat
 ---
