@@ -5,7 +5,7 @@ slug: first-edition-speech-recognition-whitehouse-privacy-memory-efficiency-dcnn
 
 thisweek: Thu, 20 Oct 2016
 thisweekid: crazydragon
-thisweektitle: The First Edition
+title: The First Edition
 lastweekid:
 nextweekid: terriblegoat
 text:
