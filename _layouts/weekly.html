@@ -47,11 +47,13 @@ layout: splash
 
 <div>
   <h1 class="section-header">Featured</h1>
+  {% assign hasFeatured = false %}
   {% assign featured_news_tag = page.thisweekid | append: '-news-feature' %}
   {% for post in site.posts reversed %}
     {%
       if post.published_in contains featured_news_tag
     %}
+    {% assign hasFeatured = true %}
     <article>
       <h2>
         <a href="{{post.source}}" target="_blank" rel="noopener">
@@ -73,6 +75,10 @@ layout: splash
     </article>
     {% endif %}
   {% endfor %}
+
+  {% if hasFeatured == false %}
+    <b>No featured news yet...</b>
+  {% endif %}
 </div>
 
 <hr>
@@ -84,11 +90,13 @@ layout: splash
 {% endcomment %}
 
 <div>
+  {% assign hasNews = false %}
   {% assign news_tag = page.thisweekid | append: '-news' %}
   {% for post in site.posts reversed %}
     {%
       if post.published_in contains news_tag
     %}
+    {% assign hasNews = true %}
     <ul>
       <li>
         <a href="{{post.source}}" target="_blank" rel="noopener">
@@ -109,6 +117,10 @@ layout: splash
     </ul>
     {% endif %}
   {% endfor %}
+
+  {% if hasNews == false %}
+  No "other" news added yet..
+  {% endif %}
 </div>
 
 
@@ -120,11 +132,13 @@ layout: splash
 
 <div>
   <h1 class="section-header">Research</h1>
+  {% assign hasResearch = false %}
   {% assign featured_research_tag = page.thisweekid | append: '-research-feature' %}
   {% for post in site.posts reversed %}
     {%
       if post.published_in contains featured_research_tag
     %}
+    {% assign hasResearch = true %}
     <article>
       <h2>
         <a href="{{post.source}}" target="_blank" rel="noopener">
@@ -146,6 +160,10 @@ layout: splash
     </article>
     {% endif %}
   {% endfor %}
+
+  {% if hasResearch == false %}
+    <b>No featured research yet...</b>
+  {% endif %}
 </div>
 
 <hr>
@@ -157,11 +175,13 @@ layout: splash
 {% endcomment %}
 
 <div>
+  {% assign hasPapers = false %}
   {% assign research_tag = page.thisweekid | append: '-research' %}
   {% for post in site.posts reversed %}
     {%
       if post.published_in contains research_tag
     %}
+    {% assign hasPapers = true %}
     <ul>
       <li>
         <a href="{{post.source}}" target="_blank" rel="noopener">
@@ -182,6 +202,10 @@ layout: splash
     </ul>
     {% endif %}
   {% endfor %}
+
+  {% if hasPapers == false %}
+    No research paper links yet...
+  {% endif %}
 </div>
 
 {% comment %}
@@ -192,11 +216,13 @@ layout: splash
 
 <div>
   <h1 class="section-header">Sidebar</h1>
+  {% assign hasOther = false %}
   {% assign other_tag = page.thisweekid | append: '-other' %}
   {% for post in site.posts reversed %}
     {%
       if post.published_in contains other_tag
     %}
+    {% assign hasOther = true %}
     <ul>
       <li>
         <div>
@@ -233,6 +259,10 @@ layout: splash
     </ul>
     {% endif %}
   {% endfor %}
+
+  {% if hasOther == false %}
+    No "other" links yet...
+  {% endif %}
 </div>
 
 {% comment %}
