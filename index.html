@@ -488,6 +488,41 @@
     
   
     
+    
+    <article>
+      <h2>
+        <a href="http://www.nature.com/articles/nature20101.epdf?author_access_token=ImTXBI8aWbYxYQ51Plys8NRgN0jAjWel9jnR3ZoTv0MggmpDmwljGswxVdeocYSurJ3hxupzWuRNeGvvXnoO8o4jTJcnAyhGuZzXJ1GEaD-Z7E6X_a9R-xqJ9TfJWBqz" target="_blank" rel="noopener">
+          Hybrid computing using a neural network with dynamic external memory
+        </a>
+        <div class="site">
+        
+          nature.com
+        </div>
+      </h2>
+      <div><p>This paper is filled with fascinating ideas from the folks at google,
+but is a little light on the
+technical details required to reproduce the systems and results described.</p>
+
+<p>DNCS as defined as an extension to previous differentiable explicit memory NN
+models, using existing techniques for direct, and pattern matching memory accesses.
+The key addition seems to be the ability for the NN to request blocks of memory
+to be allocated
+or deallocated, the ability to read from these blocks, and the ability to navigate
+back and forward through the allocation blocks. This allows the training to be
+more independent of the amount of memory available to the NN.</p>
+
+<p>While interesting results are provided that show this network out preforms existing
+LTSTM networks, the improvement due the new block-access does not seem to be
+evaluated on its own. Nor are many details about how the allocation and forward-backward
+lists are kept differentiable.</p>
+
+<p>Further details are promised in the form of a forthcoming code release - which should
+clear up all of these issues.</p>
+</div>
+    </article>
+    
+  
+    
   
     
   
