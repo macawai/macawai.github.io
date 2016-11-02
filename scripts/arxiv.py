@@ -40,7 +40,7 @@ entries = axpath(xml.getroot(), "//Atom:entry")
 if len(sys.argv) > 1:
     outdir =  sys.argv[1]
 else:
-    outdir = "_research"
+    outdir = "_posts"
 
 try:
     os.mkdir( outdir )
