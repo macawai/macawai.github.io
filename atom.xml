@@ -4,7 +4,7 @@
  <title>Macaw AI</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2016-11-03T17:52:14+02:00</updated>
+ <updated>2016-11-04T10:21:52+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Michael Anderson & Clint Walker</name>
@@ -108,6 +108,42 @@
    <updated>2016-11-02T00:00:00+02:00</updated>
    <id>http://localhost:4000/2016/11/02/asteria</id>
    <content type="html">&lt;p&gt;Straight from the movie “Her”, you too can now have a handy block of pocket smart to make you feel less alone.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Extensions and Limitations of the Neural GPU</title>
+   <link href="http://localhost:4000/2016/11/02/arxiv-1611-00736v1/"/>
+   <updated>2016-11-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/02/arxiv-1611-00736v1</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Deep counter networks for asynchronous event-based processing</title>
+   <link href="http://localhost:4000/2016/11/02/arxiv-1611-00710v1/"/>
+   <updated>2016-11-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/02/arxiv-1611-00710v1</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Surrogate-Assisted Partial Order-based Evolutionary Optimisation</title>
+   <link href="http://localhost:4000/2016/11/01/arxiv-1611-00260v1/"/>
+   <updated>2016-11-01T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/01/arxiv-1611-00260v1</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Full-Capacity Unitary Recurrent Neural Networks</title>
+   <link href="http://localhost:4000/2016/10/31/arxiv-1611-00035v1/"/>
+   <updated>2016-10-31T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/10/31/arxiv-1611-00035v1</id>
+   <content type="html">
 </content>
  </entry>
  
