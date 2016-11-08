@@ -33,8 +33,12 @@ def download(url, file_name):
         print status,
     f.close()
 
-xml = etree.parse(urllib2.urlopen("http://export.arxiv.org/api/query?search_query=cat:cs.NE&sortBy=submittedDate&start=0&max_results=30"))
+print("Downloading query results")
+data=urllib2.urlopen("http://export.arxiv.org/api/query?search_query=cat:cs.NE&sortBy=submittedDate&start=0&max_results=30")
+print(data)
+xml = etree.parse(data)
 #xml = etree.parse(open("example.atom","r"))
+print(xml)
 entries = axpath(xml.getroot(), "//Atom:entry")
 
 if len(sys.argv) > 1:
