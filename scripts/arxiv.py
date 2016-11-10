@@ -57,7 +57,7 @@ for e in entries :
     published = re.sub("T.*$","", published)
 
 
-    filename = published+"-arxiv-"+base.replace(".","-")+".md"
+    filename = published+"-arxiv-"+re.sub("v.$","", base).replace(".","-")+".md"
     print("Processing "+filename)
     if os.path.exists(outdir + "/" + filename):
         print( "Already have an entry for " + filename )
