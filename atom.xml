@@ -4,13 +4,193 @@
  <title>Macaw AI</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2016-11-04T10:21:52+02:00</updated>
+ <updated>2016-11-10T11:55:43+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Michael Anderson & Clint Walker</name>
    <email>themacawai@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Tensorflow and Deep Learning (without a PhD)</title>
+   <link href="http://localhost:4000/2016/11/10/tf-no-phd/"/>
+   <updated>2016-11-10T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/10/tf-no-phd</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Starcraft will become the next big playground for AI research as Blizzard and DeepMind team up</title>
+   <link href="http://localhost:4000/2016/11/10/starcraft-ai/"/>
+   <updated>2016-11-10T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/10/starcraft-ai</id>
+   <content type="html">&lt;p&gt;All your base are belong to DeepMind soon enough. That’s right, Blizzard and the team at Google have finally started on the only challenge that matters: finding a way to defeat the &lt;a href=&quot;https://www.youtube.com/watch?v=SAo3QwnPruc&quot;&gt;insane APM masters of Starcraft&lt;/a&gt; using the magic of AI. Great redux on the next big “game” challenge for AI, particularly as “a useful bridge to the messiness of the real-world”. Get in on the action, and don’t forget to check out the post on the &lt;a href=&quot;http://us.battle.net/forums/en/sc2/topic/20751114921&quot;&gt;SC2 API&lt;/a&gt;. And if you’re interested in a bit of background, Gamasutra has a great recap on &lt;a href=&quot;http://www.gamasutra.com/blogs/BenWeber/20161106/284970/A_Brief_History_of_RTS_AI_Research.php&quot;&gt;A Brief History of RTS AI&lt;/a&gt;. &lt;a href=&quot;https://www.youtube.com/watch?v=8fvTxv46ano&quot;&gt;What you say? Make your time. All your base, etc&lt;/a&gt;. Viva la Internet. Carry on.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Shining light on Facebook’s AI strategy</title>
+   <link href="http://localhost:4000/2016/11/10/shining-light-ai-fb/"/>
+   <updated>2016-11-10T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/10/shining-light-ai-fb</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Neural Architecture Search with Reinforcement Learning</title>
+   <link href="http://localhost:4000/2016/11/10/openreview-reinforcement-learning/"/>
+   <updated>2016-11-10T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/10/openreview-reinforcement-learning</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Using Neural Nets to recognize handwritten digits</title>
+   <link href="http://localhost:4000/2016/11/10/nns-for-handwriting/"/>
+   <updated>2016-11-10T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/10/nns-for-handwriting</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Andrew Ng on what AI can and can't do right now</title>
+   <link href="http://localhost:4000/2016/11/10/ng-on-ai/"/>
+   <updated>2016-11-10T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/10/ng-on-ai</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Machine Learning for Software Engineers</title>
+   <link href="http://localhost:4000/2016/11/10/ml-for-engineers/"/>
+   <updated>2016-11-10T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/10/ml-for-engineers</id>
+   <content type="html">&lt;p&gt;A complete daily plan for studying to become a machine learning engineer&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Oxford University’s lip-reading AI is more accurate than humans, but still has a way to go</title>
+   <link href="http://localhost:4000/2016/11/10/lip-reading/"/>
+   <updated>2016-11-10T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/10/lip-reading</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Halite.io - AI battle bots fight it out to control the grid</title>
+   <link href="http://localhost:4000/2016/11/10/halite/"/>
+   <updated>2016-11-10T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/10/halite</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fuzzy.ai - AI powered decision making via an API</title>
+   <link href="http://localhost:4000/2016/11/10/fuzzy-ai/"/>
+   <updated>2016-11-10T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/10/fuzzy-ai</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Facebook Puts Deep Learning in the Palm of Your Hand</title>
+   <link href="http://localhost:4000/2016/11/10/fb-in-your-palm/"/>
+   <updated>2016-11-10T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/10/fb-in-your-palm</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>DeepRhyme (D-Prime) – generating dope rhymes with deep learning</title>
+   <link href="http://localhost:4000/2016/11/10/d-prime-hiphop/"/>
+   <updated>2016-11-10T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/10/d-prime-hiphop</id>
+   <content type="html">&lt;p&gt;From self-proclaimed “white boy, straight outta Cambridge, UK” comes a fun ML driven rapbot. Talks through some of the techniques used (&lt;a href=&quot;http://www.aclweb.org/anthology/D13-1022&quot;&gt;beam search&lt;/a&gt;) as well as challenges and failures of the model (ABAB type rhyming). It also touches on the consequences of your training data having biases that may not be politically correct or socially acceptable. Discovering that your ML model is a hardcore misogynist can be a shock, and the author notes that “machine learning algorithms like this rarely act how you want them to without some supervision”. Also references the excellent &lt;a href=&quot;http://karpathy.github.io/2015/05/21/rnn-effectiveness/&quot;&gt;RNN post from Andrej Karpathy&lt;/a&gt;, which is definitely worth a read.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Cybersecurity’s Next Step: Artificial Intelligence Is Helping Predict, Prevent, And Defeat Attacks</title>
+   <link href="http://localhost:4000/2016/11/10/cybersec/"/>
+   <updated>2016-11-10T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/10/cybersec</id>
+   <content type="html">&lt;p&gt;The explosion into mainstream consciousness of cybersecurity has spawned a unique niche of startups that are applying AI techniques to this field. Particularly as an approach to mitigating zero-day attacks “to differentiate benign or harmful activity on a system or network”. This article shows off some of the recent trends and correlations of interest in the terms, and provides a handy look at the companies and startups operating in the intersection of AI and cybersecurity.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Competitive Landscape for Machine Intelligence</title>
+   <link href="http://localhost:4000/2016/11/10/ai-cos/"/>
+   <updated>2016-11-10T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/10/ai-cos</id>
+   <content type="html">&lt;p&gt;List of startups competing in AI in 2016&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Adobe Sensei</title>
+   <link href="http://localhost:4000/2016/11/10/adobe-sensei/"/>
+   <updated>2016-11-10T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/10/adobe-sensei</id>
+   <content type="html">&lt;p&gt;“From image matching across millions of assets, to understanding the meaning and sentiment of documents, to finely targeting important audience segments, Adobe Sensei does it all.” (Ed: Yes but &lt;a href=&quot;https://www.youtube.com/user/Blendtec&quot;&gt;will it blend?&lt;/a&gt;)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Neural Networks for the Prediction of Organic Chemistry Reactions</title>
+   <link href="http://localhost:4000/2016/11/10/acs-organic-chem/"/>
+   <updated>2016-11-10T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/10/acs-organic-chem</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Finding Local Minima for Nonconvex Optimization in Linear Time</title>
+   <link href="http://localhost:4000/2016/11/03/arxiv-1611-01146v1/"/>
+   <updated>2016-11-03T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/03/arxiv-1611-01146v1</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Learning to Pivot with Adversarial Networks</title>
+   <link href="http://localhost:4000/2016/11/03/arxiv-1611-01046v1/"/>
+   <updated>2016-11-03T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/03/arxiv-1611-01046v1</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Maximizing Investment Value of Small-Scale PV in a Smart Grid   Environment</title>
+   <link href="http://localhost:4000/2016/11/03/arxiv-1611-00890v1/"/>
+   <updated>2016-11-03T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/03/arxiv-1611-00890v1</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Recurrent Neural Networks for Spatiotemporal Dynamics of Intrinsic   Networks from fMRI Data</title>
+   <link href="http://localhost:4000/2016/11/03/arxiv-1611-00864v1/"/>
+   <updated>2016-11-03T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/03/arxiv-1611-00864v1</id>
+   <content type="html">
+</content>
+ </entry>
  
  <entry>
    <title>IBM’s Watson AI Recommends Same Treatment as Doctors in 99% of Cancer Cases</title>
@@ -108,6 +288,15 @@
    <updated>2016-11-02T00:00:00+02:00</updated>
    <id>http://localhost:4000/2016/11/02/asteria</id>
    <content type="html">&lt;p&gt;Straight from the movie “Her”, you too can now have a handy block of pocket smart to make you feel less alone.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Deep Convolutional Neural Network Design Patterns</title>
+   <link href="http://localhost:4000/2016/11/02/arxiv-1611-00847v1/"/>
+   <updated>2016-11-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/02/arxiv-1611-00847v1</id>
+   <content type="html">
 </content>
  </entry>
  
@@ -377,6 +566,15 @@
    <link href="http://localhost:4000/2016/10/25/arxiv-1610-07690v1/"/>
    <updated>2016-10-25T00:00:00+02:00</updated>
    <id>http://localhost:4000/2016/10/25/arxiv-1610-07690v1</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Surprisal-Driven Zoneout</title>
+   <link href="http://localhost:4000/2016/10/24/arxiv-1610-07675v4/"/>
+   <updated>2016-10-24T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/10/24/arxiv-1610-07675v4</id>
    <content type="html">
 </content>
  </entry>
