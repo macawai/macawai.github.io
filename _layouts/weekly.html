@@ -181,9 +181,9 @@ layout: splash
     <ul>
       <li>
         <a href="{{post.source}}" target="_blank" rel="noopener">
-          {{post.title}}
-        </a>
+        {{post.title}}</a><br>
         <span class="site">
+        {{post.date | date: '%B %d, %Y'}}
         {%
             assign link = post.source |
               downcase |
@@ -194,6 +194,9 @@ layout: splash
           %}
           {{ link.first }}
         </span>
+        <div>
+          {{post.abstract | markdownify}}
+        </div>
       </li>
     </ul>
     {% endif %}
