@@ -76,7 +76,7 @@ for e in entries :
     f.write("  - needs-commentary\n")
     # TODO: Get the thisweekid better!
     f.write("published_in:\n")
-    f.write("  - psychodonkey-research\n")
+    f.write("  - grimsheep-research\n")
     f.write("abstract: |\n")
     description = axpath(e, "./Atom:summary/text()")[0]
     description = re.sub("^ *","",description, 0, re.MULTILINE)
