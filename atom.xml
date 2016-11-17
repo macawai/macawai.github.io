@@ -4,13 +4,233 @@
  <title>Macaw AI</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2016-11-10T11:55:43+02:00</updated>
+ <updated>2016-11-17T11:16:59+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Michael Anderson & Clint Walker</name>
    <email>themacawai@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Why is machine learning 'hard'?</title>
+   <link href="http://localhost:4000/2016/11/17/why-is-ml-hard/"/>
+   <updated>2016-11-17T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/17/why-is-ml-hard</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>New AI algorithm taught by humans learns beyond its training</title>
+   <link href="http://localhost:4000/2016/11/17/self-learning-ai/"/>
+   <updated>2016-11-17T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/17/self-learning-ai</id>
+   <content type="html">&lt;p&gt;A new machine learning training method that enables neural networks to learn directly from human-defined rules (rather than an existing set of examples) appears to outperform more conventional training methods by 160%. “But more surprisingly, their algorithm also outperformed its own training by nine per cent”. This approach could potentially open the door for making correct classifications of previously unknown or unlabeled data. Their original research paper &lt;a href=&quot;http://ieeexplore.ieee.org/document/7592406/?reload=true&quot;&gt;“Hair Segmentation Using Heuristically-Trained Neural Networks”&lt;/a&gt; is available via the IEEE.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Mining of Massive Datasets</title>
+   <link href="http://localhost:4000/2016/11/17/mmds/"/>
+   <updated>2016-11-17T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/17/mmds</id>
+   <content type="html">&lt;p&gt;Based on Stanford Computer Science course &lt;a href=&quot;http://cs246.stanford.edu/&quot;&gt;CS246: Mining Massive Datasets&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Interactive Machine Learning - MAS.S62 MIT Media Lab</title>
+   <link href="http://localhost:4000/2016/11/17/mit-in/"/>
+   <updated>2016-11-17T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/17/mit-in</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Intro to Machine Learning for developers</title>
+   <link href="http://localhost:4000/2016/11/17/intro-to-ml/"/>
+   <updated>2016-11-17T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/17/intro-to-ml</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>6,000+ businesses use IBM’s supercomputer ‘Watson’ — here’s why</title>
+   <link href="http://localhost:4000/2016/11/17/ibm-watson-biz/"/>
+   <updated>2016-11-17T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/17/ibm-watson-biz</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Embed, encode, attend, predict: The new deep learning formula for state-of-the-art NLP models</title>
+   <link href="http://localhost:4000/2016/11/17/embed-encode/"/>
+   <updated>2016-11-17T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/17/embed-encode</id>
+   <content type="html">&lt;p&gt;“Over the last six months, a powerful new neural network playbook has come together for Natural Language Processing. The new approach can be summarised as a simple four-step formula: embed, encode, attend, predict”&lt;/p&gt;
+
+&lt;p&gt;“Most NLP problems can be reduced to machine learning problems that take one or more texts as input. If we can transform these texts to vectors, we can reuse general purpose deep learning solutions.” - this blog post walks through the how-to.&lt;/p&gt;
+
+&lt;p&gt;See the &lt;a href=&quot;https://github.com/explosion/spaCy/tree/master/examples/keras_parikh_entailment&quot;&gt;Keras implementation using the spaCy NLP library on Github&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Moving machine learning from practice to production</title>
+   <link href="http://localhost:4000/2016/11/17/dev-to-prod/"/>
+   <updated>2016-11-17T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/17/dev-to-prod</id>
+   <content type="html">&lt;p&gt;There exists something of a gulf between appreciating the developments of ML and subsequently deploying them to solve “real-world” tasks, and this blog post walks through several key questions that an engineering team needs to consider in moving from practice through to production. From the Data to the Model and finally Deployment, this is a handy read for those looking to apply ML to their businesses or projects.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Advancing our ambition to democratize artificial intelligence</title>
+   <link href="http://localhost:4000/2016/11/17/democratise-ai-ms/"/>
+   <updated>2016-11-17T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/17/democratise-ai-ms</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Quiver - Interactive convnet features visualization for Keras</title>
+   <link href="http://localhost:4000/2016/11/17/cnn-visualiser/"/>
+   <updated>2016-11-17T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/17/cnn-visualiser</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Just how close are we to solving vision?</title>
+   <link href="http://localhost:4000/2016/11/17/close-to-vision/"/>
+   <updated>2016-11-17T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/17/close-to-vision</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Cartoon intro to Supervised Learning and Unsupervised Learning</title>
+   <link href="http://localhost:4000/2016/11/17/cartoon-supevsunsup/"/>
+   <updated>2016-11-17T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/17/cartoon-supevsunsup</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Augmenting Human Intellect: A Conceptual Framework (1962)</title>
+   <link href="http://localhost:4000/2016/11/17/aug-human-int/"/>
+   <updated>2016-11-17T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/17/aug-human-int</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>AI Experiments</title>
+   <link href="http://localhost:4000/2016/11/17/ai-experiments/"/>
+   <updated>2016-11-17T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/17/ai-experiments</id>
+   <content type="html">&lt;p&gt;Showcase from Google for simple experiments that let anyone play with AI technology in hands-on ways, through pictures, drawings, language, music and your wildest dreams.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Comparison of Brain Networks with Unknown Correspondences</title>
+   <link href="http://localhost:4000/2016/11/15/arxiv-1611-04783/"/>
+   <updated>2016-11-15T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/15/arxiv-1611-04783</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Prediction of Seasonal Temperature Using Soft Computing Techniques:   Application in Benevento (Southern Italy) Area</title>
+   <link href="http://localhost:4000/2016/11/15/arxiv-1611-04767/"/>
+   <updated>2016-11-15T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/15/arxiv-1611-04767</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Differentiable Genetic Programming</title>
+   <link href="http://localhost:4000/2016/11/15/arxiv-1611-04766/"/>
+   <updated>2016-11-15T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/15/arxiv-1611-04766</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Intrinsic Geometric Information Transfer Learning on Multiple   Graph-Structured Datasets</title>
+   <link href="http://localhost:4000/2016/11/15/arxiv-1611-04687/"/>
+   <updated>2016-11-15T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/15/arxiv-1611-04687</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Deep Learning with Sets and Point Clouds</title>
+   <link href="http://localhost:4000/2016/11/14/arxiv-1611-04500/"/>
+   <updated>2016-11-14T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/14/arxiv-1611-04500</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Generate Models and Model Criticism via Optimized Maximum Mean   Discrepancy</title>
+   <link href="http://localhost:4000/2016/11/14/arxiv-1611-04488/"/>
+   <updated>2016-11-14T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/14/arxiv-1611-04488</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Cortical Geometry Network and Topology Markers for Parkinson's Disease</title>
+   <link href="http://localhost:4000/2016/11/14/arxiv-1611-04393/"/>
+   <updated>2016-11-14T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/14/arxiv-1611-04393</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Attending to Characters in Neural Sequence Labeling Models</title>
+   <link href="http://localhost:4000/2016/11/14/arxiv-1611-04361/"/>
+   <updated>2016-11-14T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/14/arxiv-1611-04361</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Identity Matters in Deep Learning</title>
+   <link href="http://localhost:4000/2016/11/14/arxiv-1611-04231/"/>
+   <updated>2016-11-14T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/14/arxiv-1611-04231</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Deep Recurrent Neural Network for Mobile Human Activity Recognition with   High Throughput</title>
+   <link href="http://localhost:4000/2016/11/11/arxiv-1611-03607/"/>
+   <updated>2016-11-11T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/11/arxiv-1611-03607</id>
+   <content type="html">
+</content>
+ </entry>
  
  <entry>
    <title>Tensorflow and Deep Learning (without a PhD)</title>
@@ -130,6 +350,33 @@
  </entry>
  
  <entry>
+   <title>Advancing Memristive Analog Neuromorphic Networks: Increasing   Complexity, and Coping with Imperfect Hardware Components</title>
+   <link href="http://localhost:4000/2016/11/10/arxiv-1611-04465/"/>
+   <updated>2016-11-10T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/10/arxiv-1611-04465</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Proceedings of the Workshop on Brain Analysis using COnnectivity   Networks - BACON 2016</title>
+   <link href="http://localhost:4000/2016/11/10/arxiv-1611-03363/"/>
+   <updated>2016-11-10T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/10/arxiv-1611-03363</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Computing threshold functions using dendrites</title>
+   <link href="http://localhost:4000/2016/11/10/arxiv-1611-03321/"/>
+   <updated>2016-11-10T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/10/arxiv-1611-03321</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
    <title>The Competitive Landscape for Machine Intelligence</title>
    <link href="http://localhost:4000/2016/11/10/ai-cos/"/>
    <updated>2016-11-10T00:00:00+02:00</updated>
@@ -157,37 +404,361 @@
  </entry>
  
  <entry>
-   <title>Finding Local Minima for Nonconvex Optimization in Linear Time</title>
-   <link href="http://localhost:4000/2016/11/03/arxiv-1611-01146v1/"/>
+   <title>Computationally Efficient Target Classification in Multispectral Image   Data with Deep Neural Networks</title>
+   <link href="http://localhost:4000/2016/11/09/arxiv-1611-03130/"/>
+   <updated>2016-11-09T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/09/arxiv-1611-03130</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Incremental Sequence Learning</title>
+   <link href="http://localhost:4000/2016/11/09/arxiv-1611-03068/"/>
+   <updated>2016-11-09T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/09/arxiv-1611-03068</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bio-Inspired Spiking Convolutional Neural Network using Layer-wise   Sparse Coding and STDP Learning</title>
+   <link href="http://localhost:4000/2016/11/09/arxiv-1611-03000/"/>
+   <updated>2016-11-09T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/09/arxiv-1611-03000</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Lie-Access Neural Turing Machines</title>
+   <link href="http://localhost:4000/2016/11/09/arxiv-1611-02854/"/>
+   <updated>2016-11-09T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/09/arxiv-1611-02854</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>RL$^2$: Fast Reinforcement Learning via Slow Reinforcement Learning</title>
+   <link href="http://localhost:4000/2016/11/09/arxiv-1611-02779/"/>
+   <updated>2016-11-09T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/09/arxiv-1611-02779</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Unsupervised Pretraining for Sequence to Sequence Learning</title>
+   <link href="http://localhost:4000/2016/11/08/arxiv-1611-02683/"/>
+   <updated>2016-11-08T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/08/arxiv-1611-02683</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Deep Unsupervised Clustering with Gaussian Mixture Variational   Autoencoders</title>
+   <link href="http://localhost:4000/2016/11/08/arxiv-1611-02648/"/>
+   <updated>2016-11-08T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/08/arxiv-1611-02648</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Neural Noisy Channel</title>
+   <link href="http://localhost:4000/2016/11/08/arxiv-1611-02554/"/>
+   <updated>2016-11-08T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/08/arxiv-1611-02554</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Cognitive Discriminative Mappings for Rapid Learning</title>
+   <link href="http://localhost:4000/2016/11/08/arxiv-1611-02512/"/>
+   <updated>2016-11-08T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/08/arxiv-1611-02512</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>An Efficient Approach to Boosting Performance of Deep Spiking Network   Training</title>
+   <link href="http://localhost:4000/2016/11/08/arxiv-1611-02416/"/>
+   <updated>2016-11-08T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/08/arxiv-1611-02416</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Neural Taylor Approximations: Convergence and Exploration in Rectifier   Networks</title>
+   <link href="http://localhost:4000/2016/11/07/arxiv-1611-02345/"/>
+   <updated>2016-11-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/07/arxiv-1611-02345</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Adversarial Ladder Networks</title>
+   <link href="http://localhost:4000/2016/11/07/arxiv-1611-02320/"/>
+   <updated>2016-11-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/07/arxiv-1611-02320</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Memory-augmented Attention Modelling for Videos</title>
+   <link href="http://localhost:4000/2016/11/07/arxiv-1611-02261/"/>
+   <updated>2016-11-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/07/arxiv-1611-02261</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Neural Networks Designing Neural Networks: Multi-Objective   Hyper-Parameter Optimization</title>
+   <link href="http://localhost:4000/2016/11/07/arxiv-1611-02120/"/>
+   <updated>2016-11-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/07/arxiv-1611-02120</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Low-effort place recognition with WiFi fingerprints using deep learning</title>
+   <link href="http://localhost:4000/2016/11/07/arxiv-1611-02049/"/>
+   <updated>2016-11-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/07/arxiv-1611-02049</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sigma Delta Quantized Networks</title>
+   <link href="http://localhost:4000/2016/11/07/arxiv-1611-02024/"/>
+   <updated>2016-11-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/07/arxiv-1611-02024</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Regularizing CNNs with Locally Constrained Decorrelations</title>
+   <link href="http://localhost:4000/2016/11/07/arxiv-1611-01967/"/>
+   <updated>2016-11-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/07/arxiv-1611-01967</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>DeepSense: A Unified Deep Learning Framework for Time-Series Mobile   Sensing Data Processing</title>
+   <link href="http://localhost:4000/2016/11/07/arxiv-1611-01942/"/>
+   <updated>2016-11-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/07/arxiv-1611-01942</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Learning to Perform Physics Experiments via Deep Reinforcement Learning</title>
+   <link href="http://localhost:4000/2016/11/06/arxiv-1611-01843/"/>
+   <updated>2016-11-06T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/06/arxiv-1611-01843</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Modular Multitask Reinforcement Learning with Policy Sketches</title>
+   <link href="http://localhost:4000/2016/11/06/arxiv-1611-01796/"/>
+   <updated>2016-11-06T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/06/arxiv-1611-01796</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Deep Biaffine Attention for Neural Dependency Parsing</title>
+   <link href="http://localhost:4000/2016/11/06/arxiv-1611-01734/"/>
+   <updated>2016-11-06T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/06/arxiv-1611-01734</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Neuromorphic Silicon Photonics</title>
+   <link href="http://localhost:4000/2016/11/05/arxiv-1611-02272/"/>
+   <updated>2016-11-05T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/05/arxiv-1611-02272</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Comparing learning algorithms in neural network for diagnosing   cardiovascular disease</title>
+   <link href="http://localhost:4000/2016/11/05/arxiv-1611-01678/"/>
+   <updated>2016-11-05T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/05/arxiv-1611-01678</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Generative Multi-Adversarial Networks</title>
+   <link href="http://localhost:4000/2016/11/05/arxiv-1611-01673/"/>
+   <updated>2016-11-05T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/05/arxiv-1611-01673</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Differentiable Physics Engine for Deep Learning in Robotics</title>
+   <link href="http://localhost:4000/2016/11/05/arxiv-1611-01652/"/>
+   <updated>2016-11-05T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/05/arxiv-1611-01652</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Representation of uncertainty in deep neural networks through sampling</title>
+   <link href="http://localhost:4000/2016/11/05/arxiv-1611-01639/"/>
+   <updated>2016-11-05T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/05/arxiv-1611-01639</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Loss-aware Binarization of Deep Networks</title>
+   <link href="http://localhost:4000/2016/11/05/arxiv-1611-01600/"/>
+   <updated>2016-11-05T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/05/arxiv-1611-01600</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Alternating Direction Method of Multipliers for Sparse Convolutional   Neural Networks</title>
+   <link href="http://localhost:4000/2016/11/05/arxiv-1611-01590/"/>
+   <updated>2016-11-05T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/05/arxiv-1611-01590</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Neural Architecture Search with Reinforcement Learning</title>
+   <link href="http://localhost:4000/2016/11/05/arxiv-1611-01578/"/>
+   <updated>2016-11-05T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/05/arxiv-1611-01578</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Quasi-Recurrent Neural Networks</title>
+   <link href="http://localhost:4000/2016/11/05/arxiv-1611-01576/"/>
+   <updated>2016-11-05T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/05/arxiv-1611-01576</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sparsely-Connected Neural Networks: Towards Efficient VLSI   Implementation of Deep Neural Networks</title>
+   <link href="http://localhost:4000/2016/11/04/arxiv-1611-01427/"/>
+   <updated>2016-11-04T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/04/arxiv-1611-01427</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>RenderGAN: Generating Realistic Labeled Data</title>
+   <link href="http://localhost:4000/2016/11/04/arxiv-1611-01331/"/>
+   <updated>2016-11-04T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/04/arxiv-1611-01331</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Semantic Noise Modeling for Better Representation Learning</title>
+   <link href="http://localhost:4000/2016/11/04/arxiv-1611-01268/"/>
+   <updated>2016-11-04T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/04/arxiv-1611-01268</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Self-Driving Robot Using Deep Convolutional Neural Networks on   Neuromorphic Hardware</title>
+   <link href="http://localhost:4000/2016/11/04/arxiv-1611-01235/"/>
+   <updated>2016-11-04T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/04/arxiv-1611-01235</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Combating Reinforcement Learning's Sisyphean Curse with Intrinsic Fear</title>
+   <link href="http://localhost:4000/2016/11/03/arxiv-1611-01211/"/>
    <updated>2016-11-03T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/11/03/arxiv-1611-01146v1</id>
+   <id>http://localhost:4000/2016/11/03/arxiv-1611-01211</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Demystifying ResNet</title>
+   <link href="http://localhost:4000/2016/11/03/arxiv-1611-01186/"/>
+   <updated>2016-11-03T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/03/arxiv-1611-01186</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Finding Approximate Local Minima for Nonconvex Optimization in Linear   Time</title>
+   <link href="http://localhost:4000/2016/11/03/arxiv-1611-01146/"/>
+   <updated>2016-11-03T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/03/arxiv-1611-01146</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Learning to Pivot with Adversarial Networks</title>
-   <link href="http://localhost:4000/2016/11/03/arxiv-1611-01046v1/"/>
+   <link href="http://localhost:4000/2016/11/03/arxiv-1611-01046/"/>
    <updated>2016-11-03T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/11/03/arxiv-1611-01046v1</id>
+   <id>http://localhost:4000/2016/11/03/arxiv-1611-01046</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Maximizing Investment Value of Small-Scale PV in a Smart Grid   Environment</title>
-   <link href="http://localhost:4000/2016/11/03/arxiv-1611-00890v1/"/>
+   <link href="http://localhost:4000/2016/11/03/arxiv-1611-00890/"/>
    <updated>2016-11-03T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/11/03/arxiv-1611-00890v1</id>
+   <id>http://localhost:4000/2016/11/03/arxiv-1611-00890</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Recurrent Neural Networks for Spatiotemporal Dynamics of Intrinsic   Networks from fMRI Data</title>
-   <link href="http://localhost:4000/2016/11/03/arxiv-1611-00864v1/"/>
+   <link href="http://localhost:4000/2016/11/03/arxiv-1611-00864/"/>
    <updated>2016-11-03T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/11/03/arxiv-1611-00864v1</id>
+   <id>http://localhost:4000/2016/11/03/arxiv-1611-00864</id>
    <content type="html">
 </content>
  </entry>
@@ -293,135 +864,135 @@
  
  <entry>
    <title>Deep Convolutional Neural Network Design Patterns</title>
-   <link href="http://localhost:4000/2016/11/02/arxiv-1611-00847v1/"/>
+   <link href="http://localhost:4000/2016/11/02/arxiv-1611-00847/"/>
    <updated>2016-11-02T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/11/02/arxiv-1611-00847v1</id>
+   <id>http://localhost:4000/2016/11/02/arxiv-1611-00847</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Extensions and Limitations of the Neural GPU</title>
-   <link href="http://localhost:4000/2016/11/02/arxiv-1611-00736v1/"/>
+   <link href="http://localhost:4000/2016/11/02/arxiv-1611-00736/"/>
    <updated>2016-11-02T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/11/02/arxiv-1611-00736v1</id>
+   <id>http://localhost:4000/2016/11/02/arxiv-1611-00736</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Deep counter networks for asynchronous event-based processing</title>
-   <link href="http://localhost:4000/2016/11/02/arxiv-1611-00710v1/"/>
+   <link href="http://localhost:4000/2016/11/02/arxiv-1611-00710/"/>
    <updated>2016-11-02T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/11/02/arxiv-1611-00710v1</id>
+   <id>http://localhost:4000/2016/11/02/arxiv-1611-00710</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Surrogate-Assisted Partial Order-based Evolutionary Optimisation</title>
-   <link href="http://localhost:4000/2016/11/01/arxiv-1611-00260v1/"/>
+   <link href="http://localhost:4000/2016/11/01/arxiv-1611-00260/"/>
    <updated>2016-11-01T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/11/01/arxiv-1611-00260v1</id>
+   <id>http://localhost:4000/2016/11/01/arxiv-1611-00260</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Full-Capacity Unitary Recurrent Neural Networks</title>
-   <link href="http://localhost:4000/2016/10/31/arxiv-1611-00035v1/"/>
+   <link href="http://localhost:4000/2016/10/31/arxiv-1611-00035/"/>
    <updated>2016-10-31T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/31/arxiv-1611-00035v1</id>
+   <id>http://localhost:4000/2016/10/31/arxiv-1611-00035</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Tensor Switching Networks</title>
-   <link href="http://localhost:4000/2016/10/31/arxiv-1610-10087v1/"/>
+   <link href="http://localhost:4000/2016/10/31/arxiv-1610-10087/"/>
    <updated>2016-10-31T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/31/arxiv-1610-10087v1</id>
+   <id>http://localhost:4000/2016/10/31/arxiv-1610-10087</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Neural Speech Recognizer: Acoustic-to-Word LSTM Model for Large   Vocabulary Speech Recognition</title>
-   <link href="http://localhost:4000/2016/10/31/arxiv-1610-09975v1/"/>
+   <link href="http://localhost:4000/2016/10/31/arxiv-1610-09975/"/>
    <updated>2016-10-31T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/31/arxiv-1610-09975v1</id>
+   <id>http://localhost:4000/2016/10/31/arxiv-1610-09975</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Depth Separation in ReLU Networks for Approximating Smooth Non-Linear   Functions</title>
-   <link href="http://localhost:4000/2016/10/31/arxiv-1610-09887v1/"/>
+   <link href="http://localhost:4000/2016/10/31/arxiv-1610-09887/"/>
    <updated>2016-10-31T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/31/arxiv-1610-09887v1</id>
+   <id>http://localhost:4000/2016/10/31/arxiv-1610-09887</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>A Survey of Brain Inspired Technologies for Engineering</title>
-   <link href="http://localhost:4000/2016/10/31/arxiv-1610-09882v1/"/>
+   <link href="http://localhost:4000/2016/10/31/arxiv-1610-09882/"/>
    <updated>2016-10-31T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/31/arxiv-1610-09882v1</id>
+   <id>http://localhost:4000/2016/10/31/arxiv-1610-09882</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Feature-Augmented Neural Networks for Patient Note De-identification</title>
-   <link href="http://localhost:4000/2016/10/30/arxiv-1610-09704v1/"/>
+   <link href="http://localhost:4000/2016/10/30/arxiv-1610-09704/"/>
    <updated>2016-10-30T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/30/arxiv-1610-09704v1</id>
+   <id>http://localhost:4000/2016/10/30/arxiv-1610-09704</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Compact Deep Convolutional Neural Networks With Coarse Pruning</title>
-   <link href="http://localhost:4000/2016/10/30/arxiv-1610-09639v1/"/>
+   <link href="http://localhost:4000/2016/10/30/arxiv-1610-09639/"/>
    <updated>2016-10-30T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/30/arxiv-1610-09639v1</id>
+   <id>http://localhost:4000/2016/10/30/arxiv-1610-09639</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Generalized Haar Filter based Deep Networks for Real-Time Object   Detection in Traffic Scene</title>
-   <link href="http://localhost:4000/2016/10/30/arxiv-1610-09609v1/"/>
+   <link href="http://localhost:4000/2016/10/30/arxiv-1610-09609/"/>
    <updated>2016-10-30T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/30/arxiv-1610-09609v1</id>
+   <id>http://localhost:4000/2016/10/30/arxiv-1610-09609</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>A Theoretical Study of The Relationship Between Whole An ELM Network and   Its Subnetworks</title>
-   <link href="http://localhost:4000/2016/10/30/arxiv-1610-09608v1/"/>
+   <link href="http://localhost:4000/2016/10/30/arxiv-1610-09608/"/>
    <updated>2016-10-30T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/30/arxiv-1610-09608v1</id>
+   <id>http://localhost:4000/2016/10/30/arxiv-1610-09608</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Machine learning methods for accurate delineation of tumors in PET   images</title>
-   <link href="http://localhost:4000/2016/10/29/arxiv-1610-09493v1/"/>
+   <link href="http://localhost:4000/2016/10/29/arxiv-1610-09493/"/>
    <updated>2016-10-29T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/29/arxiv-1610-09493v1</id>
+   <id>http://localhost:4000/2016/10/29/arxiv-1610-09493</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Building Energy Load Forecasting using Deep Neural Networks</title>
-   <link href="http://localhost:4000/2016/10/29/arxiv-1610-09460v1/"/>
+   <link href="http://localhost:4000/2016/10/29/arxiv-1610-09460/"/>
    <updated>2016-10-29T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/29/arxiv-1610-09460v1</id>
+   <id>http://localhost:4000/2016/10/29/arxiv-1610-09460</id>
    <content type="html">
 </content>
  </entry>
@@ -554,18 +1125,18 @@
  
  <entry>
    <title>Big Models for Big Data using Multi objective averaged one dependence   estimators</title>
-   <link href="http://localhost:4000/2016/10/25/arxiv-1610-07752v1/"/>
+   <link href="http://localhost:4000/2016/10/25/arxiv-1610-07752/"/>
    <updated>2016-10-25T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/25/arxiv-1610-07752v1</id>
+   <id>http://localhost:4000/2016/10/25/arxiv-1610-07752</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Operational calculus on programming spaces and generalized tensor   networks</title>
-   <link href="http://localhost:4000/2016/10/25/arxiv-1610-07690v1/"/>
+   <link href="http://localhost:4000/2016/10/25/arxiv-1610-07690/"/>
    <updated>2016-10-25T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/25/arxiv-1610-07690v1</id>
+   <id>http://localhost:4000/2016/10/25/arxiv-1610-07690</id>
    <content type="html">
 </content>
  </entry>
@@ -581,54 +1152,45 @@
  
  <entry>
    <title>Surprisal-Driven Zoneout</title>
-   <link href="http://localhost:4000/2016/10/24/arxiv-1610-07675v3/"/>
+   <link href="http://localhost:4000/2016/10/24/arxiv-1610-07675/"/>
    <updated>2016-10-24T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/24/arxiv-1610-07675v3</id>
+   <id>http://localhost:4000/2016/10/24/arxiv-1610-07675</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Learning to Reason With Adaptive Computation</title>
-   <link href="http://localhost:4000/2016/10/24/arxiv-1610-07647v1/"/>
+   <link href="http://localhost:4000/2016/10/24/arxiv-1610-07647/"/>
    <updated>2016-10-24T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/24/arxiv-1610-07647v1</id>
+   <id>http://localhost:4000/2016/10/24/arxiv-1610-07647</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>STDP allows close-to-optimal spatiotemporal spike pattern detection by   single coincidence detector neurons</title>
-   <link href="http://localhost:4000/2016/10/24/arxiv-1610-07355v1/"/>
+   <link href="http://localhost:4000/2016/10/24/arxiv-1610-07355/"/>
    <updated>2016-10-24T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/24/arxiv-1610-07355v1</id>
+   <id>http://localhost:4000/2016/10/24/arxiv-1610-07355</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Representation Learning with Deconvolution for Multivariate Time Series   Classification and Visualization</title>
-   <link href="http://localhost:4000/2016/10/24/arxiv-1610-07258v2/"/>
+   <link href="http://localhost:4000/2016/10/24/arxiv-1610-07258/"/>
    <updated>2016-10-24T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/24/arxiv-1610-07258v2</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
-   <title>Representation Learning with Deconvolution for Multivariate Time Series   Classification and Visualization</title>
-   <link href="http://localhost:4000/2016/10/24/arxiv-1610-07258v1/"/>
-   <updated>2016-10-24T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/24/arxiv-1610-07258v1</id>
+   <id>http://localhost:4000/2016/10/24/arxiv-1610-07258</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Hybrid clustering-classification neural network in the medical   diagnostics of reactive arthritis</title>
-   <link href="http://localhost:4000/2016/10/21/arxiv-1610-07857v1/"/>
+   <link href="http://localhost:4000/2016/10/21/arxiv-1610-07857/"/>
    <updated>2016-10-21T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/21/arxiv-1610-07857v1</id>
+   <id>http://localhost:4000/2016/10/21/arxiv-1610-07857</id>
    <content type="html">
 </content>
  </entry>
@@ -761,117 +1323,108 @@
  
  <entry>
    <title>An Evolving Neuro-Fuzzy System with Online Learning/Self-learning</title>
-   <link href="http://localhost:4000/2016/10/20/arxiv-1610-06488v1/"/>
+   <link href="http://localhost:4000/2016/10/20/arxiv-1610-06488/"/>
    <updated>2016-10-20T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/20/arxiv-1610-06488v1</id>
+   <id>http://localhost:4000/2016/10/20/arxiv-1610-06488</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Adaptive Forecasting of Non-Stationary Nonlinear Time Series Based on   the Evolving Weighted Neuro-Neo-Fuzzy-ANARX-Model</title>
-   <link href="http://localhost:4000/2016/10/20/arxiv-1610-06486v1/"/>
+   <link href="http://localhost:4000/2016/10/20/arxiv-1610-06486/"/>
    <updated>2016-10-20T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/20/arxiv-1610-06486v1</id>
+   <id>http://localhost:4000/2016/10/20/arxiv-1610-06486</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>A Multidimensional Cascade Neuro-Fuzzy System with Neuron Pool   Optimization in Each Cascade</title>
-   <link href="http://localhost:4000/2016/10/20/arxiv-1610-06485v1/"/>
+   <link href="http://localhost:4000/2016/10/20/arxiv-1610-06485/"/>
    <updated>2016-10-20T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/20/arxiv-1610-06485v1</id>
+   <id>http://localhost:4000/2016/10/20/arxiv-1610-06485</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>An Evolving Cascade System Based on A Set Of Neo Fuzzy Nodes</title>
-   <link href="http://localhost:4000/2016/10/20/arxiv-1610-06484v1/"/>
+   <link href="http://localhost:4000/2016/10/20/arxiv-1610-06484/"/>
    <updated>2016-10-20T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/20/arxiv-1610-06484v1</id>
+   <id>http://localhost:4000/2016/10/20/arxiv-1610-06484</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>An Extended Neo-Fuzzy Neuron and its Adaptive Learning Algorithm</title>
-   <link href="http://localhost:4000/2016/10/20/arxiv-1610-06483v1/"/>
+   <link href="http://localhost:4000/2016/10/20/arxiv-1610-06483/"/>
    <updated>2016-10-20T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/20/arxiv-1610-06483v1</id>
+   <id>http://localhost:4000/2016/10/20/arxiv-1610-06483</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Reasoning with Memory Augmented Neural Networks for Language   Comprehension</title>
-   <link href="http://localhost:4000/2016/10/20/arxiv-1610-06454v1/"/>
+   <link href="http://localhost:4000/2016/10/20/arxiv-1610-06454/"/>
    <updated>2016-10-20T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/20/arxiv-1610-06454v1</id>
+   <id>http://localhost:4000/2016/10/20/arxiv-1610-06454</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>A Growing Long-term Episodic &amp; Semantic Memory</title>
-   <link href="http://localhost:4000/2016/10/20/arxiv-1610-06402v1/"/>
+   <link href="http://localhost:4000/2016/10/20/arxiv-1610-06402/"/>
    <updated>2016-10-20T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/20/arxiv-1610-06402v1</id>
+   <id>http://localhost:4000/2016/10/20/arxiv-1610-06402</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Clinical Text Prediction with Numerically Grounded Conditional Language   Models</title>
-   <link href="http://localhost:4000/2016/10/20/arxiv-1610-06370v1/"/>
+   <link href="http://localhost:4000/2016/10/20/arxiv-1610-06370/"/>
    <updated>2016-10-20T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/20/arxiv-1610-06370v1</id>
+   <id>http://localhost:4000/2016/10/20/arxiv-1610-06370</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Deep Neural Networks for Improved, Impromptu Trajectory Tracking of   Quadrotors</title>
-   <link href="http://localhost:4000/2016/10/20/arxiv-1610-06283v1/"/>
+   <link href="http://localhost:4000/2016/10/20/arxiv-1610-06283/"/>
    <updated>2016-10-20T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/20/arxiv-1610-06283v1</id>
+   <id>http://localhost:4000/2016/10/20/arxiv-1610-06283</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Embodiment of Learning in Electro-Optical Signal Processors</title>
-   <link href="http://localhost:4000/2016/10/20/arxiv-1610-06269v2/"/>
+   <link href="http://localhost:4000/2016/10/20/arxiv-1610-06269/"/>
    <updated>2016-10-20T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/20/arxiv-1610-06269v2</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
-   <title>Embodiment of Learning in Electro-Optical Signal Processors</title>
-   <link href="http://localhost:4000/2016/10/20/arxiv-1610-06269v1/"/>
-   <updated>2016-10-20T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/20/arxiv-1610-06269v1</id>
+   <id>http://localhost:4000/2016/10/20/arxiv-1610-06269</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Online Training of an Opto-Electronic Reservoir Computer Applied to   Real-Time Channel Equalisation</title>
-   <link href="http://localhost:4000/2016/10/20/arxiv-1610-06268v1/"/>
+   <link href="http://localhost:4000/2016/10/20/arxiv-1610-06268/"/>
    <updated>2016-10-20T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/20/arxiv-1610-06268v1</id>
+   <id>http://localhost:4000/2016/10/20/arxiv-1610-06268</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Using Fast Weights to Attend to the Recent Past</title>
-   <link href="http://localhost:4000/2016/10/20/arxiv-1610-06258v2/"/>
+   <link href="http://localhost:4000/2016/10/20/arxiv-1610-06258/"/>
    <updated>2016-10-20T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/20/arxiv-1610-06258v2</id>
+   <id>http://localhost:4000/2016/10/20/arxiv-1610-06258</id>
    <content type="html">
 </content>
  </entry>
@@ -887,9 +1440,9 @@
  
  <entry>
    <title>Streaming Normalization: Towards Simpler and More Biologically-plausible   Normalizations for Online and Recurrent Learning</title>
-   <link href="http://localhost:4000/2016/10/19/arxiv-1610-06160v1/"/>
+   <link href="http://localhost:4000/2016/10/19/arxiv-1610-06160/"/>
    <updated>2016-10-19T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/19/arxiv-1610-06160v1</id>
+   <id>http://localhost:4000/2016/10/19/arxiv-1610-06160</id>
    <content type="html">&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
 &lt;blockquote&gt;
   &lt;p&gt;We systematically explored a spectrum of normalization algorithms related to
@@ -911,9 +1464,9 @@ implementations.&lt;/p&gt;
  
  <entry>
    <title>Particle Swarm Optimization for Generating Fuzzy Reinforcement Learning   Policies</title>
-   <link href="http://localhost:4000/2016/10/19/arxiv-1610-05984v1/"/>
+   <link href="http://localhost:4000/2016/10/19/arxiv-1610-05984/"/>
    <updated>2016-10-19T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/19/arxiv-1610-05984v1</id>
+   <id>http://localhost:4000/2016/10/19/arxiv-1610-05984</id>
    <content type="html">&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Fuzzy controllers are known to serve as efficient and interpretable system
@@ -937,9 +1490,9 @@ experiments yielded high performing and well interpretable fuzzy policies.&lt;/p
  
  <entry>
    <title>Scaling Up MAP-Elites Using Centroidal Voronoi Tessellations</title>
-   <link href="http://localhost:4000/2016/10/18/arxiv-1610-05729v1/"/>
+   <link href="http://localhost:4000/2016/10/18/arxiv-1610-05729/"/>
    <updated>2016-10-18T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/18/arxiv-1610-05729v1</id>
+   <id>http://localhost:4000/2016/10/18/arxiv-1610-05729</id>
    <content type="html">&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
 &lt;blockquote&gt;
   &lt;p&gt;The recently introduced Multi-dimensional Archive of Phenotypic Elites
@@ -966,9 +1519,9 @@ comparisons against MAP-Elites in a hexapod locomotion task.&lt;/p&gt;
  
  <entry>
    <title>Design Mining Microbial Fuel Cell Cascades</title>
-   <link href="http://localhost:4000/2016/10/18/arxiv-1610-05716v1/"/>
+   <link href="http://localhost:4000/2016/10/18/arxiv-1610-05716/"/>
    <updated>2016-10-18T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/18/arxiv-1610-05716v1</id>
+   <id>http://localhost:4000/2016/10/18/arxiv-1610-05716</id>
    <content type="html">&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Microbial fuel cells (MFCs) perform wastewater treatment and electricity
@@ -991,9 +1544,9 @@ increase both the cascade power output and power density.&lt;/p&gt;
  
  <entry>
    <title>Online Contrastive Divergence with Generative Replay: Experience Replay   without Storing Data</title>
-   <link href="http://localhost:4000/2016/10/18/arxiv-1610-05555v1/"/>
+   <link href="http://localhost:4000/2016/10/18/arxiv-1610-05555/"/>
    <updated>2016-10-18T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/18/arxiv-1610-05555v1</id>
+   <id>http://localhost:4000/2016/10/18/arxiv-1610-05555</id>
    <content type="html">&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Conceived in the early 1990s, Experience Replay (ER) has been shown to be a
@@ -1020,9 +1573,9 @@ space complexity (i.e., memory usage) at a comparable time complexity.&lt;/p&gt;
  
  <entry>
    <title>Evolving the Structure of Evolution Strategies</title>
-   <link href="http://localhost:4000/2016/10/17/arxiv-1610-05231v1/"/>
+   <link href="http://localhost:4000/2016/10/17/arxiv-1610-05231/"/>
    <updated>2016-10-17T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/17/arxiv-1610-05231v1</id>
+   <id>http://localhost:4000/2016/10/17/arxiv-1610-05231</id>
    <content type="html">&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Various variants of the well known Covariance Matrix Adaptation Evolution
@@ -1050,9 +1603,9 @@ problem classes.&lt;/p&gt;
  
  <entry>
    <title>Weekly maintenance scheduling using exact and genetic methods</title>
-   <link href="http://localhost:4000/2016/10/17/arxiv-1610-05016v1/"/>
+   <link href="http://localhost:4000/2016/10/17/arxiv-1610-05016/"/>
    <updated>2016-10-17T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/17/arxiv-1610-05016v1</id>
+   <id>http://localhost:4000/2016/10/17/arxiv-1610-05016</id>
    <content type="html">&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
 &lt;blockquote&gt;
   &lt;p&gt;The weekly maintenance schedule specifies when maintenance activities should
@@ -1078,9 +1631,9 @@ breakdowns.&lt;/p&gt;
  
  <entry>
    <title>Cached Long Short-Term Memory Neural Networks for Document-Level   Sentiment Classification</title>
-   <link href="http://localhost:4000/2016/10/17/arxiv-1610-04989v1/"/>
+   <link href="http://localhost:4000/2016/10/17/arxiv-1610-04989/"/>
    <updated>2016-10-17T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/17/arxiv-1610-04989v1</id>
+   <id>http://localhost:4000/2016/10/17/arxiv-1610-04989</id>
    <content type="html">&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Recently, neural networks have achieved great success on sentiment
@@ -1101,9 +1654,9 @@ available document-level sentiment analysis datasets.&lt;/p&gt;
  
  <entry>
    <title>Multiple Instance Fuzzy Inference Neural Networks</title>
-   <link href="http://localhost:4000/2016/10/17/arxiv-1610-04973v1/"/>
+   <link href="http://localhost:4000/2016/10/17/arxiv-1610-04973/"/>
    <updated>2016-10-17T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/17/arxiv-1610-04973v1</id>
+   <id>http://localhost:4000/2016/10/17/arxiv-1610-04973</id>
    <content type="html">&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Fuzzy logic is a powerful tool to model knowledge uncertainty, measurements
@@ -1134,9 +1687,9 @@ Penetrating Radar.&lt;/p&gt;
  
  <entry>
    <title>Hadamard Product for Low-rank Bilinear Pooling</title>
-   <link href="http://localhost:4000/2016/10/14/arxiv-1610-04325v1/"/>
+   <link href="http://localhost:4000/2016/10/14/arxiv-1610-04325/"/>
    <updated>2016-10-14T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/14/arxiv-1610-04325v1</id>
+   <id>http://localhost:4000/2016/10/14/arxiv-1610-04325</id>
    <content type="html">&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Bilinear models provide rich representations compared to linear models. They
@@ -1156,18 +1709,18 @@ a better parsimonious property.&lt;/p&gt;
  
  <entry>
    <title>RetiNet: Automatic AMD identification in OCT volumetric data</title>
-   <link href="http://localhost:4000/2016/10/12/arxiv-1610-03628v1/"/>
+   <link href="http://localhost:4000/2016/10/12/arxiv-1610-03628/"/>
    <updated>2016-10-12T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/12/arxiv-1610-03628v1</id>
+   <id>http://localhost:4000/2016/10/12/arxiv-1610-03628</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Optimizing Memory Efficiency for Deep Convolutional Neural Networks on   GPUs</title>
-   <link href="http://localhost:4000/2016/10/12/arxiv-1610-03618v1/"/>
+   <link href="http://localhost:4000/2016/10/12/arxiv-1610-03618/"/>
    <updated>2016-10-12T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/12/arxiv-1610-03618v1</id>
+   <id>http://localhost:4000/2016/10/12/arxiv-1610-03618</id>
    <content type="html">&lt;!--more--&gt;
 
 &lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
