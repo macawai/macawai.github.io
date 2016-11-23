@@ -1,12 +1,12 @@
 ---
 layout: weekly
 
-slug: approaches-techniques-nlp-algorithms-reinforcement
+slug: learning-pruning-life-in-2030-algorithms
 
 thisweek: Thu, 24 Nov 2016
 thisweekid: unhingedoryx
-title: It's all in the approach
+title: Learning and Life
 lastweekid: screamingsloth
-nextweekid: moonstruckcamel 
+nextweekid: moonstruckcamel
 text:
 ---
