@@ -4,13 +4,355 @@
  <title>Macaw AI</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2016-11-17T11:16:59+02:00</updated>
+ <updated>2016-11-25T09:11:46+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Michael Anderson & Clint Walker</name>
    <email>themacawai@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Zero-Shot Translation with Google’s Multilingual Neural Machine Translation System</title>
+   <link href="http://localhost:4000/2016/11/23/zero-shot-translate/"/>
+   <updated>2016-11-23T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/23/zero-shot-translate</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>UN Report: Robots will replace 2/3 of workforce in Developing World</title>
+   <link href="http://localhost:4000/2016/11/23/un-report-robots-jobs/"/>
+   <updated>2016-11-23T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/23/un-report-robots-jobs</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Excellent response to &quot;AI can predict the future criminals based on facial features&quot;</title>
+   <link href="http://localhost:4000/2016/11/23/response-to-bs-research/"/>
+   <updated>2016-11-23T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/23/response-to-bs-research</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Google, Facebook, and Microsoft Are Remaking Themselves Around AI</title>
+   <link href="http://localhost:4000/2016/11/23/remaking-around-ai/"/>
+   <updated>2016-11-23T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/23/remaking-around-ai</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>OpenAI and Microsoft - using Azure for cloud ops</title>
+   <link href="http://localhost:4000/2016/11/23/openai-ms/"/>
+   <updated>2016-11-23T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/23/openai-ms</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>MXNet – Deep Learning Framework of Choice at AWS</title>
+   <link href="http://localhost:4000/2016/11/23/mxnet-aws/"/>
+   <updated>2016-11-23T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/23/mxnet-aws</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Machine Learning Algorithms</title>
+   <link href="http://localhost:4000/2016/11/23/ml-algorithms/"/>
+   <updated>2016-11-23T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/23/ml-algorithms</id>
+   <content type="html">&lt;p&gt;A brilliant starting point for clean Python implementations of various types of machine learning algorithms, using numpy, scipy and autograd. Targeted at people who want to learn internals of ml algorithms or implement them from scratch. Includes implementations for various Deep Learning networks (MLP, CNN, RNN, LSTM), Linear regression, Random Forests and several other algorithms. Great learning resource.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Giant Corporations Are Hoarding the World’s AI Talent</title>
+   <link href="http://localhost:4000/2016/11/23/hoarding-ai-talent/"/>
+   <updated>2016-11-23T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/23/hoarding-ai-talent</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Frequentists should more often consider using Bayesian methods</title>
+   <link href="http://localhost:4000/2016/11/23/frequentists-bayesians/"/>
+   <updated>2016-11-23T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/23/frequentists-bayesians</id>
+   <content type="html">&lt;p&gt;“…finite sample bias could potentially be mitigated by using a weakly informative prior [for small to moderately sized epidemiological studies]”&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Machine Learning for Everyday Tasks</title>
+   <link href="http://localhost:4000/2016/11/23/everyday-tasks/"/>
+   <updated>2016-11-23T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/23/everyday-tasks</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Attacking discrimination with smarter machine learning</title>
+   <link href="http://localhost:4000/2016/11/23/discrimination/"/>
+   <updated>2016-11-23T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/23/discrimination</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Microsoft on Democratizing AI</title>
+   <link href="http://localhost:4000/2016/11/23/democratizing-ai/"/>
+   <updated>2016-11-23T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/23/democratizing-ai</id>
+   <content type="html">&lt;p&gt;A slightly puff-piece, but interesting look at the MS vision for AI&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Data Science Blogs</title>
+   <link href="http://localhost:4000/2016/11/23/data-blogs/"/>
+   <updated>2016-11-23T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/23/data-blogs</id>
+   <content type="html">&lt;p&gt;An excellent list to get your data science blog fix&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A deep learning approach to colorizing images</title>
+   <link href="http://localhost:4000/2016/11/23/colorize/"/>
+   <updated>2016-11-23T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/23/colorize</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tunable Sensitivity to Large Errors in Neural Network Training</title>
+   <link href="http://localhost:4000/2016/11/23/arxiv-1611-07743/"/>
+   <updated>2016-11-23T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/23/arxiv-1611-07743</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Neural Multigrid</title>
+   <link href="http://localhost:4000/2016/11/23/arxiv-1611-07661/"/>
+   <updated>2016-11-23T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/23/arxiv-1611-07661</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Peeking into the neural network architecture used for Google's Neural Machine Translation</title>
+   <link href="http://localhost:4000/2016/11/23/architecture-goog/"/>
+   <updated>2016-11-23T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/23/architecture-goog</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Artificial Intelligence and Life in 2030</title>
+   <link href="http://localhost:4000/2016/11/23/ai-life-2030/"/>
+   <updated>2016-11-23T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/23/ai-life-2030</id>
+   <content type="html">&lt;p&gt;A hundred year study on AI? Yep. &lt;a href=&quot;https://ai100.stanford.edu/&quot;&gt;Thanks Stanford AI100!&lt;/a&gt;. An excellent redux by The Morning Paper of the key findings in this first report. &lt;a href=&quot;https://ai100.stanford.edu/sites/default/files/ai_100_report_0831fnl.pdf&quot;&gt;The full report PDF&lt;/a&gt; is a (fairly long 48 page) great read.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Quad-networks: unsupervised learning to rank for interest point   detection</title>
+   <link href="http://localhost:4000/2016/11/22/arxiv-1611-07571/"/>
+   <updated>2016-11-22T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/22/arxiv-1611-07571</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Recurrent Neural Networks With Limited Numerical Precision</title>
+   <link href="http://localhost:4000/2016/11/21/arxiv-1611-07065/"/>
+   <updated>2016-11-21T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/21/arxiv-1611-07065</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Multiple-View Spectral Clustering for Group-wise Functional Community   Detection</title>
+   <link href="http://localhost:4000/2016/11/21/arxiv-1611-06981/"/>
+   <updated>2016-11-21T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/21/arxiv-1611-06981</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Metaprogramming and Autotuning Framework for Deploying Deep Learning   Applications</title>
+   <link href="http://localhost:4000/2016/11/21/arxiv-1611-06945/"/>
+   <updated>2016-11-21T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/21/arxiv-1611-06945</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Using inspiration from synaptic plasticity rules to optimize traffic   flow in distributed engineered networks</title>
+   <link href="http://localhost:4000/2016/11/21/arxiv-1611-06937/"/>
+   <updated>2016-11-21T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/21/arxiv-1611-06937</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Generalized Dropout</title>
+   <link href="http://localhost:4000/2016/11/21/arxiv-1611-06791/"/>
+   <updated>2016-11-21T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/21/arxiv-1611-06791</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Deep Tensor Convolution on Multicores</title>
+   <link href="http://localhost:4000/2016/11/20/arxiv-1611-06565/"/>
+   <updated>2016-11-20T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/20/arxiv-1611-06565</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Efficient Stochastic Inference of Bitwise Deep Neural Networks</title>
+   <link href="http://localhost:4000/2016/11/20/arxiv-1611-06539/"/>
+   <updated>2016-11-20T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/20/arxiv-1611-06539</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Time Series Classification from Scratch with Deep Neural Networks: A   Strong Baseline</title>
+   <link href="http://localhost:4000/2016/11/20/arxiv-1611-06455/"/>
+   <updated>2016-11-20T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/20/arxiv-1611-06455</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fast Video Classification via Adaptive Cascading of Deep Models</title>
+   <link href="http://localhost:4000/2016/11/20/arxiv-1611-06453/"/>
+   <updated>2016-11-20T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/20/arxiv-1611-06453</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>dMath: Distributed Linear Algebra for DL</title>
+   <link href="http://localhost:4000/2016/11/19/arxiv-1611-07819/"/>
+   <updated>2016-11-19T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/19/arxiv-1611-07819</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Quantized neural network design under weight capacity constraint</title>
+   <link href="http://localhost:4000/2016/11/19/arxiv-1611-06342/"/>
+   <updated>2016-11-19T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/19/arxiv-1611-06342</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Learning the Number of Neurons in Deep Networks</title>
+   <link href="http://localhost:4000/2016/11/19/arxiv-1611-06321/"/>
+   <updated>2016-11-19T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/19/arxiv-1611-06321</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Local minima in training of deep networks</title>
+   <link href="http://localhost:4000/2016/11/19/arxiv-1611-06310/"/>
+   <updated>2016-11-19T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/19/arxiv-1611-06310</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Spikes as regularizers</title>
+   <link href="http://localhost:4000/2016/11/18/arxiv-1611-06245/"/>
+   <updated>2016-11-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/18/arxiv-1611-06245</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Generative Deep Neural Networks for Dialogue: A Short Review</title>
+   <link href="http://localhost:4000/2016/11/18/arxiv-1611-06216/"/>
+   <updated>2016-11-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/18/arxiv-1611-06216</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>NoiseOut: A Simple Way to Prune Neural Networks</title>
+   <link href="http://localhost:4000/2016/11/18/arxiv-1611-06211/"/>
+   <updated>2016-11-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/18/arxiv-1611-06211</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Visualizing and Understanding Curriculum Learning for Long Short-Term   Memory Networks</title>
+   <link href="http://localhost:4000/2016/11/18/arxiv-1611-06204/"/>
+   <updated>2016-11-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/18/arxiv-1611-06204</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>An Empirical Study of Continuous Connectivity Degree Sequence   Equivalents</title>
+   <link href="http://localhost:4000/2016/11/18/arxiv-1611-06197/"/>
+   <updated>2016-11-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/18/arxiv-1611-06197</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Compacting Neural Network Classifiers via Dropout Training</title>
+   <link href="http://localhost:4000/2016/11/18/arxiv-1611-06148/"/>
+   <updated>2016-11-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/18/arxiv-1611-06148</id>
+   <content type="html">
+</content>
+ </entry>
  
  <entry>
    <title>Why is machine learning 'hard'?</title>
@@ -134,11 +476,47 @@
  </entry>
  
  <entry>
+   <title>Designing and Training Feedforward Neural Networks: A Smooth   Optimisation Perspective</title>
+   <link href="http://localhost:4000/2016/11/17/arxiv-1611-05827/"/>
+   <updated>2016-11-17T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/17/arxiv-1611-05827</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>DelugeNets: Deep Networks with Massive and Flexible Cross-layer   Information Inflows</title>
+   <link href="http://localhost:4000/2016/11/17/arxiv-1611-05552/"/>
+   <updated>2016-11-17T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/17/arxiv-1611-05552</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
    <title>AI Experiments</title>
    <link href="http://localhost:4000/2016/11/17/ai-experiments/"/>
    <updated>2016-11-17T00:00:00+02:00</updated>
    <id>http://localhost:4000/2016/11/17/ai-experiments</id>
    <content type="html">&lt;p&gt;Showcase from Google for simple experiments that let anyone play with AI technology in hands-on ways, through pictures, drawings, language, music and your wildest dreams.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Reinforcement Learning with Unsupervised Auxiliary Tasks</title>
+   <link href="http://localhost:4000/2016/11/16/arxiv-1611-05397/"/>
+   <updated>2016-11-16T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/16/arxiv-1611-05397</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Training Spiking Deep Networks for Neuromorphic Hardware</title>
+   <link href="http://localhost:4000/2016/11/16/arxiv-1611-05141/"/>
+   <updated>2016-11-16T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/16/arxiv-1611-05141</id>
+   <content type="html">
 </content>
  </entry>
  
@@ -219,6 +597,15 @@
    <link href="http://localhost:4000/2016/11/14/arxiv-1611-04231/"/>
    <updated>2016-11-14T00:00:00+02:00</updated>
    <id>http://localhost:4000/2016/11/14/arxiv-1611-04231</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sparsey: Event Recognition via Deep Hierarchical Spare Distributed Codes</title>
+   <link href="http://localhost:4000/2016/11/12/arxiv-1611-04023/"/>
+   <updated>2016-11-12T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/12/arxiv-1611-04023</id>
    <content type="html">
 </content>
  </entry>
