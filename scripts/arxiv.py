@@ -75,7 +75,7 @@ for e in entries :
     f.write("  - arxiv\n")
     # TODO: Get the thisweekid better!
     f.write("published_in:\n")
-    f.write("  - unhingedoryx-research\n")
+    f.write("  - moonstruckcamel-research\n")
     f.write("abstract: |\n")
     description = axpath(e, "./Atom:summary/text()")[0]
     description = re.sub("^ *","",description, 0, re.MULTILINE)
