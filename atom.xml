@@ -4,13 +4,233 @@
  <title>Macaw AI</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2016-11-25T09:11:46+02:00</updated>
+ <updated>2016-12-01T14:28:23+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Michael Anderson & Clint Walker</name>
    <email>themacawai@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Why use squared error in statistics?</title>
+   <link href="http://localhost:4000/2016/11/30/use-squared/"/>
+   <updated>2016-11-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/30/use-squared</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Decoding The Thought Vector</title>
+   <link href="http://localhost:4000/2016/11/30/thought-vectors/"/>
+   <updated>2016-11-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/30/thought-vectors</id>
+   <content type="html">&lt;p&gt;Neural nets can be broadly understood as a series of transformations which process data into increasingly abstruse &lt;em&gt;vectors&lt;/em&gt; of representations, believed to represent the data at different layers of abstraction. However the vectors themselves have thus far defied interpretation. The author argues that “we shouldn’t take these vectors literally, but rather as an encoding for a simpler, sparse data structure”, and then proceeds to use this idea to reverse engineer these data structures to assist in decoding the vector’s meaning. Pretty cool interactive results to play with too!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Matrix Multiplication</title>
+   <link href="http://localhost:4000/2016/11/30/matrix-mult/"/>
+   <updated>2016-11-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/30/matrix-mult</id>
+   <content type="html">&lt;p&gt;Handy visual matrix multiplication in your browser&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>AI-powered logo creator doing $15k/mo</title>
+   <link href="http://localhost:4000/2016/11/30/logojoy/"/>
+   <updated>2016-11-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/30/logojoy</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Intel Unveils Strategy for State-of-the-Art Artificial Intelligence</title>
+   <link href="http://localhost:4000/2016/11/30/intel-ai-strat/"/>
+   <updated>2016-11-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/30/intel-ai-strat</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Non-Technical Guide to Machine Learning &amp; Artificial Intelligence</title>
+   <link href="http://localhost:4000/2016/11/30/guide-to/"/>
+   <updated>2016-11-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/30/guide-to</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Simple Economics of Machine Intelligence</title>
+   <link href="http://localhost:4000/2016/11/30/economics-ml/"/>
+   <updated>2016-11-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/30/economics-ml</id>
+   <content type="html">&lt;p&gt;What “digital communication” did for reducing the costs of search and communication (and the economic boom that followed), this article argues “machine intelligence” will do for reducing the costs of prediction, thereby triggering another major economic boom.&lt;/p&gt;
+
+&lt;p&gt;“The first effect of machine intelligence will be to lower the cost of goods and services that rely on prediction.” This will lead to using prediction to perform tasks that never used to rely on it, and importantly, the value of those activities and services that complement prediction will rise.&lt;/p&gt;
+
+&lt;p&gt;As such, “lots of tasks will be reframed as prediction problems”. Indeed.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How to Develop a Data Science Project using the Lean Startup Method</title>
+   <link href="http://localhost:4000/2016/11/30/datascience-proj/"/>
+   <updated>2016-11-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/30/datascience-proj</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Probability and Statistics Cookbook</title>
+   <link href="http://localhost:4000/2016/11/30/cookbook/"/>
+   <updated>2016-11-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/30/cookbook</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Chai - open source neural network library</title>
+   <link href="http://localhost:4000/2016/11/30/chai/"/>
+   <updated>2016-11-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/30/chai</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>An Open Source AWS AMI for training your own Prisma-style photo filters</title>
+   <link href="http://localhost:4000/2016/11/30/aws-ami/"/>
+   <updated>2016-11-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/30/aws-ami</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Statistical Mistakes and How to Avoid Them</title>
+   <link href="http://localhost:4000/2016/11/30/avoid-stats-mistakes/"/>
+   <updated>2016-11-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/30/avoid-stats-mistakes</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Amazon Rekognition – Image Detection and Recognition Powered by Deep Learning</title>
+   <link href="http://localhost:4000/2016/11/30/amazon-image/"/>
+   <updated>2016-11-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/30/amazon-image</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Multi-objective Active Control Policy Design for Commensurate and   Incommensurate Fractional Order Chaotic Financial Systems</title>
+   <link href="http://localhost:4000/2016/11/29/arxiv-1611-09835/"/>
+   <updated>2016-11-29T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/29/arxiv-1611-09835</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fractional Order Load-Frequency Control of Interconnected Power Systems   Using Chaotic Multi-objective Optimization</title>
+   <link href="http://localhost:4000/2016/11/29/arxiv-1611-09802/"/>
+   <updated>2016-11-29T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/29/arxiv-1611-09802</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fractional Order AGC for Distributed Energy Resources Using Robust   Optimization</title>
+   <link href="http://localhost:4000/2016/11/29/arxiv-1611-09755/"/>
+   <updated>2016-11-29T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/29/arxiv-1611-09755</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Intelligible Language Modeling with Input Switched Affine Networks</title>
+   <link href="http://localhost:4000/2016/11/28/arxiv-1611-09434/"/>
+   <updated>2016-11-28T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/28/arxiv-1611-09434</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Emergence of foveal image sampling from learning to attend in visual   scenes</title>
+   <link href="http://localhost:4000/2016/11/28/arxiv-1611-09430/"/>
+   <updated>2016-11-28T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/28/arxiv-1611-09430</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Dense Prediction on Sequences with Time-Dilated Convolutions for Speech   Recognition</title>
+   <link href="http://localhost:4000/2016/11/28/arxiv-1611-09288/"/>
+   <updated>2016-11-28T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/28/arxiv-1611-09288</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Efficient Convolutional Auto-Encoding via Random Convexification and   Frequency-Domain Minimization</title>
+   <link href="http://localhost:4000/2016/11/28/arxiv-1611-09232/"/>
+   <updated>2016-11-28T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/28/arxiv-1611-09232</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Dynamic landscape models of coevolutionary games</title>
+   <link href="http://localhost:4000/2016/11/28/arxiv-1611-09149/"/>
+   <updated>2016-11-28T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/28/arxiv-1611-09149</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Kernel classification of connectomes based on earth mover's distance   between graph spectra</title>
+   <link href="http://localhost:4000/2016/11/27/arxiv-1611-08812/"/>
+   <updated>2016-11-27T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/27/arxiv-1611-08812</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Learning Python Code Suggestion with a Sparse Pointer Network</title>
+   <link href="http://localhost:4000/2016/11/24/arxiv-1611-08307/"/>
+   <updated>2016-11-24T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/24/arxiv-1611-08307</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Survey of Expressivity in Deep Neural Networks</title>
+   <link href="http://localhost:4000/2016/11/24/arxiv-1611-08083/"/>
+   <updated>2016-11-24T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/11/24/arxiv-1611-08083</id>
+   <content type="html">
+</content>
+ </entry>
  
  <entry>
    <title>Zero-Shot Translation with Google’s Multilingual Neural Machine Translation System</title>
