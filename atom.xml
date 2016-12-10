@@ -4,13 +4,157 @@
  <title>Macaw AI</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2016-12-01T14:28:23+02:00</updated>
+ <updated>2016-12-10T08:49:26+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Michael Anderson & Clint Walker</name>
    <email>themacawai@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>The Race For AI: A look at acquisitions and acquirers</title>
+   <link href="http://localhost:4000/news-feature/2016/12/07/ycbrt2gsvdqfs0ykq51urf6r/"/>
+   <updated>2016-12-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news-feature/2016/12/07/ycbrt2gsvdqfs0ykq51urf6r</id>
+   <content type="html">&lt;p&gt;“Nearly 140 private companies working to advance artificial intelligence technologies have been acquired since 2011, with over 40 acquisitions taking place in 2016 alone.” CB Insights provides an excellent overview of M&amp;amp;A activity over the past few years, looking at the top acquirers, the rate of acquisitions and a list of the “who and when” in the space.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Superintelligence: The Idea That Eats Smart</title>
+   <link href="http://localhost:4000/news/2016/12/07/x3uqrlgavl01ioa21flqmpldi/"/>
+   <updated>2016-12-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2016/12/07/x3uqrlgavl01ioa21flqmpldi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Recurrent dreams and filling in</title>
+   <link href="http://localhost:4000/news/2016/12/07/uxy092sdgxpi1z0w9oro7ds4i/"/>
+   <updated>2016-12-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2016/12/07/uxy092sdgxpi1z0w9oro7ds4i</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Python Machine Learning Tutorial, Scikit-Learn: Wine Snob Edition</title>
+   <link href="http://localhost:4000/other/2016/12/07/pmy7vhzd82ha12fy9ntofajor/"/>
+   <updated>2016-12-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2016/12/07/pmy7vhzd82ha12fy9ntofajor</id>
+   <content type="html">&lt;p&gt;Learn how to use Scikit-Learn to build and tune a supervised learning model&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Datasets for Machine Learning</title>
+   <link href="http://localhost:4000/other/2016/12/07/oszxo7ju51rujm6mtop2xzuxr/"/>
+   <updated>2016-12-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2016/12/07/oszxo7ju51rujm6mtop2xzuxr</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>No bullshit guide to linear algebra</title>
+   <link href="http://localhost:4000/other/2016/12/07/oo498twb0nhcz355klnmi/"/>
+   <updated>2016-12-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2016/12/07/oo498twb0nhcz355klnmi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Open-sourcing DeepMind Lab</title>
+   <link href="http://localhost:4000/news/2016/12/07/m6ijwreu73uf21cbvqu1pp66r/"/>
+   <updated>2016-12-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2016/12/07/m6ijwreu73uf21cbvqu1pp66r</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Python Machine Learning</title>
+   <link href="http://localhost:4000/other/2016/12/07/lbpiyy4tttakj5dhxfw9daemi/"/>
+   <updated>2016-12-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2016/12/07/lbpiyy4tttakj5dhxfw9daemi</id>
+   <content type="html">&lt;p&gt;Learn how to build powerful Python machine learning algorithms to generate useful data insights with this data analysis tutorial&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Deep Learning the Stock Market</title>
+   <link href="http://localhost:4000/news/2016/12/07/ku39wq0sja6mucqwh38w4gqfr/"/>
+   <updated>2016-12-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2016/12/07/ku39wq0sja6mucqwh38w4gqfr</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>China has eclipsed US in AI, robotics and VC funding</title>
+   <link href="http://localhost:4000/news/2016/12/07/j75cqy7r69cqr2zcxmomholxr/"/>
+   <updated>2016-12-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2016/12/07/j75cqy7r69cqr2zcxmomholxr</id>
+   <content type="html">&lt;p&gt;Some pretty graphs and pictures showing the fact that China is dropping some serious coin on our favourite topics. Is this what the prequel to economic conquest looks like? Maybe. Maybe. Watch this space.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Model-based Machine Learning</title>
+   <link href="http://localhost:4000/other/2016/12/07/hqxpcgj8m6b3oct2ogremte29/"/>
+   <updated>2016-12-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2016/12/07/hqxpcgj8m6b3oct2ogremte29</id>
+   <content type="html">&lt;p&gt;Systematic approach to creating machine learning solutions to real-world problems&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>DeepMind's Mustafa Suleyman says general AI is still a long way off</title>
+   <link href="http://localhost:4000/news/2016/12/07/gl0znh00dn49muiklewjnhfr/"/>
+   <updated>2016-12-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2016/12/07/gl0znh00dn49muiklewjnhfr</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The major advancements in Deep Learning in 2016</title>
+   <link href="http://localhost:4000/news-feature/2016/12/07/cn0kwl8zk5v4o0bjrj4v64unmi/"/>
+   <updated>2016-12-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news-feature/2016/12/07/cn0kwl8zk5v4o0bjrj4v64unmi</id>
+   <content type="html">&lt;p&gt;Keen to get an overview of the highlights in Deep Learning advances in 2016? Look no further. This post summarises some of the more notable breakthroughs and progressions in the field, including work in Unsupervised Learning, Generative Models and Natural Language Processing. Touches on the democratization of AI, and the communities building up around this.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>This AI Boom Will Also Bust</title>
+   <link href="http://localhost:4000/news/2016/12/07/743lcrxdhx0l9r85fw14ydgqfr/"/>
+   <updated>2016-12-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2016/12/07/743lcrxdhx0l9r85fw14ydgqfr</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Create your own AI Brain</title>
+   <link href="http://localhost:4000/other/2016/12/07/4jc6eakwt6lv1glk8h1moyldi/"/>
+   <updated>2016-12-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2016/12/07/4jc6eakwt6lv1glk8h1moyldi</id>
+   <content type="html">&lt;p&gt;Simulate artificial brain architecture, share knowledge, and exchange feedback&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>80% of IT Jobs can be Replaced by Automation, and it’s ‘Exciting’</title>
+   <link href="http://localhost:4000/news/2016/12/07/13ok96bt15dv7p1e8iqd5qm2t9/"/>
+   <updated>2016-12-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2016/12/07/13ok96bt15dv7p1e8iqd5qm2t9</id>
+   <content type="html">
+</content>
+ </entry>
  
  <entry>
    <title>Why use squared error in statistics?</title>
