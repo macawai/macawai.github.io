@@ -4,13 +4,130 @@
  <title>Macaw AI</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2016-12-10T08:49:26+02:00</updated>
+ <updated>2016-12-16T13:17:46+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Michael Anderson & Clint Walker</name>
    <email>themacawai@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>The AI Programmer's Bookshelf</title>
+   <link href="http://localhost:4000/other/2016/12/15/tued77gdzfjicl6hsuyd2huxr/"/>
+   <updated>2016-12-15T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2016/12/15/tued77gdzfjicl6hsuyd2huxr</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>2016: The year AI got creative</title>
+   <link href="http://localhost:4000/news-feature/2016/12/15/q44dmp8fhqikg4bf46jg1ra4i/"/>
+   <updated>2016-12-15T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news-feature/2016/12/15/q44dmp8fhqikg4bf46jg1ra4i</id>
+   <content type="html">&lt;p&gt;A look at some of the most interesting and amusing machine learning applied developments in the creative field. From AI sitcoms, films, pop songs and poetry, this a great summary review of some of the highlights in 2016.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Radeon Instinct – Optimized Machine and Deep Learning</title>
+   <link href="http://localhost:4000/other/2016/12/15/d79m0wunl0xc7bf7vl8xjq0k9/"/>
+   <updated>2016-12-15T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2016/12/15/d79m0wunl0xc7bf7vl8xjq0k9</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Visual and Interactive Guide to the Basics of Neural Networks</title>
+   <link href="http://localhost:4000/news-feature/2016/12/15/btwmqahec8udycipyfjhh0k9/"/>
+   <updated>2016-12-15T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news-feature/2016/12/15/btwmqahec8udycipyfjhh0k9</id>
+   <content type="html">&lt;p&gt;A simple, interactive introduction to the concepts of neural networks, gradient descent, loss functions and classification. Very easy reading, great examples and a soft touch approach to the intro ideas behind machine learning. Intended as an onramp for TensorFlow tutorials.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Deep Learning Cheat Sheet</title>
+   <link href="http://localhost:4000/other/2016/12/13/vucz8etrsa8bd5qaafm9uow29/"/>
+   <updated>2016-12-13T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2016/12/13/vucz8etrsa8bd5qaafm9uow29</id>
+   <content type="html">&lt;p&gt;Common concepts found in Deep Learning&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Artificial intelligence: an overview for policy-makers</title>
+   <link href="http://localhost:4000/news/2016/12/13/vbyd2htkxu3tovmjpnawtgldi/"/>
+   <updated>2016-12-13T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2016/12/13/vbyd2htkxu3tovmjpnawtgldi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The New Intel: How Nvidia Went From Powering Video Games To Revolutionizing Artificial Intelligence</title>
+   <link href="http://localhost:4000/news/2016/12/13/oi09noqegmilxd4f9k03mzpvi/"/>
+   <updated>2016-12-13T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2016/12/13/oi09noqegmilxd4f9k03mzpvi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>DeepMind Lab: A customisable 3D platform for agent-based AI research</title>
+   <link href="http://localhost:4000/other/2016/12/13/f7hbdiipq7tv8rz83l7toi529/"/>
+   <updated>2016-12-13T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2016/12/13/f7hbdiipq7tv8rz83l7toi529</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Great A.I. Awakening</title>
+   <link href="http://localhost:4000/news/2016/12/13/balwzxcpceaat3gd14sy1ll3di/"/>
+   <updated>2016-12-13T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2016/12/13/balwzxcpceaat3gd14sy1ll3di</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Unexpected sources of bias in artificial intelligence</title>
+   <link href="http://localhost:4000/news/2016/12/13/4hybn8vrzr8f9jaegp9ivvlsor/"/>
+   <updated>2016-12-13T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2016/12/13/4hybn8vrzr8f9jaegp9ivvlsor</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Open Source Deep Learning Curriculum</title>
+   <link href="http://localhost:4000/other/2016/12/13/14ef5qzshk1h3d2lll7toi529/"/>
+   <updated>2016-12-13T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2016/12/13/14ef5qzshk1h3d2lll7toi529</id>
+   <content type="html">&lt;p&gt;A starting point for anyone interested in seriously studying the field&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Public Policy Implications of Artificial Intelligence</title>
+   <link href="http://localhost:4000/news/2016/12/10/s2r95e23w56u68yh4kl9dx6r/"/>
+   <updated>2016-12-10T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2016/12/10/s2r95e23w56u68yh4kl9dx6r</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Michigan Just Passed the Most Permissive Self-Driving Car Laws in the Country</title>
+   <link href="http://localhost:4000/news/2016/12/10/gmdg7g9m1laeqadmy5mte29/"/>
+   <updated>2016-12-10T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2016/12/10/gmdg7g9m1laeqadmy5mte29</id>
+   <content type="html">
+</content>
+ </entry>
  
  <entry>
    <title>The Race For AI: A look at acquisitions and acquirers</title>
