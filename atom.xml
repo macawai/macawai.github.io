@@ -4,13 +4,177 @@
  <title>Macaw AI</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2016-12-16T13:17:46+02:00</updated>
+ <updated>2017-01-18T11:00:53+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Michael Anderson & Clint Walker</name>
    <email>themacawai@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Microsoft’s Nadella Warns Against ‘Hubris’ Amid AI Growth</title>
+   <link href="http://localhost:4000/news-feature/2017/01/18/d5ht6j1dh5eys3oo5q8woecdi/"/>
+   <updated>2017-01-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news-feature/2017/01/18/d5ht6j1dh5eys3oo5q8woecdi</id>
+   <content type="html">&lt;p&gt;Nadella, and by extension Microsoft, are playing the “lets ‘democratise’ AI to empower people” game rather than the “lets replace all the humans” version. This is a lovely idea, and somewhat oppositional to the broader consensus. Time will tell (if they mean it, and if it works). The title is slightly misleading however, as the hubris referred to is in relation to being overconfident in the picking of trends and the myopic focus on one product rather than allowing an evolution to take place.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Origins and Future of AI at Facebook</title>
+   <link href="http://localhost:4000/news/2017/01/18/9fhlc9kn8gojmskhndfxyldi/"/>
+   <updated>2017-01-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/01/18/9fhlc9kn8gojmskhndfxyldi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>AI Pioneer Wants to Build the Renaissance Machine of the Future</title>
+   <link href="http://localhost:4000/news-feature/2017/01/17/z8lxegepw6tbyr7zy3at6gvi/"/>
+   <updated>2017-01-17T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news-feature/2017/01/17/z8lxegepw6tbyr7zy3at6gvi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>AI Guild: A podcast akin to grabbing coffee with Creative AI researchers</title>
+   <link href="http://localhost:4000/other/2017/01/17/tde7jxdzy9qi2bvgun4cgnwmi/"/>
+   <updated>2017-01-17T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/01/17/tde7jxdzy9qi2bvgun4cgnwmi</id>
+   <content type="html">&lt;p&gt;It’s a podcast akin to grabbing coffee with Creative AI researchers. The target audience is people with technical competency.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Artificial intelligence predicts when heart will fail</title>
+   <link href="http://localhost:4000/news/2017/01/17/q30ckap6n46i37e9tth6qd7vi/"/>
+   <updated>2017-01-17T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/01/17/q30ckap6n46i37e9tth6qd7vi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Google Tensorflow chooses Keras to add to core</title>
+   <link href="http://localhost:4000/news/2017/01/17/md68qchnp07y3j7snm8qto6r/"/>
+   <updated>2017-01-17T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/01/17/md68qchnp07y3j7snm8qto6r</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Best Practices for ML Engineering from Google</title>
+   <link href="http://localhost:4000/other/2017/01/17/it35yhpx6veb75ifb8s62yb9/"/>
+   <updated>2017-01-17T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/01/17/it35yhpx6veb75ifb8s62yb9</id>
+   <content type="html">&lt;p&gt;Get the benefit of best practices in machine learning from around Google&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Microsoft acquires deep learning startup Maluuba</title>
+   <link href="http://localhost:4000/news/2017/01/17/hoqk7oturjmuczqj7d1s8aor/"/>
+   <updated>2017-01-17T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/01/17/hoqk7oturjmuczqj7d1s8aor</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>BlackRock's Robot Stock-Pickers Post Record Losses</title>
+   <link href="http://localhost:4000/news/2017/01/17/gpmveds157is20pssifwdn29/"/>
+   <updated>2017-01-17T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/01/17/gpmveds157is20pssifwdn29</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Game Theory reveals the Future of Deep Learning</title>
+   <link href="http://localhost:4000/news-feature/2017/01/17/dxf2f3fnc2rv6vku2fzu84cxr/"/>
+   <updated>2017-01-17T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news-feature/2017/01/17/dxf2f3fnc2rv6vku2fzu84cxr</id>
+   <content type="html">&lt;p&gt;Decision making in the context of imperfect knowledge: sounds a lot like sitting in a holding cell wondering if your partner is going to rat on you. And now, adversarial networks are leveraging game theory to make predictions about the unknown. A rather pithy quote points out the meta-ness, “In our quest of understanding learning machines we end up with mathematics that were meant for the study of the interactions of intelligent beings”. Awesome.&lt;/p&gt;
+
+&lt;p&gt;And check out the research paper on &lt;a href=&quot;https://arxiv.org/pdf/1701.01724v1.pdf&quot;&gt;“Counter Factual Reasoning and Deep Learning”&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Artificial intelligence is going to make it easier than ever to fake images and video</title>
+   <link href="http://localhost:4000/news/2017/01/17/74sbz8xydmkbtke7zs726xyldi/"/>
+   <updated>2017-01-17T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/01/17/74sbz8xydmkbtke7zs726xyldi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Incredible Shrinking Neural Network: New Perspectives on Learning   Representations Through The Lens of Pruning</title>
+   <link href="http://localhost:4000/2017/01/16/arxiv-1701-04465/"/>
+   <updated>2017-01-16T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/01/16/arxiv-1701-04465</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Automatic Knot Adjustment Using Dolphin Echolocation Algorithm for   B-Spline Curve Approximation</title>
+   <link href="http://localhost:4000/2017/01/16/arxiv-1701-04383/"/>
+   <updated>2017-01-16T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/01/16/arxiv-1701-04383</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Long Timescale Credit Assignment in NeuralNetworks with External Memory</title>
+   <link href="http://localhost:4000/2017/01/14/arxiv-1701-03866/"/>
+   <updated>2017-01-14T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/01/14/arxiv-1701-03866</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>End-to-End ASR-free Keyword Search from Speech</title>
+   <link href="http://localhost:4000/2017/01/13/arxiv-1701-04313/"/>
+   <updated>2017-01-13T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/01/13/arxiv-1701-04313</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>LIDE: Language Identification from Text Documents</title>
+   <link href="http://localhost:4000/2017/01/13/arxiv-1701-03682/"/>
+   <updated>2017-01-13T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/01/13/arxiv-1701-03682</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Simplified Gating in Long Short-term Memory (LSTM) Recurrent Neural   Networks</title>
+   <link href="http://localhost:4000/2017/01/12/arxiv-1701-03441/"/>
+   <updated>2017-01-12T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/01/12/arxiv-1701-03441</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Modularized Morphing of Neural Networks</title>
+   <link href="http://localhost:4000/2017/01/12/arxiv-1701-03281/"/>
+   <updated>2017-01-12T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/01/12/arxiv-1701-03281</id>
+   <content type="html">
+</content>
+ </entry>
  
  <entry>
    <title>The AI Programmer's Bookshelf</title>
@@ -112,6 +276,42 @@
  </entry>
  
  <entry>
+   <title>Neurogenesis Deep Learning</title>
+   <link href="http://localhost:4000/2016/12/12/arxiv-1612-03770/"/>
+   <updated>2016-12-12T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/12/12/arxiv-1612-03770</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Empirical Evaluation of A New Approach to Simplifying Long Short-term   Memory (LSTM)</title>
+   <link href="http://localhost:4000/2016/12/12/arxiv-1612-03707/"/>
+   <updated>2016-12-12T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/12/12/arxiv-1612-03707</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Self-calibrating Neural Networks for Dimensionality Reduction</title>
+   <link href="http://localhost:4000/2016/12/11/arxiv-1612-03480/"/>
+   <updated>2016-12-11T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/12/11/arxiv-1612-03480</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Improved Quick Hypervolume Algorithm</title>
+   <link href="http://localhost:4000/2016/12/11/arxiv-1612-03402/"/>
+   <updated>2016-12-11T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/12/11/arxiv-1612-03402</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
    <title>The Public Policy Implications of Artificial Intelligence</title>
    <link href="http://localhost:4000/news/2016/12/10/s2r95e23w56u68yh4kl9dx6r/"/>
    <updated>2016-12-10T00:00:00+02:00</updated>
@@ -125,6 +325,69 @@
    <link href="http://localhost:4000/news/2016/12/10/gmdg7g9m1laeqadmy5mte29/"/>
    <updated>2016-12-10T00:00:00+02:00</updated>
    <id>http://localhost:4000/news/2016/12/10/gmdg7g9m1laeqadmy5mte29</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Generalized Deep Image to Image Regression</title>
+   <link href="http://localhost:4000/2016/12/10/arxiv-1612-03268/"/>
+   <updated>2016-12-10T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/12/10/arxiv-1612-03268</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Towards deep learning with spiking neurons in energy based models with   contrastive Hebbian plasticity</title>
+   <link href="http://localhost:4000/2016/12/09/arxiv-1612-03214/"/>
+   <updated>2016-12-09T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/12/09/arxiv-1612-03214</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Field-Programmable Crossbar Array (FPCA) for Reconfigurable Computing</title>
+   <link href="http://localhost:4000/2016/12/09/arxiv-1612-02913/"/>
+   <updated>2016-12-09T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/12/09/arxiv-1612-02913</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Coupling Distributed and Symbolic Execution for Natural Language Queries</title>
+   <link href="http://localhost:4000/2016/12/08/arxiv-1612-02741/"/>
+   <updated>2016-12-08T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/12/08/arxiv-1612-02741</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Learning in the Machine: Random Backpropagation and the Learning Channel</title>
+   <link href="http://localhost:4000/2016/12/08/arxiv-1612-02734/"/>
+   <updated>2016-12-08T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/12/08/arxiv-1612-02734</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Towards better decoding and language model integration in sequence to   sequence models</title>
+   <link href="http://localhost:4000/2016/12/08/arxiv-1612-02695/"/>
+   <updated>2016-12-08T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/12/08/arxiv-1612-02695</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Geometric Decomposition of Feed Forward Neural Networks</title>
+   <link href="http://localhost:4000/2016/12/08/arxiv-1612-02522/"/>
+   <updated>2016-12-08T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/12/08/arxiv-1612-02522</id>
    <content type="html">
 </content>
  </entry>
@@ -247,6 +510,51 @@
  </entry>
  
  <entry>
+   <title>A Review of Intelligent Practices for Irrigation Prediction</title>
+   <link href="http://localhost:4000/2016/12/07/arxiv-1612-02893/"/>
+   <updated>2016-12-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/12/07/arxiv-1612-02893</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Improving the Performance of Neural Machine Translation Involving   Morphologically Rich Languages</title>
+   <link href="http://localhost:4000/2016/12/07/arxiv-1612-02482/"/>
+   <updated>2016-12-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/12/07/arxiv-1612-02482</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Neural Turing Machines: Convergence of Copy Tasks</title>
+   <link href="http://localhost:4000/2016/12/07/arxiv-1612-02336/"/>
+   <updated>2016-12-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/12/07/arxiv-1612-02336</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A simple and efficient SNN and its performance &amp; robustness evaluation   method to enable hardware implementation</title>
+   <link href="http://localhost:4000/2016/12/07/arxiv-1612-02233/"/>
+   <updated>2016-12-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/12/07/arxiv-1612-02233</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Mode Regularized Generative Adversarial Networks</title>
+   <link href="http://localhost:4000/2016/12/07/arxiv-1612-02136/"/>
+   <updated>2016-12-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/12/07/arxiv-1612-02136</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
    <title>This AI Boom Will Also Bust</title>
    <link href="http://localhost:4000/news/2016/12/07/743lcrxdhx0l9r85fw14ydgqfr/"/>
    <updated>2016-12-07T00:00:00+02:00</updated>
@@ -269,6 +577,132 @@
    <link href="http://localhost:4000/news/2016/12/07/13ok96bt15dv7p1e8iqd5qm2t9/"/>
    <updated>2016-12-07T00:00:00+02:00</updated>
    <id>http://localhost:4000/news/2016/12/07/13ok96bt15dv7p1e8iqd5qm2t9</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Semi-Supervised Learning with the Deep Rendering Mixture Model</title>
+   <link href="http://localhost:4000/2016/12/06/arxiv-1612-01942/"/>
+   <updated>2016-12-06T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/12/06/arxiv-1612-01942</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Correlation Alignment for Unsupervised Domain Adaptation</title>
+   <link href="http://localhost:4000/2016/12/06/arxiv-1612-01939/"/>
+   <updated>2016-12-06T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/12/06/arxiv-1612-01939</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Probabilistic Framework for Deep Learning</title>
+   <link href="http://localhost:4000/2016/12/06/arxiv-1612-01936/"/>
+   <updated>2016-12-06T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/12/06/arxiv-1612-01936</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Statistical mechanics of unsupervised feature learning in a restricted   Boltzmann machine with binary synapses</title>
+   <link href="http://localhost:4000/2016/12/06/arxiv-1612-01717/"/>
+   <updated>2016-12-06T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/12/06/arxiv-1612-01717</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Improving the Performance of Neural Networks in Regression Tasks Using   Drawering</title>
+   <link href="http://localhost:4000/2016/12/05/arxiv-1612-01589/"/>
+   <updated>2016-12-05T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/12/05/arxiv-1612-01589</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Towards the Limit of Network Quantization</title>
+   <link href="http://localhost:4000/2016/12/05/arxiv-1612-01543/"/>
+   <updated>2016-12-05T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/12/05/arxiv-1612-01543</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>BrainFrame: A heterogeneous accelerator platform for neuron simulations</title>
+   <link href="http://localhost:4000/2016/12/05/arxiv-1612-01501/"/>
+   <updated>2016-12-05T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/12/05/arxiv-1612-01501</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Enabling Bio-Plausible Multi-level STDP using CMOS Neurons with   Dendrites and Bistable RRAMs</title>
+   <link href="http://localhost:4000/2016/12/05/arxiv-1612-01491/"/>
+   <updated>2016-12-05T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/12/05/arxiv-1612-01491</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Message Passing Multi-Agent GANs</title>
+   <link href="http://localhost:4000/2016/12/05/arxiv-1612-01294/"/>
+   <updated>2016-12-05T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/12/05/arxiv-1612-01294</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Known Unknowns: Uncertainty Quality in Bayesian Neural Networks</title>
+   <link href="http://localhost:4000/2016/12/05/arxiv-1612-01251/"/>
+   <updated>2016-12-05T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/12/05/arxiv-1612-01251</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Semi-supervised learning of deep metrics for stereo reconstruction</title>
+   <link href="http://localhost:4000/2016/12/03/arxiv-1612-00979/"/>
+   <updated>2016-12-03T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/12/03/arxiv-1612-00979</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Positive blood culture detection in time series data using a BiLSTM   network</title>
+   <link href="http://localhost:4000/2016/12/03/arxiv-1612-00962/"/>
+   <updated>2016-12-03T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/12/03/arxiv-1612-00962</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Parameter Compression of Recurrent Neural Networks and Degredation of   Short-term Memory</title>
+   <link href="http://localhost:4000/2016/12/02/arxiv-1612-00891/"/>
+   <updated>2016-12-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/12/02/arxiv-1612-00891</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Summary - TerpreT: A Probabilistic Programming Language for Program   Induction</title>
+   <link href="http://localhost:4000/2016/12/02/arxiv-1612-00817/"/>
+   <updated>2016-12-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2016/12/02/arxiv-1612-00817</id>
    <content type="html">
 </content>
  </entry>
