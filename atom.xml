@@ -4,7 +4,7 @@
  <title>Macaw AI</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2017-01-18T11:00:53+02:00</updated>
+ <updated>2017-01-26T10:51:28+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Michael Anderson & Clint Walker</name>
@@ -13,11 +13,281 @@
 
  
  <entry>
+   <title>AI Toolbox</title>
+   <link href="http://localhost:4000/other/2017/01/26/w8ay1xfh0zuypza6j25zsemi/"/>
+   <updated>2017-01-26T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/01/26/w8ay1xfh0zuypza6j25zsemi</id>
+   <content type="html">&lt;p&gt;Search for the most popular open source AI libraries&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Botunity</title>
+   <link href="http://localhost:4000/other/2017/01/26/uoybqcaqfdbdc1djq84k21emi/"/>
+   <updated>2017-01-26T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/01/26/uoybqcaqfdbdc1djq84k21emi</id>
+   <content type="html">&lt;p&gt;Recruitment for bot and AI space&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Help Google develop tools for Raspberry Pi</title>
+   <link href="http://localhost:4000/news/2017/01/26/tso8xbf0ccyoogf77o9z1if6r/"/>
+   <updated>2017-01-26T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/01/26/tso8xbf0ccyoogf77o9z1if6r</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>An AI poker player is bluffing some pros and winning a ton</title>
+   <link href="http://localhost:4000/news/2017/01/26/pmhebhybm2o4kc9wabztcsor/"/>
+   <updated>2017-01-26T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/01/26/pmhebhybm2o4kc9wabztcsor</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>DeepMind: Our collaborations with academia to advance the field of AI</title>
+   <link href="http://localhost:4000/news/2017/01/26/m49bx89v4i68ik4ldcxe6ogvi/"/>
+   <updated>2017-01-26T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/01/26/m49bx89v4i68ik4ldcxe6ogvi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Predicting Medical AI in 2017</title>
+   <link href="http://localhost:4000/news/2017/01/26/le5kd95wxtnh7y1aygmzvkj4i/"/>
+   <updated>2017-01-26T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/01/26/le5kd95wxtnh7y1aygmzvkj4i</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>AI, Deep Learning, and Machine Learning: A Primer</title>
+   <link href="http://localhost:4000/other/2017/01/26/js4vh52adsoe1ckw9esv8ia4i/"/>
+   <updated>2017-01-26T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/01/26/js4vh52adsoe1ckw9esv8ia4i</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Learning AI if You Suck at Math — Part Two — Practical Projects</title>
+   <link href="http://localhost:4000/other/2017/01/26/imph8632a000hlcduo44bcsor/"/>
+   <updated>2017-01-26T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/01/26/imph8632a000hlcduo44bcsor</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>AI Software Learns to Make AI Software</title>
+   <link href="http://localhost:4000/news-feature/2017/01/26/fez34l3ggu33wpkvp9zfr/"/>
+   <updated>2017-01-26T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news-feature/2017/01/26/fez34l3ggu33wpkvp9zfr</id>
+   <content type="html">&lt;p&gt;Google and others think software that learns to learn could take over some work done by AI experts. All that PhD and a robot still takes your job :)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>6 areas of AI and machine learning to watch closely</title>
+   <link href="http://localhost:4000/news/2017/01/26/fao6kk736ptug8zlmbdoq1tt9/"/>
+   <updated>2017-01-26T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/01/26/fao6kk736ptug8zlmbdoq1tt9</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>AI/ML Reads: directory of artificial intelligence/machine learning resources</title>
+   <link href="http://localhost:4000/other/2017/01/26/bl5br35btgru7yn0ew4620529/"/>
+   <updated>2017-01-26T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/01/26/bl5br35btgru7yn0ew4620529</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Periodic Table of AI</title>
+   <link href="http://localhost:4000/other/2017/01/26/7q4lygm2rpgp013nmv7qilik9/"/>
+   <updated>2017-01-26T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/01/26/7q4lygm2rpgp013nmv7qilik9</id>
+   <content type="html">&lt;p&gt;Part of the IBM Watson AI Xprize&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Deep learning algorithm does as well as dermatologists in identifying skin cancer</title>
+   <link href="http://localhost:4000/news/2017/01/26/3yyp9daz7ngo1acpzbfzb0529/"/>
+   <updated>2017-01-26T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/01/26/3yyp9daz7ngo1acpzbfzb0529</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Davos 2017 - Sergey Brin: The Future of AI and Google</title>
+   <link href="http://localhost:4000/other/2017/01/26/0sq755d7wdixwxpi0zemydgqfr/"/>
+   <updated>2017-01-26T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/01/26/0sq755d7wdixwxpi0zemydgqfr</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Dynamic Mortality Risk Predictions in Pediatric Critical Care Using   Recurrent Neural Networks</title>
+   <link href="http://localhost:4000/2017/01/23/arxiv-1701-06675/"/>
+   <updated>2017-01-23T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/01/23/arxiv-1701-06675</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Regularizing Neural Networks by Penalizing Confident Output   Distributions</title>
+   <link href="http://localhost:4000/2017/01/23/arxiv-1701-06548/"/>
+   <updated>2017-01-23T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/01/23/arxiv-1701-06548</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Outrageously Large Neural Networks: The Sparsely-Gated   Mixture-of-Experts Layer</title>
+   <link href="http://localhost:4000/2017/01/23/arxiv-1701-06538/"/>
+   <updated>2017-01-23T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/01/23/arxiv-1701-06538</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Optimization on Product Submanifolds of Convolution Kernels</title>
+   <link href="http://localhost:4000/2017/01/22/arxiv-1701-06123/"/>
+   <updated>2017-01-22T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/01/22/arxiv-1701-06123</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Integration of Preferences in Decomposition Multi-Objective Optimization</title>
+   <link href="http://localhost:4000/2017/01/20/arxiv-1701-05935/"/>
+   <updated>2017-01-20T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/01/20/arxiv-1701-05935</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Gate-Variants of Gated Recurrent Unit (GRU) Neural Networks</title>
+   <link href="http://localhost:4000/2017/01/20/arxiv-1701-05923/"/>
+   <updated>2017-01-20T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/01/20/arxiv-1701-05923</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fusion of Heterogeneous Data in Convolutional Networks for Urban   Semantic Labeling (Invited Paper)</title>
+   <link href="http://localhost:4000/2017/01/20/arxiv-1701-05818/"/>
+   <updated>2017-01-20T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/01/20/arxiv-1701-05818</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Using LLVM-based JIT Compilation in Genetic Programming</title>
+   <link href="http://localhost:4000/2017/01/20/arxiv-1701-05730/"/>
+   <updated>2017-01-20T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/01/20/arxiv-1701-05730</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Optimized Spatial Partitioning via Minimal Swarm Intelligence</title>
+   <link href="http://localhost:4000/2017/01/19/arxiv-1701-05553/"/>
+   <updated>2017-01-19T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/01/19/arxiv-1701-05553</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Deep Neural Networks - A Brief History</title>
+   <link href="http://localhost:4000/2017/01/19/arxiv-1701-05549/"/>
+   <updated>2017-01-19T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/01/19/arxiv-1701-05549</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
    <title>Microsoft’s Nadella Warns Against ‘Hubris’ Amid AI Growth</title>
    <link href="http://localhost:4000/news-feature/2017/01/18/d5ht6j1dh5eys3oo5q8woecdi/"/>
    <updated>2017-01-18T00:00:00+02:00</updated>
    <id>http://localhost:4000/news-feature/2017/01/18/d5ht6j1dh5eys3oo5q8woecdi</id>
    <content type="html">&lt;p&gt;Nadella, and by extension Microsoft, are playing the “lets ‘democratise’ AI to empower people” game rather than the “lets replace all the humans” version. This is a lovely idea, and somewhat oppositional to the broader consensus. Time will tell (if they mean it, and if it works). The title is slightly misleading however, as the hubris referred to is in relation to being overconfident in the picking of trends and the myopic focus on one product rather than allowing an evolution to take place.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Parsimonious Inference on Convolutional Neural Networks: Learning and   applying on-line kernel activation rules</title>
+   <link href="http://localhost:4000/2017/01/18/arxiv-1701-05221/"/>
+   <updated>2017-01-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/01/18/arxiv-1701-05221</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Temporal Overdrive Recurrent Neural Network</title>
+   <link href="http://localhost:4000/2017/01/18/arxiv-1701-05159/"/>
+   <updated>2017-01-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/01/18/arxiv-1701-05159</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>On the Performance of Network Parallel Training in Artificial Neural   Networks</title>
+   <link href="http://localhost:4000/2017/01/18/arxiv-1701-05130/"/>
+   <updated>2017-01-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/01/18/arxiv-1701-05130</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>NMODE --- Neuro-MODule Evolution</title>
+   <link href="http://localhost:4000/2017/01/18/arxiv-1701-05121/"/>
+   <updated>2017-01-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/01/18/arxiv-1701-05121</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Converting Cascade-Correlation Neural Nets into Probabilistic Generative   Models</title>
+   <link href="http://localhost:4000/2017/01/18/arxiv-1701-05004/"/>
+   <updated>2017-01-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/01/18/arxiv-1701-05004</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Deep Convolutional Auto-Encoder with Pooling - Unpooling Layers in   Caffe</title>
+   <link href="http://localhost:4000/2017/01/18/arxiv-1701-04949/"/>
+   <updated>2017-01-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/01/18/arxiv-1701-04949</id>
+   <content type="html">
 </content>
  </entry>
  
