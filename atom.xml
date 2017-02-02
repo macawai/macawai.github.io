@@ -4,13 +4,139 @@
  <title>Macaw AI</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2017-01-26T10:51:28+02:00</updated>
+ <updated>2017-02-02T10:08:32+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Michael Anderson & Clint Walker</name>
    <email>themacawai@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Asilomar AI Principles</title>
+   <link href="http://localhost:4000/other/2017/02/02/y51shar09q7z0elraprnvzpvi/"/>
+   <updated>2017-02-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/02/02/y51shar09q7z0elraprnvzpvi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Audio style transfer AI</title>
+   <link href="http://localhost:4000/other/2017/02/02/x5oyyb5w02hxyqa0f0fjkbj4i/"/>
+   <updated>2017-02-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/02/02/x5oyyb5w02hxyqa0f0fjkbj4i</id>
+   <content type="html">&lt;p&gt;Transferring the style from one song onto another using artificial intelligence&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Apple and OpenAI join research group for ethical AI with fellow tech giants</title>
+   <link href="http://localhost:4000/news/2017/02/02/x3rssy8wcc4aaxltufw53ik9/"/>
+   <updated>2017-02-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/02/02/x3rssy8wcc4aaxltufw53ik9</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>AI program beats humans in poker game</title>
+   <link href="http://localhost:4000/news/2017/02/02/x37l0obnfexvhv3dz8p7am7vi/"/>
+   <updated>2017-02-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/02/02/x37l0obnfexvhv3dz8p7am7vi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer</title>
+   <link href="http://localhost:4000/research/2017/02/02/v4l419b6cok6fd28egbpdgqfr/"/>
+   <updated>2017-02-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/research/2017/02/02/v4l419b6cok6fd28egbpdgqfr</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>6.S191: Introduction to Deep Learning</title>
+   <link href="http://localhost:4000/other/2017/02/02/tksfbn2mvm6rfbjcujei885mi/"/>
+   <updated>2017-02-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/02/02/tksfbn2mvm6rfbjcujei885mi</id>
+   <content type="html">&lt;p&gt;A 1-week extensive survey of deep learning methods and applications.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Can there be a science of collective intelligence?</title>
+   <link href="http://localhost:4000/news/2017/02/02/nzw8zbgm7vsy01bu1irafw29/"/>
+   <updated>2017-02-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/02/02/nzw8zbgm7vsy01bu1irafw29</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Causality in machine learning</title>
+   <link href="http://localhost:4000/news/2017/02/02/na3y218d874az6n4t8y1iqkt9/"/>
+   <updated>2017-02-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/02/02/na3y218d874az6n4t8y1iqkt9</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>10 Principles For Design In The Age Of AI</title>
+   <link href="http://localhost:4000/news/2017/02/02/je776ia0psmwdxjv2yutsm7vi/"/>
+   <updated>2017-02-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/02/02/je776ia0psmwdxjv2yutsm7vi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Demystifying Artificial Intelligence - Turning data into numbers</title>
+   <link href="http://localhost:4000/news/2017/02/02/j0vdjzimw1klmgrhyunx6flxr/"/>
+   <updated>2017-02-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/02/02/j0vdjzimw1klmgrhyunx6flxr</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>CSSRooster by Huula</title>
+   <link href="http://localhost:4000/other/2017/02/02/bwfxnejavyohiz0wchokihpvi/"/>
+   <updated>2017-02-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/02/02/bwfxnejavyohiz0wchokihpvi</id>
+   <content type="html">&lt;p&gt;A Bot that Writes CSS Classes for HTML with Deep Learning&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Artificial Intelligence Graduate Certificate </title>
+   <link href="http://localhost:4000/other/2017/02/02/59tyh1nnx5fc8ddv2wiqdoyldi/"/>
+   <updated>2017-02-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/02/02/59tyh1nnx5fc8ddv2wiqdoyldi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Unlearning descriptive statistics</title>
+   <link href="http://localhost:4000/other/2017/02/02/4ymmxw4ckt0w3iwi1php30udi/"/>
+   <updated>2017-02-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/02/02/4ymmxw4ckt0w3iwi1php30udi</id>
+   <content type="html">&lt;p&gt;Use better numbers to summarize location, association and spread&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Performance Trends in AI</title>
+   <link href="http://localhost:4000/news/2017/02/02/2rcos5f2ooqh52uhshrtsurf6r/"/>
+   <updated>2017-02-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/02/02/2rcos5f2ooqh52uhshrtsurf6r</id>
+   <content type="html">&lt;p&gt;So just how good is AI? More importantly, how much &lt;em&gt;better&lt;/em&gt; is Deep Learning than the algorithms we were using to solve those problems beforehand (and how is that related to hardware performance gains)? This article looks at games, image recognition, speech recognition, machine translation and natural language processing to draw a tentative conclusion that Deep Learning does indeed offer discontinuous improvement for specific, narrow domains (image and speech recognition), however does not seem to do the same for symbolic or general problem domains.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>AI Toolbox</title>
