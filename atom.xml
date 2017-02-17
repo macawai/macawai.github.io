@@ -4,13 +4,233 @@
  <title>Macaw AI</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2017-02-09T10:17:11+02:00</updated>
+ <updated>2017-02-17T10:11:31+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Michael Anderson & Clint Walker</name>
    <email>themacawai@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Announcing TensorFlow 1.0 </title>
+   <link href="http://localhost:4000/news/2017/02/16/xy5i20i4fr5sn70wh9vk7qfr/"/>
+   <updated>2017-02-16T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/02/16/xy5i20i4fr5sn70wh9vk7qfr</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>AI Software That Writes and Rewrites Its Own Code</title>
+   <link href="http://localhost:4000/news/2017/02/16/pnlj45pmx2moioeteowbi6bt9/"/>
+   <updated>2017-02-16T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/02/16/pnlj45pmx2moioeteowbi6bt9</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Rise of the Weaponized AI Propaganda Machine</title>
+   <link href="http://localhost:4000/news/2017/02/16/p5jp6e8iuh2z1plgsc06647vi/"/>
+   <updated>2017-02-16T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/02/16/p5jp6e8iuh2z1plgsc06647vi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>AI Driven Web Application Firewall – Open Source</title>
+   <link href="http://localhost:4000/other/2017/02/16/hyzloe97ad972f4x2ittke29/"/>
+   <updated>2017-02-16T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/02/16/hyzloe97ad972f4x2ittke29</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>AI and Bitcoin are driving the next big hedge fund wave</title>
+   <link href="http://localhost:4000/news/2017/02/16/g9t9o4kqxyj6op71d1jor/"/>
+   <updated>2017-02-16T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/02/16/g9t9o4kqxyj6op71d1jor</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Elon Musk: Humans must merge with machines or become irrelevant in AI age</title>
+   <link href="http://localhost:4000/news/2017/02/16/8j5mrvrd8eeu2abpne4y6cg14i/"/>
+   <updated>2017-02-16T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/02/16/8j5mrvrd8eeu2abpne4y6cg14i</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Machine Learning Recipes by Google Developers</title>
+   <link href="http://localhost:4000/other/2017/02/16/3vu1z78qynnizhy8m85gsyvi/"/>
+   <updated>2017-02-16T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/02/16/3vu1z78qynnizhy8m85gsyvi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>TED: Can we build AI without losing control over it?</title>
+   <link href="http://localhost:4000/other/2017/02/16/2gkbv2sscpxa4p638157g8ehfr/"/>
+   <updated>2017-02-16T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/02/16/2gkbv2sscpxa4p638157g8ehfr</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>For NPCs and robots: Building character AI through machine learning</title>
+   <link href="http://localhost:4000/news/2017/02/16/2e427uh9tat34u3yjmnujqyqfr/"/>
+   <updated>2017-02-16T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/02/16/2e427uh9tat34u3yjmnujqyqfr</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The AI Threat Isn’t Skynet. It’s the End of the Middle Class</title>
+   <link href="http://localhost:4000/news-feature/2017/02/16/1d0gjk8wyto5r6tu3ugadobt9/"/>
+   <updated>2017-02-16T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news-feature/2017/02/16/1d0gjk8wyto5r6tu3ugadobt9</id>
+   <content type="html">&lt;p&gt;“At Asilomar, [the scientists and researchers] looked at the real US economy, the real reasons for the “hollowing out” of the middle class. The problem isn’t immigration—far from it. The problem isn’t offshoring or taxes or regulation. It’s technology.”&lt;/p&gt;
+
+&lt;p&gt;What would it look like, living through a phase-change? Would we recognise it while it was happening, see it for what it is? Perhaps. Couple this fascinating article with another, &lt;a href=&quot;https://medium.com/@joe_brewer/the-pain-you-feel-is-capitalism-dying-5cdbe06a936c&quot;&gt;The Pain You Feel is Capitalism Dying&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If ever there was a time to discuss with intent the models of economic organisation, perhaps now would be it.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Getting Started with Deep Learning</title>
+   <link href="http://localhost:4000/other/2017/02/16/14zha3rez7knmyw9si4gpq4cxr/"/>
+   <updated>2017-02-16T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/02/16/14zha3rez7knmyw9si4gpq4cxr</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Generative Temporal Models with Memory</title>
+   <link href="http://localhost:4000/2017/02/15/arxiv-1702-04649/"/>
+   <updated>2017-02-15T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/15/arxiv-1702-04649</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Frustratingly Short Attention Spans in Neural Language Modeling</title>
+   <link href="http://localhost:4000/2017/02/15/arxiv-1702-04521/"/>
+   <updated>2017-02-15T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/15/arxiv-1702-04521</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Building Robust Stochastic Configuration Networks with Kernel Density   Estimation</title>
+   <link href="http://localhost:4000/2017/02/15/arxiv-1702-04459/"/>
+   <updated>2017-02-15T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/15/arxiv-1702-04459</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Exploring loss function topology with cyclical learning rates</title>
+   <link href="http://localhost:4000/2017/02/14/arxiv-1702-04283/"/>
+   <updated>2017-02-14T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/14/arxiv-1702-04283</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Causal Role of Astrocytes in Slow-Wave Rhythmogenesis: A   Computational Modelling Study</title>
+   <link href="http://localhost:4000/2017/02/13/arxiv-1702-03993/"/>
+   <updated>2017-02-13T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/13/arxiv-1702-03993</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Differential Evolution for Quantum Robust Control: Algorithm,   Applications and Experiments</title>
+   <link href="http://localhost:4000/2017/02/13/arxiv-1702-03946/"/>
+   <updated>2017-02-13T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/13/arxiv-1702-03946</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Feature Space Modeling Through Surrogate Illumination</title>
+   <link href="http://localhost:4000/2017/02/13/arxiv-1702-03713/"/>
+   <updated>2017-02-13T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/13/arxiv-1702-03713</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Group Scissor: Scaling Neuromorphic Computing Design to Big Neural   Networks</title>
+   <link href="http://localhost:4000/2017/02/11/arxiv-1702-03443/"/>
+   <updated>2017-02-11T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/11/arxiv-1702-03443</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Whale swarm algorithm for function optimization</title>
+   <link href="http://localhost:4000/2017/02/11/arxiv-1702-03389/"/>
+   <updated>2017-02-11T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/11/arxiv-1702-03389</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Deterministic and Generalized Framework for Unsupervised Learning with   Restricted Boltzmann Machines</title>
+   <link href="http://localhost:4000/2017/02/10/arxiv-1702-03260/"/>
+   <updated>2017-02-10T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/10/arxiv-1702-03260</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Arabic Language Sentiment Analysis on Health Services</title>
+   <link href="http://localhost:4000/2017/02/10/arxiv-1702-03197/"/>
+   <updated>2017-02-10T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/10/arxiv-1702-03197</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Stochastic Configuration Networks: Fundamentals and Algorithms</title>
+   <link href="http://localhost:4000/2017/02/10/arxiv-1702-03180/"/>
+   <updated>2017-02-10T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/10/arxiv-1702-03180</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Incremental Network Quantization: Towards Lossless CNNs with   Low-Precision Weights</title>
+   <link href="http://localhost:4000/2017/02/10/arxiv-1702-03044/"/>
+   <updated>2017-02-10T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/10/arxiv-1702-03044</id>
+   <content type="html">
+</content>
+ </entry>
  
  <entry>
    <title>Economists Say Newest AI Technology Destroys More Jobs Than It Creates</title>
@@ -112,6 +332,15 @@
  </entry>
  
  <entry>
+   <title>Energy Saving Additive Neural Network</title>
+   <link href="http://localhost:4000/2017/02/09/arxiv-1702-02676/"/>
+   <updated>2017-02-09T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/09/arxiv-1702-02676</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
    <title>The AI Podcast - Ep #8 Better Beer Through AI</title>
    <link href="http://localhost:4000/other/2017/02/09/2dpjpz9i1zzovxfwuput9e8kt9/"/>
    <updated>2017-02-09T00:00:00+02:00</updated>
@@ -128,6 +357,60 @@
    <content type="html">&lt;p&gt;“Sci-fi AI usually tries to change the world using weapons, and we are all highly alert to the dangers of armed autonomous robots. It rarely shows AI trying to change the world by manipulating the answers it gives to people’s questions.” What does it &lt;em&gt;mean&lt;/em&gt; when AI returns word embedding associations that are politically loaded. What does it mean when we deliberately try to change this? Who decides if what should change and why? This article looks at some of the issues around the sometimes uncomfortable mirror that AI-learning-from-us can present: “This kind of research is both scary and dangerous.Scary because regardless of how you may want the world to be, the learnings from bulk text feeds are as close as we can realistically get to how the world actually is. Dangerous because.. software should not fight culture wars”&lt;/p&gt;
 
 &lt;p&gt;See the related genesis paper &lt;a href=&quot;https://blog.plan99.net/the-most-dangerous-ai-research-3686c3d360bd&quot;&gt;“Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings”&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Neural Causal Regularization under the Independence of Mechanisms   Assumption</title>
+   <link href="http://localhost:4000/2017/02/08/arxiv-1702-02604/"/>
+   <updated>2017-02-08T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/08/arxiv-1702-02604</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Automatic Rule Extraction from Long Short Term Memory Networks</title>
+   <link href="http://localhost:4000/2017/02/08/arxiv-1702-02540/"/>
+   <updated>2017-02-08T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/08/arxiv-1702-02540</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Deep Kernelized Autoencoders</title>
+   <link href="http://localhost:4000/2017/02/08/arxiv-1702-02526/"/>
+   <updated>2017-02-08T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/08/arxiv-1702-02526</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Historical Review of Forty Years of Research on CMAC</title>
+   <link href="http://localhost:4000/2017/02/08/arxiv-1702-02277/"/>
+   <updated>2017-02-08T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/08/arxiv-1702-02277</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Multitask Evolution with Cartesian Genetic Programming</title>
+   <link href="http://localhost:4000/2017/02/07/arxiv-1702-02217/"/>
+   <updated>2017-02-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/07/arxiv-1702-02217</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Deep Learning with Dynamic Computation Graphs</title>
+   <link href="http://localhost:4000/2017/02/07/arxiv-1702-02181/"/>
+   <updated>2017-02-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/07/arxiv-1702-02181</id>
+   <content type="html">
 </content>
  </entry>
  
@@ -465,6 +748,15 @@
  </entry>
  
  <entry>
+   <title>Beyond Evolutionary Algorithms for Search-based Software Engineering</title>
+   <link href="http://localhost:4000/2017/01/27/arxiv-1701-07950/"/>
+   <updated>2017-01-27T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/01/27/arxiv-1701-07950</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
    <title>AI Toolbox</title>
    <link href="http://localhost:4000/other/2017/01/26/w8ay1xfh0zuypza6j25zsemi/"/>
    <updated>2017-01-26T00:00:00+02:00</updated>
@@ -559,6 +851,24 @@
    <link href="http://localhost:4000/other/2017/01/26/bl5br35btgru7yn0ew4620529/"/>
    <updated>2017-01-26T00:00:00+02:00</updated>
    <id>http://localhost:4000/other/2017/01/26/bl5br35btgru7yn0ew4620529</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Design of PI Controller for Automatic Generation Control of Multi Area   Interconnected Power System using Bacterial Foraging Optimization</title>
+   <link href="http://localhost:4000/2017/01/26/arxiv-1701-08081/"/>
+   <updated>2017-01-26T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/01/26/arxiv-1701-08081</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Radically New Theory of how the Brain Represents and Computes with   Probabilities</title>
+   <link href="http://localhost:4000/2017/01/26/arxiv-1701-07879/"/>
+   <updated>2017-01-26T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/01/26/arxiv-1701-07879</id>
    <content type="html">
 </content>
  </entry>
