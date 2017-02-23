@@ -4,13 +4,118 @@
  <title>Macaw AI</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2017-02-17T10:11:31+02:00</updated>
+ <updated>2017-02-23T09:03:07+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Michael Anderson & Clint Walker</name>
    <email>themacawai@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>GPUs are now available for Google Compute Engine and Cloud Machine Learning</title>
+   <link href="http://localhost:4000/news/2017/02/23/skxny2ehiltyvwrdxcctsm7vi/"/>
+   <updated>2017-02-23T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/02/23/skxny2ehiltyvwrdxcctsm7vi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A New Cryptocurrency For Coordinating Artificial Intelligence on Numerai</title>
+   <link href="http://localhost:4000/news/2017/02/23/j79w820lfuie9wt27e2g4aemi/"/>
+   <updated>2017-02-23T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/02/23/j79w820lfuie9wt27e2g4aemi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Interactive Image Translation with pix2pix-tensorflow</title>
+   <link href="http://localhost:4000/other/2017/02/23/eihkk0eihm48ri3cqwhzolxr/"/>
+   <updated>2017-02-23T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/02/23/eihkk0eihm48ri3cqwhzolxr</id>
+   <content type="html">&lt;p&gt;Some demo output of the TensorFlow port of pix2pix. Fun results!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>AI learns to write its own code by stealing from other programs</title>
+   <link href="http://localhost:4000/news/2017/02/23/bc6e6qummdm7q89whyaybke29/"/>
+   <updated>2017-02-23T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/02/23/bc6e6qummdm7q89whyaybke29</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Magical Rationalism of Elon Musk and the Prophets of AI</title>
+   <link href="http://localhost:4000/news/2017/02/23/9hkixfoe257gpejiabr3eg66r/"/>
+   <updated>2017-02-23T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/02/23/9hkixfoe257gpejiabr3eg66r</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>DeepMind's AI has learnt to become 'highly aggressive' when it feels like it's going to lose</title>
+   <link href="http://localhost:4000/news/2017/02/23/7rvek79pu7kxqans1i780yhkt9/"/>
+   <updated>2017-02-23T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/02/23/7rvek79pu7kxqans1i780yhkt9</id>
+   <content type="html">&lt;p&gt;Yes, it’s a click-bait-ey headline, but it’s a good one isn’t it? Filed in the “things that add to my confirmation bias that the machines are eventually coming for us”.&lt;/p&gt;
+
+&lt;p&gt;It’s worth noting the sidebar, that “In social situations, two AIs will also work together if the outcome benefits them both”. Sounds a bit like humans under the right conditions.&lt;/p&gt;
+
+&lt;p&gt;This is really an article about AI agents learning game-theory and applying optimal strategies in specific resource availability contexts. Not so many apples? Kill your competition. Lots of apples? Hey, lets work together.&lt;/p&gt;
+
+&lt;p&gt;This isn’t really surprising. But the subtle commentary on predictably bad outcomes given specific goal-orientations in a context of scarcity.. well, perhaps there’s a research paper in that too.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Duet - AI driven piano that responds to you</title>
+   <link href="http://localhost:4000/other/2017/02/23/5fxm443qm9qw3fvugcwkthjjor/"/>
+   <updated>2017-02-23T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/02/23/5fxm443qm9qw3fvugcwkthjjor</id>
+   <content type="html">&lt;p&gt;Another Google AI experiment&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Preprocessing for Machine Learning with TensorFlow</title>
+   <link href="http://localhost:4000/other/2017/02/23/25ze3nckbciorwl60cng3c8fr/"/>
+   <updated>2017-02-23T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/02/23/25ze3nckbciorwl60cng3c8fr</id>
+   <content type="html">&lt;p&gt;tf.Transform - a library to define preprocessing pipelines and run these using large scale data processing frameworks&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fueling the Gold Rush: The Greatest Public Datasets for AI</title>
+   <link href="http://localhost:4000/other/2017/02/22/srby9et9t3kxbn17se093haor/"/>
+   <updated>2017-02-22T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/02/22/srby9et9t3kxbn17se093haor</id>
+   <content type="html">&lt;p&gt;An opinionated list of open datasets&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Attacking machine learning with adversarial examples</title>
+   <link href="http://localhost:4000/news/2017/02/22/8c81wnw50f4e398n1q9n0o1or/"/>
+   <updated>2017-02-22T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/02/22/8c81wnw50f4e398n1q9n0o1or</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>AWS launch their own AI blog</title>
+   <link href="http://localhost:4000/news/2017/02/22/0pygagqgguvelqk9qcvbsgiudi/"/>
+   <updated>2017-02-22T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/02/22/0pygagqgguvelqk9qcvbsgiudi</id>
+   <content type="html">
+</content>
+ </entry>
  
  <entry>
    <title>Announcing TensorFlow 1.0 </title>
