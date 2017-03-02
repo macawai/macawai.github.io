@@ -4,7 +4,7 @@
  <title>Macaw AI</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2017-03-02T10:46:03+02:00</updated>
+ <updated>2017-03-02T10:52:44+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Michael Anderson & Clint Walker</name>
@@ -139,6 +139,168 @@
  </entry>
  
  <entry>
+   <title>Learning A Physical Long-term Predictor</title>
+   <link href="http://localhost:4000/2017/03/01/arxiv-1703-00247/"/>
+   <updated>2017-03-01T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/03/01/arxiv-1703-00247</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Gram-CTC: Automatic Unit Selection and Target Decomposition for Sequence   Labelling</title>
+   <link href="http://localhost:4000/2017/03/01/arxiv-1703-00096/"/>
+   <updated>2017-03-01T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/03/01/arxiv-1703-00096</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Deep Semi-Random Features for Nonlinear Function Approximation</title>
+   <link href="http://localhost:4000/2017/02/28/arxiv-1702-08882/"/>
+   <updated>2017-02-28T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/28/arxiv-1702-08882</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Improving the Neural GPU Architecture for Algorithm Learning</title>
+   <link href="http://localhost:4000/2017/02/28/arxiv-1702-08727/"/>
+   <updated>2017-02-28T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/28/arxiv-1702-08727</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Borrowing Treasures from the Wealthy: Deep Transfer Learning through   Selective Joint Fine-tuning</title>
+   <link href="http://localhost:4000/2017/02/28/arxiv-1702-08690/"/>
+   <updated>2017-02-28T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/28/arxiv-1702-08690</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Shattered Gradients Problem: If resnets are the answer, then what is   the question?</title>
+   <link href="http://localhost:4000/2017/02/28/arxiv-1702-08591/"/>
+   <updated>2017-02-28T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/28/arxiv-1702-08591</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Depth Creates No Bad Local Minima</title>
+   <link href="http://localhost:4000/2017/02/27/arxiv-1702-08580/"/>
+   <updated>2017-02-27T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/27/arxiv-1702-08580</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Memory-Efficient Global Refinement of Decision-Tree Ensembles and its   Application to Face Alignment</title>
+   <link href="http://localhost:4000/2017/02/27/arxiv-1702-08481/"/>
+   <updated>2017-02-27T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/27/arxiv-1702-08481</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Equivariance Through Parameter-Sharing</title>
+   <link href="http://localhost:4000/2017/02/27/arxiv-1702-08389/"/>
+   <updated>2017-02-27T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/27/arxiv-1702-08389</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Low-Precision Batch-Normalized Activations</title>
+   <link href="http://localhost:4000/2017/02/27/arxiv-1702-08231/"/>
+   <updated>2017-02-27T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/27/arxiv-1702-08231</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Improved Variational Autoencoders for Text Modeling using Dilated   Convolutions</title>
+   <link href="http://localhost:4000/2017/02/27/arxiv-1702-08139/"/>
+   <updated>2017-02-27T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/27/arxiv-1702-08139</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Deep Voice: Real-time Neural Text-to-Speech</title>
+   <link href="http://localhost:4000/2017/02/25/arxiv-1702-07825/"/>
+   <updated>2017-02-25T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/25/arxiv-1702-07825</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Adaptive Neural Networks for Fast Test-Time Prediction</title>
+   <link href="http://localhost:4000/2017/02/25/arxiv-1702-07811/"/>
+   <updated>2017-02-25T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/25/arxiv-1702-07811</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Revisiting NARX Recurrent Neural Networks for Long-Term Dependencies</title>
+   <link href="http://localhost:4000/2017/02/24/arxiv-1702-07805/"/>
+   <updated>2017-02-24T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/24/arxiv-1702-07805</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>On the Origin of Deep Learning</title>
+   <link href="http://localhost:4000/2017/02/24/arxiv-1702-07800/"/>
+   <updated>2017-02-24T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/24/arxiv-1702-07800</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Convolutional Gated Recurrent Neural Network Incorporating Spatial   Features for Audio Tagging</title>
+   <link href="http://localhost:4000/2017/02/24/arxiv-1702-07787/"/>
+   <updated>2017-02-24T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/24/arxiv-1702-07787</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>RNN Decoding of Linear Block Codes</title>
+   <link href="http://localhost:4000/2017/02/24/arxiv-1702-07560/"/>
+   <updated>2017-02-24T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/24/arxiv-1702-07560</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Control of the Correlation of Spontaneous Neuron Activity in Biological   and Noise-activated CMOS Artificial Neural Microcircuits</title>
+   <link href="http://localhost:4000/2017/02/24/arxiv-1702-07426/"/>
+   <updated>2017-02-24T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/24/arxiv-1702-07426</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
    <title>GPUs are now available for Google Compute Engine and Cloud Machine Learning</title>
    <link href="http://localhost:4000/news/2017/02/23/skxny2ehiltyvwrdxcctsm7vi/"/>
    <updated>2017-02-23T00:00:00+02:00</updated>
@@ -170,6 +332,15 @@
    <link href="http://localhost:4000/news/2017/02/23/bc6e6qummdm7q89whyaybke29/"/>
    <updated>2017-02-23T00:00:00+02:00</updated>
    <id>http://localhost:4000/news/2017/02/23/bc6e6qummdm7q89whyaybke29</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bidirectional Backpropagation: Towards Biologically Plausible Error   Signal Transmission in Neural Networks</title>
+   <link href="http://localhost:4000/2017/02/23/arxiv-1702-07097/"/>
+   <updated>2017-02-23T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/23/arxiv-1702-07097</id>
    <content type="html">
 </content>
  </entry>
