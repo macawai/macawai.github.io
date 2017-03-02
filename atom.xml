@@ -4,13 +4,139 @@
  <title>Macaw AI</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2017-02-23T09:03:07+02:00</updated>
+ <updated>2017-03-02T10:46:03+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Michael Anderson & Clint Walker</name>
    <email>themacawai@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>&quot;Perspective&quot; tries to tackle toxic comments through machine learning</title>
+   <link href="http://localhost:4000/news/2017/03/02/xd021dssn4uwmm3qp5oy9zfr/"/>
+   <updated>2017-03-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/02/xd021dssn4uwmm3qp5oy9zfr</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>If Only AI Could Save Us from Ourselves</title>
+   <link href="http://localhost:4000/news/2017/03/02/w7xujhoztg8z9oc17x905p14i/"/>
+   <updated>2017-03-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/02/w7xujhoztg8z9oc17x905p14i</id>
+   <content type="html">&lt;p&gt;Google (well, technically Jigsaw) have now released &lt;a href=&quot;https://www.perspectiveapi.com/&quot;&gt;Perspective&lt;/a&gt;, an AI for measuring the toxicity of comments, in an attempt to automate the moderation of online discussions and keep the hoi poloi from bringing the tone down, man. This particular commentary looks at the difficulties faced in moderating natural language, and why we may still have a way to go.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Should economists be more concerned about Artificial Intelligence?</title>
+   <link href="http://localhost:4000/news/2017/03/02/vrvmxgrvo4m1hze7qnmipmn29/"/>
+   <updated>2017-03-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/02/vrvmxgrvo4m1hze7qnmipmn29</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Does all AI need a learning component? (&quot;No&quot;)</title>
+   <link href="http://localhost:4000/news/2017/03/02/paqjml9afucdtiiyviz8mpldi/"/>
+   <updated>2017-03-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/02/paqjml9afucdtiiyviz8mpldi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Why we need friendly AI</title>
+   <link href="http://localhost:4000/news/2017/03/02/jw13eanmu747udiborvuw61or/"/>
+   <updated>2017-03-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/02/jw13eanmu747udiborvuw61or</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The singularity is coming in 2047</title>
+   <link href="http://localhost:4000/other/2017/03/02/iowrsmcevohhvixc1xcoko6r/"/>
+   <updated>2017-03-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/03/02/iowrsmcevohhvixc1xcoko6r</id>
+   <content type="html">&lt;p&gt;It’s true. Softbank’s CEO says so.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Craft.ai - AI-as-a-service</title>
+   <link href="http://localhost:4000/other/2017/03/02/9vfvwcpbnwj7oewmwbdq5b3xr/"/>
+   <updated>2017-03-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/03/02/9vfvwcpbnwj7oewmwbdq5b3xr</id>
+   <content type="html">&lt;p&gt;Another AI in a box for cash&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Why I focus on zero-knowledge AI</title>
+   <link href="http://localhost:4000/news/2017/03/02/8rq86b1ug2u3yn6hsejao47vi/"/>
+   <updated>2017-03-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/02/8rq86b1ug2u3yn6hsejao47vi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Conversational AI and the road ahead</title>
+   <link href="http://localhost:4000/news/2017/03/02/8lp6kh7iack9r81gik5vvg3nmi/"/>
+   <updated>2017-03-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/02/8lp6kh7iack9r81gik5vvg3nmi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>AI Is Going to Change the 80/20 Rule</title>
+   <link href="http://localhost:4000/news/2017/03/02/3ppsp648im31qf8ymolifz85mi/"/>
+   <updated>2017-03-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/02/3ppsp648im31qf8ymolifz85mi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Inside Facebook's AI Machine</title>
+   <link href="http://localhost:4000/news/2017/03/02/3d81bmsy3j6i4pg98xz2n019k9/"/>
+   <updated>2017-03-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/02/3d81bmsy3j6i4pg98xz2n019k9</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>What Does An AI Chip Look Like?</title>
+   <link href="http://localhost:4000/news/2017/03/02/2qscfanteyykdoawfjj12u766r/"/>
+   <updated>2017-03-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/02/2qscfanteyykdoawfjj12u766r</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>AI for Dummies</title>
+   <link href="http://localhost:4000/other/2017/03/02/12z9bgghwiqtt7vpl7hr7wrk9/"/>
+   <updated>2017-03-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/03/02/12z9bgghwiqtt7vpl7hr7wrk9</id>
+   <content type="html">&lt;p&gt;Did you land here by accident? Not sure what AI is? Fear not. Read on.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The AI Revolution: The Road to Superintelligence</title>
+   <link href="http://localhost:4000/other/2017/03/02/0nure3eilvhbflwu08h0duc8fr/"/>
+   <updated>2017-03-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/03/02/0nure3eilvhbflwu08h0duc8fr</id>
+   <content type="html">&lt;p&gt;An oldie but a goodie - Wait But Why’s take on superintelligence&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>GPUs are now available for Google Compute Engine and Cloud Machine Learning</title>
@@ -100,6 +226,24 @@
  </entry>
  
  <entry>
+   <title>Robustness to Adversarial Examples through an Ensemble of Specialists</title>
+   <link href="http://localhost:4000/2017/02/22/arxiv-1702-06856/"/>
+   <updated>2017-02-22T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/22/arxiv-1702-06856</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Task-driven Visual Saliency and Attention-based Visual Question   Answering</title>
+   <link href="http://localhost:4000/2017/02/22/arxiv-1702-06700/"/>
+   <updated>2017-02-22T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/22/arxiv-1702-06700</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
    <title>Attacking machine learning with adversarial examples</title>
    <link href="http://localhost:4000/news/2017/02/22/8c81wnw50f4e398n1q9n0o1or/"/>
    <updated>2017-02-22T00:00:00+02:00</updated>
@@ -113,6 +257,96 @@
    <link href="http://localhost:4000/news/2017/02/22/0pygagqgguvelqk9qcvbsgiudi/"/>
    <updated>2017-02-22T00:00:00+02:00</updated>
    <id>http://localhost:4000/news/2017/02/22/0pygagqgguvelqk9qcvbsgiudi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Predicting non-linear dynamics: a stable local learning scheme for   recurrent spiking neural networks</title>
+   <link href="http://localhost:4000/2017/02/21/arxiv-1702-06463/"/>
+   <updated>2017-02-21T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/21/arxiv-1702-06463</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Online Representation Learning with Multi-layer Hebbian Networks for   Image Classification Tasks</title>
+   <link href="http://localhost:4000/2017/02/21/arxiv-1702-06456/"/>
+   <updated>2017-02-21T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/21/arxiv-1702-06456</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>RESPARC: A Reconfigurable and Energy-Efficient Architecture with   Memristive Crossbars for Deep Spiking Neural Networks</title>
+   <link href="http://localhost:4000/2017/02/20/arxiv-1702-06064/"/>
+   <updated>2017-02-20T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/20/arxiv-1702-06064</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Learning to Repeat: Fine Grained Action Repetition for Deep   Reinforcement Learning</title>
+   <link href="http://localhost:4000/2017/02/20/arxiv-1702-06054/"/>
+   <updated>2017-02-20T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/20/arxiv-1702-06054</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Online Multi-Task Learning Using Active Sampling</title>
+   <link href="http://localhost:4000/2017/02/20/arxiv-1702-06053/"/>
+   <updated>2017-02-20T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/20/arxiv-1702-06053</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>An Efficient Method for online Detection of Polychronous Patterns in   Spiking Neural Network</title>
+   <link href="http://localhost:4000/2017/02/20/arxiv-1702-05939/"/>
+   <updated>2017-02-20T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/20/arxiv-1702-05939</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Deep Stochastic Configuration Networks: Universal Approximation and   Learning Representation</title>
+   <link href="http://localhost:4000/2017/02/18/arxiv-1702-05639/"/>
+   <updated>2017-02-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/18/arxiv-1702-05639</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Soft + Hardwired Attention: An LSTM Framework for Human Trajectory   Prediction and Abnormal Event Detection</title>
+   <link href="http://localhost:4000/2017/02/18/arxiv-1702-05552/"/>
+   <updated>2017-02-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/18/arxiv-1702-05552</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Predicting Surgery Duration with Neural Heteroscedastic Regression</title>
+   <link href="http://localhost:4000/2017/02/17/arxiv-1702-05386/"/>
+   <updated>2017-02-17T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/17/arxiv-1702-05386</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Hierarchy Influenced Differential Evolution: A Motor Operation Inspired   Approach</title>
+   <link href="http://localhost:4000/2017/02/17/arxiv-1702-05308/"/>
+   <updated>2017-02-17T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/17/arxiv-1702-05308</id>
    <content type="html">
 </content>
  </entry>
@@ -158,6 +392,15 @@
    <link href="http://localhost:4000/news/2017/02/16/g9t9o4kqxyj6op71d1jor/"/>
    <updated>2017-02-16T00:00:00+02:00</updated>
    <id>http://localhost:4000/news/2017/02/16/g9t9o4kqxyj6op71d1jor</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Unbiased Online Recurrent Optimization</title>
+   <link href="http://localhost:4000/2017/02/16/arxiv-1702-05043/"/>
+   <updated>2017-02-16T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/16/arxiv-1702-05043</id>
    <content type="html">
 </content>
  </entry>
@@ -221,6 +464,24 @@
  </entry>
  
  <entry>
+   <title>Precise Recovery of Latent Vectors from Generative Adversarial Networks</title>
+   <link href="http://localhost:4000/2017/02/15/arxiv-1702-04782/"/>
+   <updated>2017-02-15T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/15/arxiv-1702-04782</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Training Language Models Using Target-Propagation</title>
+   <link href="http://localhost:4000/2017/02/15/arxiv-1702-04770/"/>
+   <updated>2017-02-15T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/15/arxiv-1702-04770</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
    <title>Generative Temporal Models with Memory</title>
    <link href="http://localhost:4000/2017/02/15/arxiv-1702-04649/"/>
    <updated>2017-02-15T00:00:00+02:00</updated>
@@ -243,6 +504,15 @@
    <link href="http://localhost:4000/2017/02/15/arxiv-1702-04459/"/>
    <updated>2017-02-15T00:00:00+02:00</updated>
    <id>http://localhost:4000/2017/02/15/arxiv-1702-04459</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Survey of Reasoning using Neural networks</title>
+   <link href="http://localhost:4000/2017/02/14/arxiv-1702-06186/"/>
+   <updated>2017-02-14T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/02/14/arxiv-1702-06186</id>
    <content type="html">
 </content>
  </entry>
