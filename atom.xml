@@ -4,13 +4,139 @@
  <title>Macaw AI</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2017-03-02T10:52:44+02:00</updated>
+ <updated>2017-03-09T09:49:22+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Michael Anderson & Clint Walker</name>
    <email>themacawai@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Doom Bots in TensorFlow</title>
+   <link href="http://localhost:4000/news/2017/03/09/vwe5h0ftcbaqjb7nu5769lik9/"/>
+   <updated>2017-03-09T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/09/vwe5h0ftcbaqjb7nu5769lik9</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The future of AI in fashion</title>
+   <link href="http://localhost:4000/news/2017/03/09/uw6i2milmc6jw0gax8blhxgvi/"/>
+   <updated>2017-03-09T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/09/uw6i2milmc6jw0gax8blhxgvi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>What I’ve learned from interacting with more than 100 AI startups</title>
+   <link href="http://localhost:4000/news/2017/03/09/oghym2yr1bpf1ufzbmkdfgvi/"/>
+   <updated>2017-03-09T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/09/oghym2yr1bpf1ufzbmkdfgvi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>AI Startup Predictions for 2017</title>
+   <link href="http://localhost:4000/other/2017/03/09/i736qt0206wq5tfbp58eel8fr/"/>
+   <updated>2017-03-09T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/03/09/i736qt0206wq5tfbp58eel8fr</id>
+   <content type="html">&lt;p&gt;Everyone loves a good set of predictions. Here are five :)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Amper raises $4M to use AI to write music</title>
+   <link href="http://localhost:4000/news/2017/03/09/gwc8e3h50tf5jn6llyirizfr/"/>
+   <updated>2017-03-09T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/09/gwc8e3h50tf5jn6llyirizfr</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Google's Deep Learning AI project diagnoses cancer faster than pathologists</title>
+   <link href="http://localhost:4000/news/2017/03/09/ej2t1l3rqs3ppr0h5zw56d2t9/"/>
+   <updated>2017-03-09T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/09/ej2t1l3rqs3ppr0h5zw56d2t9</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Baidu Deep Voice explained: The Inference Pipeline</title>
+   <link href="http://localhost:4000/news/2017/03/09/cqpbyq77chxaloimw4gn8f47vi/"/>
+   <updated>2017-03-09T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/09/cqpbyq77chxaloimw4gn8f47vi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Netflix’s new AI tweaks each scene individually to make video look good even on slow internet</title>
+   <link href="http://localhost:4000/news/2017/03/09/7r4d0jlpvfwq3yy8mxhamm42t9/"/>
+   <updated>2017-03-09T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/09/7r4d0jlpvfwq3yy8mxhamm42t9</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Getting Started in Machine Learning</title>
+   <link href="http://localhost:4000/other/2017/03/09/7bo3rrjuxzlrx0ui1gjbztcsor/"/>
+   <updated>2017-03-09T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/03/09/7bo3rrjuxzlrx0ui1gjbztcsor</id>
+   <content type="html">&lt;p&gt;In case you needed another “getting started” guide. You’re most welcome.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>AI and the End of Truth</title>
+   <link href="http://localhost:4000/news/2017/03/09/63li2qzo6knt12lu0pjpccv7vi/"/>
+   <updated>2017-03-09T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/09/63li2qzo6knt12lu0pjpccv7vi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Infographic: A Beginner’s Guide to Machine Learning Algorithms</title>
+   <link href="http://localhost:4000/other/2017/03/09/3qhn887bz5vmo0jeso90vbo6r/"/>
+   <updated>2017-03-09T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/03/09/3qhn887bz5vmo0jeso90vbo6r</id>
+   <content type="html">&lt;p&gt;Really more of an “article” than “infographic”, but pretty handy overview&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Machine Learning on Sequential Data Using a Recurrent Weighted Average </title>
+   <link href="http://localhost:4000/other/2017/03/09/3pd2us273pk3fiserlpgj2x1or/"/>
+   <updated>2017-03-09T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/03/09/3pd2us273pk3fiserlpgj2x1or</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How to Upgrade Judges with Machine Learning</title>
+   <link href="http://localhost:4000/news-feature/2017/03/09/2thbhzeurudb3kfoat1xhnz5mi/"/>
+   <updated>2017-03-09T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news-feature/2017/03/09/2thbhzeurudb3kfoat1xhnz5mi</id>
+   <content type="html">&lt;p&gt;“Software that helps judges decide whether to jail a defendant while they await trial could cut crime and reduce racial disparities amongst prisoners.” File this under the ‘potentially incredibly helpful use of machines to assist human decision making’. Also under ‘things that could totally screw up in unanticipated ways’. Using AI (or other forms of statstical modelling) to make social decisions is an area of immense promise and tremendous peril. This article talks about the ‘estimates’ of how much good these algorithms could do. Augmenting human intelligence &lt;em&gt;seems&lt;/em&gt; like a positive thing. Right? Watch this space closely.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Current State of Automated Machine Learning</title>
+   <link href="http://localhost:4000/news/2017/03/09/23ubi8xuz25fwbiba7oz2gldi/"/>
+   <updated>2017-03-09T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/09/23ubi8xuz25fwbiba7oz2gldi</id>
+   <content type="html">
+</content>
+ </entry>
  
  <entry>
    <title>&quot;Perspective&quot; tries to tackle toxic comments through machine learning</title>
