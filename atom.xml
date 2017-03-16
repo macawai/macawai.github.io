@@ -4,13 +4,310 @@
  <title>Macaw AI</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2017-03-09T09:49:22+02:00</updated>
+ <updated>2017-03-16T11:20:48+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Michael Anderson & Clint Walker</name>
    <email>themacawai@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Enabling Continual Learning in Neural Networks</title>
+   <link href="http://localhost:4000/news/2017/03/16/xhsrrx46p40whjlxzp5ijm7vi/"/>
+   <updated>2017-03-16T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/16/xhsrrx46p40whjlxzp5ijm7vi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Machine Learning in Python</title>
+   <link href="http://localhost:4000/other/2017/03/16/vv87ueqd0n4fbwunpq4pr2j4i/"/>
+   <updated>2017-03-16T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/03/16/vv87ueqd0n4fbwunpq4pr2j4i</id>
+   <content type="html">&lt;p&gt;Concise yet rigorous and hands-on Python tutorials to build a strong foundation in Machine Learning.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>TensorFlow Image Recognition on a Raspberry Pi</title>
+   <link href="http://localhost:4000/news/2017/03/16/p7k8gbbt0x4lsi6dcb8hhncdi/"/>
+   <updated>2017-03-16T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/16/p7k8gbbt0x4lsi6dcb8hhncdi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>OpenNN - High Performance library for Advanced Analytics</title>
+   <link href="http://localhost:4000/other/2017/03/16/npu5ozqu3u841d65bobdl5wmi/"/>
+   <updated>2017-03-16T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/03/16/npu5ozqu3u841d65bobdl5wmi</id>
+   <content type="html">&lt;p&gt;Open source class library written in C++ implementing neural networks&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Autonomous Trap 001</title>
+   <link href="http://localhost:4000/other/2017/03/16/lqrr31yexyxdvhymakxyfogvi/"/>
+   <updated>2017-03-16T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/03/16/lqrr31yexyxdvhymakxyfogvi</id>
+   <content type="html">&lt;p&gt;Tripping up self-driving vehicles (photos)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>TensorFlow and Deep Learning without a PhD, Part 1</title>
+   <link href="http://localhost:4000/other/2017/03/16/cta6qr7pboenzcvzd7sao47vi/"/>
+   <updated>2017-03-16T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/03/16/cta6qr7pboenzcvzd7sao47vi</id>
+   <content type="html">&lt;p&gt;(video)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Introducing Keras 2</title>
+   <link href="http://localhost:4000/news/2017/03/16/bsmsgv3ad4vbtjf4vqvakbj4i/"/>
+   <updated>2017-03-16T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/16/bsmsgv3ad4vbtjf4vqvakbj4i</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Intel buys Mobileye in $15.3B deal, moves its automotive unit to Israel</title>
+   <link href="http://localhost:4000/news/2017/03/16/a91fzdyrzd7dz0ia64grv0a4i/"/>
+   <updated>2017-03-16T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/16/a91fzdyrzd7dz0ia64grv0a4i</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Systems Smart Enough To Know When They’re Not Smart Enough</title>
+   <link href="http://localhost:4000/news/2017/03/16/7cjk2br85sgfzwhr4wudp4aemi/"/>
+   <updated>2017-03-16T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/16/7cjk2br85sgfzwhr4wudp4aemi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Learning when to skim and when to read</title>
+   <link href="http://localhost:4000/news-feature/2017/03/16/70at5d5fdggbzjxbcy1d7ycik9/"/>
+   <updated>2017-03-16T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news-feature/2017/03/16/70at5d5fdggbzjxbcy1d7ycik9</id>
+   <content type="html">&lt;p&gt;“Do we always need human level accuracy in real world data?” - well, no. And that’s the point this awesome article on NLP techniques and approaches. Can we separate the ‘easy’ vs. ‘hard’ sentences and use cheap models to do so? And more formally, “Can we learn when reading is strictly better than skimming in a supervised way?”. By tuning confidence values and avoiding running expensive LSTM, it looks like we can trade computation time vs accuracy without necessarily sacrificing performance. Some great interactive visualisations help drive the argument.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How Google’s new API Recognizes Objects in Videos</title>
+   <link href="http://localhost:4000/news/2017/03/16/4ctdu33qgtaveamisjk4eu3di/"/>
+   <updated>2017-03-16T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/16/4ctdu33qgtaveamisjk4eu3di</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Deep learning with convolutional neural networks for brain mapping and   decoding of movement-related information from the human EEG</title>
+   <link href="http://localhost:4000/2017/03/15/arxiv-1703-05051/"/>
+   <updated>2017-03-15T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/03/15/arxiv-1703-05051</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Neural Programming by Example</title>
+   <link href="http://localhost:4000/2017/03/15/arxiv-1703-04990/"/>
+   <updated>2017-03-15T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/03/15/arxiv-1703-04990</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Machine Learning on Sequential Data Using a Recurrent Weighted Average</title>
+   <link href="http://localhost:4000/other/2017/03/14/w2861nb8195owcqrxt0m5cdi/"/>
+   <updated>2017-03-14T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/03/14/w2861nb8195owcqrxt0m5cdi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Neural Graph Machines: Learning Neural Networks Using Graphs</title>
+   <link href="http://localhost:4000/2017/03/14/arxiv-1703-04818/"/>
+   <updated>2017-03-14T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/03/14/arxiv-1703-04818</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>FastQA: A Simple and Efficient Neural Architecture for Question   Answering</title>
+   <link href="http://localhost:4000/2017/03/14/arxiv-1703-04816/"/>
+   <updated>2017-03-14T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/03/14/arxiv-1703-04816</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Learned Optimizers that Scale and Generalize</title>
+   <link href="http://localhost:4000/2017/03/14/arxiv-1703-04813/"/>
+   <updated>2017-03-14T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/03/14/arxiv-1703-04813</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Drone Squadron Optimization: a Self-adaptive Algorithm for Global   Numerical Optimization</title>
+   <link href="http://localhost:4000/2017/03/14/arxiv-1703-04561/"/>
+   <updated>2017-03-14T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/03/14/arxiv-1703-04561</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Naked Tensor</title>
+   <link href="http://localhost:4000/other/2017/03/14/5dqau6oqvyvxrq2tumz896n7b9/"/>
+   <updated>2017-03-14T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/03/14/5dqau6oqvyvxrq2tumz896n7b9</id>
+   <content type="html">&lt;p&gt;Bare bone examples of machine learning in TensorFlow&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Future of Machine Intelligence</title>
+   <link href="http://localhost:4000/other/2017/03/14/1j3jmx0io3g96ydlqfuwyiudi/"/>
+   <updated>2017-03-14T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/03/14/1j3jmx0io3g96ydlqfuwyiudi</id>
+   <content type="html">&lt;p&gt;Perspectives from Leading Practitioners (pdf)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sensor Fusion for Robot Control through Deep Reinforcement Learning</title>
+   <link href="http://localhost:4000/2017/03/13/arxiv-1703-04550/"/>
+   <updated>2017-03-13T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/03/13/arxiv-1703-04550</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Comparison of echo state network output layer classification methods on   noisy data</title>
+   <link href="http://localhost:4000/2017/03/13/arxiv-1703-04496/"/>
+   <updated>2017-03-13T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/03/13/arxiv-1703-04496</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>End-to-End Learning of Geometry and Context for Deep Stereo Regression</title>
+   <link href="http://localhost:4000/2017/03/13/arxiv-1703-04309/"/>
+   <updated>2017-03-13T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/03/13/arxiv-1703-04309</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tree Memory Networks for Modelling Long-term Temporal Dependencies</title>
+   <link href="http://localhost:4000/2017/03/12/arxiv-1703-04706/"/>
+   <updated>2017-03-12T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/03/12/arxiv-1703-04706</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Robustness from structure: Inference with hierarchical spiking networks   on analog neuromorphic hardware</title>
+   <link href="http://localhost:4000/2017/03/12/arxiv-1703-04145/"/>
+   <updated>2017-03-12T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/03/12/arxiv-1703-04145</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Compact DNN: Approaching GoogLeNet-Level Accuracy of Classification   and Domain Adaptation</title>
+   <link href="http://localhost:4000/2017/03/12/arxiv-1703-04071/"/>
+   <updated>2017-03-12T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/03/12/arxiv-1703-04071</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A norm knockout method on indirect reciprocity to reveal indispensable   norms</title>
+   <link href="http://localhost:4000/2017/03/11/arxiv-1703-03943/"/>
+   <updated>2017-03-11T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/03/11/arxiv-1703-03943</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ask Me Even More: Dynamic Memory Tensor Networks (Extended Model)</title>
+   <link href="http://localhost:4000/2017/03/11/arxiv-1703-03939/"/>
+   <updated>2017-03-11T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/03/11/arxiv-1703-03939</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Evolution Strategies as a Scalable Alternative to Reinforcement Learning</title>
+   <link href="http://localhost:4000/2017/03/10/arxiv-1703-03864/"/>
+   <updated>2017-03-10T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/03/10/arxiv-1703-03864</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Convolutional Spike Timing Dependent Plasticity based Feature Learning   in Spiking Neural Networks</title>
+   <link href="http://localhost:4000/2017/03/10/arxiv-1703-03854/"/>
+   <updated>2017-03-10T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/03/10/arxiv-1703-03854</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Evolutionary Image Composition Using Feature Covariance Matrices</title>
+   <link href="http://localhost:4000/2017/03/10/arxiv-1703-03773/"/>
+   <updated>2017-03-10T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/03/10/arxiv-1703-03773</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Integer Factorization with a Neuromorphic Sieve</title>
+   <link href="http://localhost:4000/2017/03/10/arxiv-1703-03768/"/>
+   <updated>2017-03-10T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/03/10/arxiv-1703-03768</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Parallel Multiscale Autoregressive Density Estimation</title>
+   <link href="http://localhost:4000/2017/03/10/arxiv-1703-03664/"/>
+   <updated>2017-03-10T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/03/10/arxiv-1703-03664</id>
+   <content type="html">
+</content>
+ </entry>
  
  <entry>
    <title>Doom Bots in TensorFlow</title>
@@ -76,6 +373,42 @@
  </entry>
  
  <entry>
+   <title>Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks</title>
+   <link href="http://localhost:4000/2017/03/09/arxiv-1703-03400/"/>
+   <updated>2017-03-09T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/03/09/arxiv-1703-03400</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>LesionSeg: Semantic segmentation of skin lesions using Deep   Convolutional Neural Network</title>
+   <link href="http://localhost:4000/2017/03/09/arxiv-1703-03372/"/>
+   <updated>2017-03-09T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/03/09/arxiv-1703-03372</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fast Genetic Algorithms</title>
+   <link href="http://localhost:4000/2017/03/09/arxiv-1703-03334/"/>
+   <updated>2017-03-09T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/03/09/arxiv-1703-03334</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Structured Self-attentive Sentence Embedding</title>
+   <link href="http://localhost:4000/2017/03/09/arxiv-1703-03130/"/>
+   <updated>2017-03-09T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/03/09/arxiv-1703-03130</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
    <title>Netflix’s new AI tweaks each scene individually to make video look good even on slow internet</title>
    <link href="http://localhost:4000/news/2017/03/09/7r4d0jlpvfwq3yy8mxhamm42t9/"/>
    <updated>2017-03-09T00:00:00+02:00</updated>
@@ -134,6 +467,69 @@
    <link href="http://localhost:4000/news/2017/03/09/23ubi8xuz25fwbiba7oz2gldi/"/>
    <updated>2017-03-09T00:00:00+02:00</updated>
    <id>http://localhost:4000/news/2017/03/09/23ubi8xuz25fwbiba7oz2gldi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Deep Reservoir Computing Using Cellular Automata</title>
+   <link href="http://localhost:4000/2017/03/08/arxiv-1703-02806/"/>
+   <updated>2017-03-08T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/03/08/arxiv-1703-02806</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Byzantine-Tolerant Machine Learning</title>
+   <link href="http://localhost:4000/2017/03/08/arxiv-1703-02757/"/>
+   <updated>2017-03-08T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/03/08/arxiv-1703-02757</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Large-scale image analysis using docker sandboxing</title>
+   <link href="http://localhost:4000/2017/03/07/arxiv-1703-02898/"/>
+   <updated>2017-03-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/03/07/arxiv-1703-02898</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Customer Life Time Value Prediction Using Embeddings</title>
+   <link href="http://localhost:4000/2017/03/07/arxiv-1703-02596/"/>
+   <updated>2017-03-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/03/07/arxiv-1703-02596</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>End-to-End Prediction of Buffer Overruns from Raw Source Code via Neural   Memory Networks</title>
+   <link href="http://localhost:4000/2017/03/07/arxiv-1703-02458/"/>
+   <updated>2017-03-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/03/07/arxiv-1703-02458</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Design of the Artificial: lessons from the biological roots of general   intelligence</title>
+   <link href="http://localhost:4000/2017/03/07/arxiv-1703-02245/"/>
+   <updated>2017-03-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/03/07/arxiv-1703-02245</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>On the Expressive Power of Overlapping Operations of Deep Networks</title>
+   <link href="http://localhost:4000/2017/03/06/arxiv-1703-02065/"/>
+   <updated>2017-03-06T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2017/03/06/arxiv-1703-02065</id>
    <content type="html">
 </content>
  </entry>
