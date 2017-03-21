@@ -4,13 +4,148 @@
  <title>Macaw AI</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2017-03-16T11:20:48+02:00</updated>
+ <updated>2017-03-21T15:11:52+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Michael Anderson & Clint Walker</name>
    <email>themacawai@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>SwiftScribe.ai</title>
+   <link href="http://localhost:4000/other/2017/03/21/pagkr71ztnayl74onwjh2rzfr/"/>
+   <updated>2017-03-21T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/03/21/pagkr71ztnayl74onwjh2rzfr</id>
+   <content type="html">&lt;p&gt;Baidu’s new AI transcription service&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Log analysis made easy with AI - so you can totally ignore your logs now</title>
+   <link href="http://localhost:4000/other/2017/03/21/0p4ej16m3lasgxjewdwg8bmx6r/"/>
+   <updated>2017-03-21T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/03/21/0p4ej16m3lasgxjewdwg8bmx6r</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>DeepMind made ‘inexcusable’ errors handling UK health data, says report</title>
+   <link href="http://localhost:4000/news/2017/03/18/zi69ooenodvj2cahczlkawcdi/"/>
+   <updated>2017-03-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/18/zi69ooenodvj2cahczlkawcdi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>YCombinator launches its AI vertical</title>
+   <link href="http://localhost:4000/news/2017/03/18/sef6lba2sahf689wxgxmvx6r/"/>
+   <updated>2017-03-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/18/sef6lba2sahf689wxgxmvx6r</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Distill: visual, interactive machine learning journal</title>
+   <link href="http://localhost:4000/news-feature/2017/03/18/porzekxaodwg3jdyj4kbakyb9/"/>
+   <updated>2017-03-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news-feature/2017/03/18/porzekxaodwg3jdyj4kbakyb9</id>
+   <content type="html">&lt;p&gt;“Machine Learning Research Should Be Clear, Dynamic and Vivid.” - so say hello to &lt;a href=&quot;http://distill.pub/about/&quot;&gt;&lt;strong&gt;Distill&lt;/strong&gt;, a visual interactive journal for machine learning research&lt;/a&gt; to be presented in a way that is intended for human understanding. With so many ML articles contributing to the pile of ‘research debt’ (produced when people rush out new discoveries without putting effort into communication), Distill is positioning as an antidote to that. Clarity is the goal, and it does a great job at providing visualisations that can really help build intuitive understandings of what techniques do, and what’s appropriate where. Bravo Team Distill!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Overcoming Catastrophic Forgetting in Neural Networks</title>
+   <link href="http://localhost:4000/other/2017/03/18/o0cxd55p8hvzm18uc1pvkuik9/"/>
+   <updated>2017-03-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/03/18/o0cxd55p8hvzm18uc1pvkuik9</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Nematus: a Toolkit for Neural Machine Translation</title>
+   <link href="http://localhost:4000/research/2017/03/18/njnglvmq1w6rr41hr9s1hsemi/"/>
+   <updated>2017-03-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/research/2017/03/18/njnglvmq1w6rr41hr9s1hsemi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>&quot;The Mobile Internet Is Over&quot;. Baidu Goes All In on AI</title>
+   <link href="http://localhost:4000/news/2017/03/18/ma3jflhfci356fxs97u3gcik9/"/>
+   <updated>2017-03-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/18/ma3jflhfci356fxs97u3gcik9</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Why AlphaGo is not AI (redux: &quot;No robotics&quot;)</title>
+   <link href="http://localhost:4000/news/2017/03/18/fezrencmqioldf6ujjku1h5mi/"/>
+   <updated>2017-03-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/18/fezrencmqioldf6ujjku1h5mi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Using legacy ‘human-centric’ traffic surveillance systems for machine learning</title>
+   <link href="http://localhost:4000/news/2017/03/18/eu1wnhr0h2gynw6g81g3w61or/"/>
+   <updated>2017-03-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/18/eu1wnhr0h2gynw6g81g3w61or</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>DeepMind in talks with National Grid to reduce UK energy use by 10%</title>
+   <link href="http://localhost:4000/news/2017/03/18/e4nmigoakfahxpxj361935wmi/"/>
+   <updated>2017-03-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/18/e4nmigoakfahxpxj361935wmi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Learning to Communicate with Deep Multi-Agent Reinforcement Learning</title>
+   <link href="http://localhost:4000/other/2017/03/18/b2bpwsxajwdr2aide86hguv7vi/"/>
+   <updated>2017-03-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/03/18/b2bpwsxajwdr2aide86hguv7vi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>End-to-End Prediction of Buffer Overruns from Raw Source Code via Neural Memory Networks</title>
+   <link href="http://localhost:4000/research/2017/03/18/ated9mawovbipd0tlagd5cdi/"/>
+   <updated>2017-03-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/research/2017/03/18/ated9mawovbipd0tlagd5cdi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Building safe AI - a tutorial for Encrypted Deep Learning</title>
+   <link href="http://localhost:4000/news/2017/03/18/947lqe056x2c8lkm4g6lce4s4i/"/>
+   <updated>2017-03-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/18/947lqe056x2c8lkm4g6lce4s4i</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Improving Bayesian Reasoning: What Works and Why?</title>
+   <link href="http://localhost:4000/other/2017/03/18/6wfcp1lxu2f3kyt8el4p74x6r/"/>
+   <updated>2017-03-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/03/18/6wfcp1lxu2f3kyt8el4p74x6r</id>
+   <content type="html">
+</content>
+ </entry>
  
  <entry>
    <title>Enabling Continual Learning in Neural Networks</title>
