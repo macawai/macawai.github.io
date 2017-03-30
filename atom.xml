@@ -4,13 +4,184 @@
  <title>Macaw AI</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2017-03-21T15:11:52+02:00</updated>
+ <updated>2017-03-30T15:46:17+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Michael Anderson & Clint Walker</name>
    <email>themacawai@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Neuromorphic, Quantum, Supercomputing Mesh for Deep Learning</title>
+   <link href="http://localhost:4000/news/2017/03/30/w634jyll5ig8uzbefuco3l3di/"/>
+   <updated>2017-03-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/30/w634jyll5ig8uzbefuco3l3di</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Google’s AI Explosion in One Chart</title>
+   <link href="http://localhost:4000/news/2017/03/30/v4tegnrfbpl987uh3i23gnwmi/"/>
+   <updated>2017-03-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/30/v4tegnrfbpl987uh3i23gnwmi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Deep Photo Style transfer</title>
+   <link href="http://localhost:4000/other/2017/03/30/sv5x3ewmoxs7m5nbfzu84cxr/"/>
+   <updated>2017-03-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/03/30/sv5x3ewmoxs7m5nbfzu84cxr</id>
+   <content type="html">&lt;p&gt;Really cool style transfer techniques from this &lt;a href=&quot;https://arxiv.org/abs/1703.07511&quot;&gt;research paper&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Magenta - Music and art generation with Machine Intelligence</title>
+   <link href="http://localhost:4000/other/2017/03/30/ss0y7gecuop7cqcded1vsfw29/"/>
+   <updated>2017-03-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/03/30/ss0y7gecuop7cqcded1vsfw29</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>AI vs MD - what happens when diagnosis is automated?</title>
+   <link href="http://localhost:4000/news/2017/03/30/sotc38iuu4xbnmt51vtv5cdi/"/>
+   <updated>2017-03-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/30/sotc38iuu4xbnmt51vtv5cdi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A 6 minute intro to AI</title>
+   <link href="http://localhost:4000/news/2017/03/30/seq2k24mjv15plak97fi27qfr/"/>
+   <updated>2017-03-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/30/seq2k24mjv15plak97fi27qfr</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>TensorFlow as a Distributed Virtual Machine</title>
+   <link href="http://localhost:4000/news/2017/03/30/qior0yfp0d8tzpm0pqqfflxr/"/>
+   <updated>2017-03-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/30/qior0yfp0d8tzpm0pqqfflxr</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Elon Musk’s Neuralink wants to boost the brain to keep up with AI</title>
+   <link href="http://localhost:4000/news/2017/03/30/pup3evyf9ctz721twiqdoyldi/"/>
+   <updated>2017-03-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/30/pup3evyf9ctz721twiqdoyldi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Classifying White Blood Cells With Deep Learning</title>
+   <link href="http://localhost:4000/other/2017/03/30/nt4fx98fuoehrybzl2uzncdi/"/>
+   <updated>2017-03-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/03/30/nt4fx98fuoehrybzl2uzncdi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Rise of AI Makes Emotional Intelligence More Important</title>
+   <link href="http://localhost:4000/news/2017/03/30/klfoo04fouw71a0bvlrfwdn29/"/>
+   <updated>2017-03-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/30/klfoo04fouw71a0bvlrfwdn29</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Delbot: Building An NLP-Based, Voice-Driven Bot From Scratch in Python</title>
+   <link href="http://localhost:4000/other/2017/03/30/g8u8os4nmxlb9gg3463ymbo6r/"/>
+   <updated>2017-03-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/03/30/g8u8os4nmxlb9gg3463ymbo6r</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Arrival of Artificial Intelligence</title>
+   <link href="http://localhost:4000/news/2017/03/30/g7l0k9o1wgnbblaacwka9k9/"/>
+   <updated>2017-03-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/30/g7l0k9o1wgnbblaacwka9k9</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>ML production pipelines - discussion on HN</title>
+   <link href="http://localhost:4000/other/2017/03/30/b8l4f1d9hprl4gh4joto3whfr/"/>
+   <updated>2017-03-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/03/30/b8l4f1d9hprl4gh4joto3whfr</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>New institute aims to make Toronto an ‘intellectual centre’ of AI capability</title>
+   <link href="http://localhost:4000/news/2017/03/30/ae4maef5k8zlgh0i5v5dfxyldi/"/>
+   <updated>2017-03-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/30/ae4maef5k8zlgh0i5v5dfxyldi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The AI Misinformation Epidemic</title>
+   <link href="http://localhost:4000/news/2017/03/30/7voh26ambxvgjkfkdblx22zkt9/"/>
+   <updated>2017-03-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/30/7voh26ambxvgjkfkdblx22zkt9</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tacotron audio samples - generative text-to-speech</title>
+   <link href="http://localhost:4000/other/2017/03/30/7hsgmemr86htc18i5cpfa8aor/"/>
+   <updated>2017-03-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/03/30/7hsgmemr86htc18i5cpfa8aor</id>
+   <content type="html">&lt;p&gt;From the &lt;a href=&quot;https://arxiv.org/abs/1703.10135&quot;&gt;research paper&lt;/a&gt; for an end to end text-to-speech synthesis model&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fast.ai Practical Deep Learning For Coders</title>
+   <link href="http://localhost:4000/other/2017/03/30/734s4kki09hdav6ean12a9k9/"/>
+   <updated>2017-03-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/03/30/734s4kki09hdav6ean12a9k9</id>
+   <content type="html">&lt;p&gt;Build state of the art models without needing graduate-level math—but also without dumbing anything down.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>DeepStack: Expert-Level Artificial Intelligence in Heads-Up No-Limit Poker</title>
+   <link href="http://localhost:4000/news/2017/03/30/6yvrcbe95auvbzyrsi6gsnhfr/"/>
+   <updated>2017-03-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/03/30/6yvrcbe95auvbzyrsi6gsnhfr</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Deep Learning without Backpropagation - DeepMind's Synthetic Gradients</title>
+   <link href="http://localhost:4000/news-feature/2017/03/30/3w38fh5a0xv6um1vp8k6gvi/"/>
+   <updated>2017-03-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news-feature/2017/03/30/3w38fh5a0xv6um1vp8k6gvi</id>
+   <content type="html">&lt;p&gt;A pretty cool hands-on prototype DeepMind’s recently proposed &lt;a href=&quot;https://arxiv.org/pdf/1608.05343.pdf&quot;&gt;Decoupled Neural Interfaces Using Synthetic Gradients&lt;/a&gt; paper. The basic idea is to bypass backpropagation by having individual layers make “best guesses” (otherwise known as “synthetic gradients”) for what the data will say, and update their weights according to this guess. The upshot is that individual layers can mostly learn in isolation, increasing speed of training. This article looks at how to use and generate synthetic gradients as well as setting up a NN to play with the real thing. Enjoy!&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>SwiftScribe.ai</title>
