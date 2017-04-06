@@ -4,13 +4,121 @@
  <title>Macaw AI</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2017-03-30T15:46:17+02:00</updated>
+ <updated>2017-04-06T13:42:46+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Michael Anderson & Clint Walker</name>
    <email>themacawai@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Quantifying the performance of the TPU, our first machine learning chip </title>
+   <link href="http://localhost:4000/news/2017/04/06/zxwjajzv4aryujjmjb5wxw29/"/>
+   <updated>2017-04-06T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/04/06/zxwjajzv4aryujjmjb5wxw29</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>For Google, the AI Talent Race Leads Straight to Canada</title>
+   <link href="http://localhost:4000/news/2017/04/06/tt7jhhi5mwtdcjljl7p8bmx6r/"/>
+   <updated>2017-04-06T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/04/06/tt7jhhi5mwtdcjljl7p8bmx6r</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Grounded language is a new step towards Artificial Intelligence revealed by OpenAI</title>
+   <link href="http://localhost:4000/news/2017/04/06/pm7rnfw62r2abk2uyxbbg9zfr/"/>
+   <updated>2017-04-06T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/04/06/pm7rnfw62r2abk2uyxbbg9zfr</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Reverse engineering a $500m AI company in a week</title>
+   <link href="http://localhost:4000/news-feature/2017/04/06/jph8oe8zl053oi5f7q5fdpldi/"/>
+   <updated>2017-04-06T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news-feature/2017/04/06/jph8oe8zl053oi5f7q5fdpldi</id>
+   <content type="html">&lt;p&gt;“Nowadays everyone can take advantage of Artificial Intelligence without spending years and tons of money in R&amp;amp;D”. Putting this to the test, the author picked oPower, a smart meter engergy consumption company (acquired by Oracle), and reverse-engineered their “consumption pattern and recommendation/offer matching” features using off the shelf, open source frameworks and models, with a roughly appropriate public dataset. Result? Well, a pretty decent approximation of the value prop oPower was selling. K-mean clustering may not be “classic AI”, but hey, what is these days right?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Facebook AI Academy</title>
+   <link href="http://localhost:4000/news/2017/04/06/ew5s3b0ero63g4wmuowyaatt9/"/>
+   <updated>2017-04-06T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/04/06/ew5s3b0ero63g4wmuowyaatt9</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Practical RL</title>
+   <link href="http://localhost:4000/other/2017/04/06/cpy7kso4r6dztp4wvxre8kt9/"/>
+   <updated>2017-04-06T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/04/06/cpy7kso4r6dztp4wvxre8kt9</id>
+   <content type="html">&lt;p&gt;A course in reinforcement learning in the wild&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Udacity spin-out Voyage aims to build a full self-driving taxi business</title>
+   <link href="http://localhost:4000/news/2017/04/06/awouomjuqnhjuazjmkv86w29/"/>
+   <updated>2017-04-06T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/04/06/awouomjuqnhjuazjmkv86w29</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Why F.E.A.R.’s AI is still the best in first-person shooters</title>
+   <link href="http://localhost:4000/news/2017/04/06/9s6a9eruattacaec2djqncdi/"/>
+   <updated>2017-04-06T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/04/06/9s6a9eruattacaec2djqncdi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Why Momentum Really Works</title>
+   <link href="http://localhost:4000/news/2017/04/06/4zyf0ttexgdxfwuxyqppsyvi/"/>
+   <updated>2017-04-06T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/04/06/4zyf0ttexgdxfwuxyqppsyvi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Jupyter Notebook 5.0 released</title>
+   <link href="http://localhost:4000/other/2017/04/06/1eqipubamuaizksbas505jc3di/"/>
+   <updated>2017-04-06T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/04/06/1eqipubamuaizksbas505jc3di</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A step-by-step guide to building a simple chess AI</title>
+   <link href="http://localhost:4000/other/2017/04/01/axk54m9pc9p22f2fx3ppynwmi/"/>
+   <updated>2017-04-01T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/04/01/axk54m9pc9p22f2fx3ppynwmi</id>
+   <content type="html">&lt;p&gt;Basic concepts in creating a simple chess AI: move-gen, board eval, minimax and alpha beta pruning&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks</title>
+   <link href="http://localhost:4000/other/2017/04/01/30u6wsekwlom17cs7lax3fecdi/"/>
+   <updated>2017-04-01T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/04/01/30u6wsekwlom17cs7lax3fecdi</id>
+   <content type="html">
+</content>
+ </entry>
  
  <entry>
    <title>Neuromorphic, Quantum, Supercomputing Mesh for Deep Learning</title>
