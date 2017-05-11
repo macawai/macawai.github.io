@@ -4,13 +4,139 @@
  <title>Macaw AI</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2017-05-04T10:29:11+02:00</updated>
+ <updated>2017-05-11T12:26:10+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Michael Anderson & Clint Walker</name>
    <email>themacawai@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Scaling A.I. Hardware: A Hedge Play</title>
+   <link href="http://localhost:4000/news/2017/05/11/z7p8wmf0tdjjqhsne20ggb9/"/>
+   <updated>2017-05-11T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/05/11/z7p8wmf0tdjjqhsne20ggb9</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>LogoJoy - AI built logos</title>
+   <link href="http://localhost:4000/other/2017/05/11/yzuped5xo1f1tz8jjv5nrk9/"/>
+   <updated>2017-05-11T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/05/11/yzuped5xo1f1tz8jjv5nrk9</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Physiognomy’s New Clothes (and the limits of AI)</title>
+   <link href="http://localhost:4000/news/2017/05/11/wj1ce1kbodxosv1zx0bmlsor/"/>
+   <updated>2017-05-11T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/05/11/wj1ce1kbodxosv1zx0bmlsor</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Real or Fake? AI is making it hard to know</title>
+   <link href="http://localhost:4000/news/2017/05/11/siqs1nwevs0ely3ebtlzq6w29/"/>
+   <updated>2017-05-11T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/05/11/siqs1nwevs0ely3ebtlzq6w29</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Deep Learning’s Impact on Image Processing, Mathematics, and Humanity</title>
+   <link href="http://localhost:4000/news-feature/2017/05/11/qa1d1q66l5idrbelddjthuxr/"/>
+   <updated>2017-05-11T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news-feature/2017/05/11/qa1d1q66l5idrbelddjthuxr</id>
+   <content type="html">&lt;p&gt;A reflection on the consequences of having one tool in your box that starts to outperform every other tool. If your hammer can do everything, often better than anything else, eventually we stop bothering to make other tools. The author laments the effect of the ascent of Neural Networks as an intractable “hammer” that has transformed the research landscape, and not necessarily for the best. Are we sacrificing broad academic exploration to a new golden calf? Maybe.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>AI DAOs, and Three Paths to Get There</title>
+   <link href="http://localhost:4000/news/2017/05/11/p8eypsbj5b9deeqhtqmukrzfr/"/>
+   <updated>2017-05-11T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/05/11/p8eypsbj5b9deeqhtqmukrzfr</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Practical Machine Learning With Event Streaming</title>
+   <link href="http://localhost:4000/news/2017/05/11/mvkx0tgchr550g6rnukgldi/"/>
+   <updated>2017-05-11T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/05/11/mvkx0tgchr550g6rnukgldi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Automated Machine Learning — A Paradigm Shift That Accelerates Data Scientist Productivity</title>
+   <link href="http://localhost:4000/news/2017/05/11/m374wr4sjkieym6k6h8bbj4i/"/>
+   <updated>2017-05-11T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/05/11/m374wr4sjkieym6k6h8bbj4i</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A novel approach to neural machine translation</title>
+   <link href="http://localhost:4000/news/2017/05/11/f4ym5dtw6g4n8gaz9ekbotj4i/"/>
+   <updated>2017-05-11T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/05/11/f4ym5dtw6g4n8gaz9ekbotj4i</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Melinda Gates and Fei-Fei Li Want to Liberate AI from “Guys With Hoodies”</title>
+   <link href="http://localhost:4000/news/2017/05/11/evso6cr0p2tja0vl5km0ftj4i/"/>
+   <updated>2017-05-11T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/05/11/evso6cr0p2tja0vl5km0ftj4i</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Math for Machine Learning</title>
+   <link href="http://localhost:4000/other/2017/05/11/8k4e7ikrhw52311kd7lcsdcxr/"/>
+   <updated>2017-05-11T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/05/11/8k4e7ikrhw52311kd7lcsdcxr</id>
+   <content type="html">&lt;p&gt;Course to learn the main math and stats concepts behind AI and ML applications&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Google AIY - do-it-yourself AI for makers</title>
+   <link href="http://localhost:4000/other/2017/05/11/7wwg9fsd6a90ts83juywah5mi/"/>
+   <updated>2017-05-11T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/05/11/7wwg9fsd6a90ts83juywah5mi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Dark Secret at the Heart of AI</title>
+   <link href="http://localhost:4000/news/2017/05/11/5itqepp90fmp1154hhkg99t3xr/"/>
+   <updated>2017-05-11T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/05/11/5itqepp90fmp1154hhkg99t3xr</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>ParlAI - dialog AI research framework</title>
+   <link href="http://localhost:4000/other/2017/05/11/5ibpd2rpynzl2plhrljbhb0529/"/>
+   <updated>2017-05-11T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/05/11/5ibpd2rpynzl2plhrljbhb0529</id>
+   <content type="html">
+</content>
+ </entry>
  
  <entry>
    <title>Data Science &amp; Machine Learning Platforms for the Enterprise</title>
