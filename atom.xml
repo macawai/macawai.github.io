@@ -4,13 +4,157 @@
  <title>Macaw AI</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2017-05-11T12:26:10+02:00</updated>
+ <updated>2017-05-18T09:29:18+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Michael Anderson & Clint Walker</name>
    <email>themacawai@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Machine Learning From Scratch in 60 lines</title>
+   <link href="http://localhost:4000/news-feature/2017/05/18/zo35xca30huo8ajxi5lgzaor/"/>
+   <updated>2017-05-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news-feature/2017/05/18/zo35xca30huo8ajxi5lgzaor</id>
+   <content type="html">&lt;p&gt;Probably one of the simplest introductions to building a perceptron in Python out there. Nothing like getting into the nuts-and-bolts of what’s actually doing the lifting in your machine learning world than getting back to basics.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Cray Announces New, AI-Focused Supercomputers</title>
+   <link href="http://localhost:4000/news/2017/05/18/x64cxqatiaxbik39rmjkyb9/"/>
+   <updated>2017-05-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/05/18/x64cxqatiaxbik39rmjkyb9</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The a16z AI Playbook</title>
+   <link href="http://localhost:4000/other/2017/05/18/w5uwnxk90u3bqfzcjei885mi/"/>
+   <updated>2017-05-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/05/18/w5uwnxk90u3bqfzcjei885mi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Google’s AI Invents Sounds Humans Have Never Heard Before</title>
+   <link href="http://localhost:4000/news/2017/05/18/tu0l959qalfiwrj285vkro1or/"/>
+   <updated>2017-05-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/05/18/tu0l959qalfiwrj285vkro1or</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Aerosolve - A machine learning package built for humans</title>
+   <link href="http://localhost:4000/other/2017/05/18/r7acvbnuk2xtxlwrb5fhzd7vi/"/>
+   <updated>2017-05-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/05/18/r7acvbnuk2xtxlwrb5fhzd7vi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Machine Learning from xkcd</title>
+   <link href="http://localhost:4000/other/2017/05/18/qtl0nmrmj5nzmr1wyhzxv42t9/"/>
+   <updated>2017-05-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/05/18/qtl0nmrmj5nzmr1wyhzxv42t9</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Neural Architecture Search with Reinforcement Learning</title>
+   <link href="http://localhost:4000/research/2017/05/18/n954576y04tsbpurxqpbke29/"/>
+   <updated>2017-05-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/research/2017/05/18/n954576y04tsbpurxqpbke29</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How we built Tagger News: machine learning on a tight schedule</title>
+   <link href="http://localhost:4000/news/2017/05/18/n1zvr314n0k3601cev5zv9529/"/>
+   <updated>2017-05-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/05/18/n1zvr314n0k3601cev5zv9529</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Machine learning driven Web Application Firewall</title>
+   <link href="http://localhost:4000/news/2017/05/18/mw8a9ncu1y65r571mb4fjq0k9/"/>
+   <updated>2017-05-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/05/18/mw8a9ncu1y65r571mb4fjq0k9</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A deep reinforced model for abstractive summarization</title>
+   <link href="http://localhost:4000/news/2017/05/18/mcdwdbgc7wcpolb5ph6r2uik9/"/>
+   <updated>2017-05-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/05/18/mcdwdbgc7wcpolb5ph6r2uik9</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Analyzing 10 years of startup news with Machine Learning</title>
+   <link href="http://localhost:4000/news/2017/05/18/h0ost9hbncidyhzhyyuhoxbt9/"/>
+   <updated>2017-05-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/05/18/h0ost9hbncidyhzhyyuhoxbt9</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Why NVIDIA Is Building Its Own TPU</title>
+   <link href="http://localhost:4000/news/2017/05/18/e3zv54mzo3ioig1npdo7jh5mi/"/>
+   <updated>2017-05-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/05/18/e3zv54mzo3ioig1npdo7jh5mi</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Machine Learning 101</title>
+   <link href="http://localhost:4000/other/2017/05/18/a35dhjoqc9tzd2g3nj3gmhd7vi/"/>
+   <updated>2017-05-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/05/18/a35dhjoqc9tzd2g3nj3gmhd7vi</id>
+   <content type="html">&lt;p&gt;Because you always need more 101s&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Using AI to Combat the Menace of “Fake Accounts” on Social Media</title>
+   <link href="http://localhost:4000/news/2017/05/18/7prqy56polyr41ngnajlq2rzfr/"/>
+   <updated>2017-05-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/05/18/7prqy56polyr41ngnajlq2rzfr</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Google Rattles the Tech World With a New AI Chip for All</title>
+   <link href="http://localhost:4000/news/2017/05/18/5acax6r6pep0288nsvyxr5p14i/"/>
+   <updated>2017-05-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/05/18/5acax6r6pep0288nsvyxr5p14i</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Google.ai</title>
+   <link href="http://localhost:4000/other/2017/05/18/3y3rzfsiqk8hfrrmpzm2t9/"/>
+   <updated>2017-05-18T00:00:00+02:00</updated>
+   <id>http://localhost:4000/other/2017/05/18/3y3rzfsiqk8hfrrmpzm2t9</id>
+   <content type="html">&lt;p&gt;Bringing the benefits of AI to everyone&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Scaling A.I. Hardware: A Hedge Play</title>
